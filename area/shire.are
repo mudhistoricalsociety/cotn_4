@@ -1,0 +1,150 @@
+#AREADATA
+Name        Anon    The Shire~
+Builders    None~
+Music       default.mid~
+VNUMs       1100 1101
+Cvnum       0
+Security    3
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#1100
+elven wizard~
+the Elven Wizard~
+An Elven Wizard is here, creating fireworks for the festivities.
+~
+The Elven Wizard looks at you in a solemn sort of way.  His gaze seems to
+penetrate through your innermost being.  He is wearing a silvery cloak
+and holding a multi-colored staff.  Although he appears to be older
+than the oldest man, he seems to have an inner strength which most mortals
+cannot overcome.
+~
+67 8 500
+70 0 0 0
+1 0
+0
+0
+#1101
+ring keeper~
+the Keeper of the Ring~
+The Keeper of the Ring is here, guarding his treasure jealously.
+~
+The Ring Keeper is a rather big but short halfling.  His short stature and
+bulbous nose belie his true nature.  An elven sword that glows with a blue
+light hangs from his belt, and on his finger you see the One Ring.  Although
+usually a halfling of peace, he will fight you to the death if you attempt
+to take away that which belongs to him.
+~
+67 10 0
+64 0 0 0
+1 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#1100
+rainbow staff~
+the rainbow staff~
+The rainbow staff lies here.~
+1 64 0 1
+0 0 0
+0 0 -1 0
+8 5000
+A
+4 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1101
+sting~
+sting~
+Sting lies here.~
+5 1027 0 8193
+0 0 0
+0 2 7 10
+1 10000
+A
+2 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#1100
+A dimly lit path~
+You tread through the deep, dark forest on a dimly lit path.  Up ahead you
+can hear the faint sounds of a village.
+~
+0 3 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+The dimly lit path leads north through the dense forest.
+~
+~
+0 -1 1101
+S
+#1101
+A dimly lit path~
+You tread through the deep, dark forest on a dimly lit path.  Up ahead you
+can hear the faint sounds of a village.
+~
+0 3 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+The dimly lit path leads north through the dense forest.
+~
+~
+0 -1 1102
+D2
+The dimly lit path leads south through the dense forest.
+~
+~
+0 -1 1100
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+M 1100 spec_cast_mage
+M 1101 spec_poison
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

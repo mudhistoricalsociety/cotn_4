@@ -1,0 +1,193 @@
+#AREADATA
+Name        Sigils~
+Builders    Hutoshi~
+Music       default.mid~
+VNUMs       11059 11099
+Cvnum       0
+Security    1
+Areabits    0
+SecType  0
+WeatAl  0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#11059
+sigil vitality~
+#WSigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#n~
+#WA Sigil of #CV#ci#Ct#ca#Cl#ci#Ct#cy#W lies here.#n~
+59 256 0 16385
+0 0 2
+none~
+none~
+0 0 0 0 0 1000 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11060
+sigil accuracy~
+#WSigil of #rA#Rccuracy#n~
+#WA Sigil of #rA#Rccuracy #W lies here.#n~
+59 256 0 16385
+0 0 2
+none~
+none~
+0 0 0 0 0 0 100 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11061
+sigil damage~
+#WSigil of #YD#Ra#Ym#Ra#Yg#Re#n~
+#WA Sigil of #YD#Ra#Ym#Ra#Yg#Re#W lies here.#n~
+59 256 0 16385
+0 0 2
+none~
+none~
+0 0 0 0 0 0 0 100 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11062
+sigil speed~
+#WSigil of #LS#Cp#We#Ce#Ld#n~
+#WA Sigil of #LS#Cp#We#Ce#Ld#W lies here.#n~
+59 256 0 16385
+0 0 2
+none~
+none~
+1 0 0 0 0 0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11063
+sigil fire~
+#WSigil of #RF#rire#n~
+#WA Sigil of #RF#rire#W lies here.#n~
+59 256 0 16385
+0 0 2
+none~
+none~
+0 1 0 0 0 0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11064
+sigil water~
+#WSigil of #LW#later#n~
+#WA Sigil of #LW#later#W lies here.#n~
+59 256 0 16385
+0 0 2
+none~
+none~
+0 0 1 0 0 0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11065
+sigil lightning~
+#WSigil of #YL#oightning#n~
+#WA Sigil of #YL#oightning#W lies here.#n~
+59 256 0 16385
+0 0 2
+none~
+none~
+0 0 0 1 0 0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11066
+sigil earth~
+#WSigil of #GE#garth#n~
+#WA Sigil of #GE#garth#W lies here.#n~
+59 256 0 16385
+0 0 2
+none~
+none~
+0 0 0 0 1 0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

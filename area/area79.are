@@ -1,0 +1,186 @@
+#AREADATA
+Name        Finvarras kingdom~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40600 40699
+Cvnum       0
+Security    1
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#40600
+guardian damnation~
+Guardian of #WD#0a#Wm#0n#Wa#0t#Wi#0o#Wn#n~
+Guardian of #WD#0a#Wm#0n#Wa#0t#Wi#0o#Wn#n stands here
+~
+~
+98323 8360 0
+3999 75 20 3
+0 0
+0
+0
+#40601
+healer damnation~
+Healer of #WD#0a#Wm#0n#Wa#0t#Wi#0o#Wn#n~
+Healer of #WD#0a#Wm#0n#Wa#0t#Wi#0o#Wn#n rest here
+~
+~
+101395 128 0
+3987 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#40600
+Entrance of #WD#0a#Wm#0n#Wa#0t#Wi#0o#Wn#n~
+~
+1048582 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081541784 
+D4
+~
+~
+0 0 4770
+S
+#40601
+#0Fortress #wof #w[#0Et#we#7rn#wi#0ty#w]#n~
+~
+1048582 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40602
+D1
+~
+~
+0 0 40603
+D2
+~
+~
+0 0 40604
+D3
+~
+~
+0 0 40605
+D4
+~
+~
+0 0 30608
+S
+#40602
+#w[#0Ancient Library#w]#n~
+~
+1048582 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 40601
+S
+#40603
+#w[#0Obsidian Chambers#w]#n~
+~
+1048582 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 40601
+S
+#40604
+#0Fortress #wof #w[#0Et#we#7rn#wi#0ty#w]#n~
+~
+1048582 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40601
+D1
+~
+~
+0 0 40606
+D3
+~
+~
+0 0 40607
+S
+#40605
+#w[#0Death Chamber#w]#n~
+~
+1048582 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40601
+S
+#40606
+#w[#0Spare Room#w]#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 40604
+S
+#40607
+#w[#0Spare Room#w]#n~
+~
+1048582 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40604
+S
+#40608
+#w[#0Healer's Quarters#w]#n~
+~
+1048582 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+M 40600 spec_guard_four
+M 40601 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 40601 1 40600
+M 0 40600 1 40600
+M 0 40601 1 40608
+S
+
+
+
+#$

@@ -1,0 +1,59 @@
+#AREADATA
+Name        Darivale Thael~
+Builders    Nyvar~
+Music       default.mid~
+VNUMs       101600 101900
+Cvnum       0
+Security    1
+Areabits    25
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#101600
+#r)#0)#YDarivale Thael#0(#r(#n~
+A large, black iron gate swings back and forth as the haunting winds blow
+by. Many tents can be seen in the distance as well as some booths of various
+sorts. Quick flashes of people move back and forth from one area to another
+as some kids scream in the distant background. 
+~
+4 1 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082024228 
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

@@ -1,0 +1,479 @@
+#AREADATA
+Name        Arena~
+Builders    None~
+Music       default.mid~
+VNUMs       200 299
+Cvnum       0
+Security    1
+Areabits    0
+SecType  0
+WeatAl  0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#200
+The Cage~
+You are standing in the cage. Time to Spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 201
+D1
+~
+~
+0 -1 211
+D3
+~
+~
+0 -1 214
+D4
+~
+~
+0 -1 204
+S
+#201
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 208
+D1
+~
+~
+0 -1 210
+D2
+~
+~
+0 -1 200
+D3
+~
+~
+0 -1 202
+D4
+~
+~
+0 -1 203
+S
+#202
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 207
+D1
+~
+~
+0 -1 201
+D2
+~
+~
+0 -1 214
+D4
+~
+~
+0 -1 216
+S
+#203
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 213
+D1
+~
+~
+0 -1 206
+D2
+~
+~
+0 -1 204
+D3
+~
+~
+0 -1 216
+D5
+~
+~
+0 -1 201
+S
+#204
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 203
+D1
+~
+~
+0 -1 205
+D3
+~
+~
+0 -1 217
+D5
+~
+~
+0 -1 200
+S
+#205
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 206
+D3
+~
+~
+0 -1 204
+D5
+~
+~
+0 -1 211
+S
+#206
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 209
+D2
+~
+~
+0 -1 205
+D3
+~
+~
+0 -1 203
+D5
+~
+~
+0 -1 210
+S
+#207
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 -1 208
+D2
+~
+~
+0 -1 202
+D4
+~
+~
+0 -1 215
+S
+#208
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 -1 212
+D2
+~
+~
+0 -1 201
+D3
+~
+~
+0 -1 207
+D4
+~
+~
+0 -1 213
+S
+#209
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 -1 206
+D3
+~
+~
+0 -1 213
+D5
+~
+~
+0 -1 212
+S
+#210
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 212
+D2
+~
+~
+0 -1 211
+D3
+~
+~
+0 -1 201
+D4
+~
+~
+0 -1 206
+S
+#211
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 210
+D3
+~
+~
+0 -1 200
+D4
+~
+~
+0 -1 205
+S
+#212
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 -1 210
+D3
+~
+~
+0 -1 208
+D4
+~
+~
+0 -1 209
+S
+#213
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 -1 209
+D2
+~
+~
+0 -1 203
+D3
+~
+~
+0 -1 215
+D5
+~
+~
+0 -1 208
+S
+#214
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 202
+D1
+~
+~
+0 -1 200
+D4
+~
+~
+0 -1 217
+S
+#215
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 -1 213
+D2
+~
+~
+0 -1 216
+D5
+~
+~
+0 -1 207
+S
+#216
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 215
+D1
+~
+~
+0 -1 203
+D2
+~
+~
+0 -1 217
+D5
+~
+~
+0 -1 202
+S
+#217
+The Cage~
+You are standing in the arena. Time to spill some blood!
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 216
+D1
+~
+~
+0 -1 204
+D5
+~
+~
+0 -1 214
+S
+#218
+The Pit~
+You are standing in a dark pit.
+~
+1188358 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 217
+S
+#219
+The Loser's Resting Place~
+Defeat! You slump to the ground and drift off into a deep, embarassed sleep.
+~
+1188354 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 3054
+S
+#220
+The Winner's Circle~
+Onlookers cheer you and toss roses in your direction. A feeling of great pride fills your chest and you smile 
+triumphantly.
+~
+1188354 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 -1 3054
+S
+#221
+Arena Waiting Room~
+~
+1188870 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

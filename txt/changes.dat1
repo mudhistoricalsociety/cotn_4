@@ -1,0 +1,1003 @@
+167
+(null)~
+(null)~
+(null)~
+(null)~
+0
+
+Newbie zone is done~
+Terrien~
+02/06/2004~
+Area~
+1076120680
+
+all class equ is now in the respective shops!~
+Meredith~
+02/09/2004~
+Area~
+1076373114
+
+Elemental Canyon has be redone, have fun. :)~
+Terrien~
+02/11/2004~
+Area~
+1076542232
+
+Kinda went over town and redid room names, hope you enjoy :)~
+Terrien~
+02/12/2004~
+Area~
+1076637672
+
+Going through class eq, if you wanna keep up with whats being changed help class and go down the list. That is the order i'm going in, i am currently just done with drow. EXPECT MORE. :)~
+Terrien~
+02/12/2004~
+Area~
+1076639682
+
+Put the code back up, finally :)~
+Zarius~
+07/06/2004~
+Code~
+1089149570
+
+You can see your set messages by typing config~
+Zarius~
+07/06/2004~
+Code~
+1089151558
+
+to see an item at the store without buying type #GIDENT #W(Item ##)#n~
+Zarius~
+07/06/2004~
+Code~
+1089159092
+
+Added in Companions that level~
+Zarius~
+07/22/2004~
+Code~
+1090543795
+
+added godwars languages type #WSPEAK#n~
+Zarius~
+07/22/2004~
+Code~
+1090543864
+
+Jedi's auto defense skills fixed by Hutoshi~
+Zarius~
+07/22/2004~
+Code~
+1090543884
+
+Sigil base code implemented by Hutoshi~
+Zarius~
+07/22/2004~
+Code~
+1090543903
+
+CPrime imm command added by Hutoshi~
+Zarius~
+07/22/2004~
+Code~
+1090543921
+
+Jedi Perception for scry fixed by Hutoshi~
+Zarius~
+07/22/2004~
+Code~
+1090543933
+
+resistance groundwork laid, type #RRESIST#n~
+Zarius~
+07/22/2004~
+Code~
+1090543962
+
+fixed ident spell corruption~
+Zarius~
+07/23/2004~
+Code~
+1090648732
+
+Sigil code now in and operational.  We will announce when sigils will be dispursed.  #WSee helpfile #Lhelp sigil#n~
+Hutoshi~
+07/23/2004~
+Code~
+1090649133
+
+Sigil affects now added to do_ostat and identify spell.~
+Hutoshi~
+07/24/2004~
+Code~
+1090709403
+
+All common sigils listed have been created.~
+Hutoshi~
+07/30/2004~
+Code~
+1091221753
+
+All Elemental sigils listed have been created.~
+Hutoshi~
+07/30/2004~
+Code~
+1091222136
+
+Brief 4 will now toggle companion gain messages.~
+Hutoshi~
+07/30/2004~
+Code~
+1091254648
+
+Companions will no longer be forgeable.~
+Hutoshi~
+07/30/2004~
+Code~
+1091254814
+
+Sigils will now randomly pop on mobs.  Elemental portion of Sigils are not complete.~
+Hutoshi~
+07/31/2004~
+Code~
+1091259804
+
+You can now buy badgers at the midgaard petshop~
+Zarius~
+08/03/2004~
+Area~
+1091565023
+
+Autosigil now implemented~
+Hutoshi~
+08/12/2004~
+Code~
+1092377761
+
+Lowered rate of Sigil popping on mobs.~
+Hutoshi~
+08/12/2004~
+Code~
+1092377777
+
+Sigil will now properly set stats.~
+Hutoshi~
+08/12/2004~
+Code~
+1092378551
+
+Familiars no longer heal you~
+Zarius~
+08/15/2004~
+Code~
+1092600442
+
+Sigil code fully implemented.~
+Hutoshi~
+08/19/2004~
+Code~
+1092948478
+
+Can now train more than 10 immunities/resistances~
+Hutoshi~
+04/27/2005~
+Code~
+1114615137
+
+Newbies can use lagless berserk~
+Hutoshi~
+04/27/2005~
+Code~
+1114615148
+
+All new chars will now start with 200 on all stances, spells, and weapons~
+Hutoshi~
+04/27/2005~
+Code~
+1114621807
+
+All new chars will start with 100k hp/mana/move~
+Hutoshi~
+04/27/2005~
+Code~
+1114621875
+
+New chars will now recieve 2 billion exp upon starting.~
+Hutoshi~
+04/27/2005~
+Code~
+1114621966
+
+stances, spell, weapons, stats, exp will bonus for new chars will only last until friday.~
+Hutoshi~
+04/27/2005~
+Rule~
+1114623166
+
+You are only allowed 3 chars to be reimbursed.  If you create more than 3 new chars all chars will be deleted.~
+Hutoshi~
+04/27/2005~
+Rule~
+1114623193
+
+Added rank and legend~
+Hutoshi~
+04/27/2005~
+Code~
+1114648438
+
+Rank currently only adds 50 damcap per level~
+Hutoshi~
+04/27/2005~
+Code~
+1114648674
+
+Rank and legend removed~
+Hutoshi~
+04/27/2005~
+Code~
+1114649024
+
+Upped giants a tad~
+Hutoshi~
+04/27/2005~
+Code~
+1114649851
+
+Giants are closed.  Only Finvarra may help me test.  Do not pk~
+Hutoshi~
+04/28/2005~
+Rule~
+1114701365
+
+statistics added to who and mudstat.~
+Xrakisis~
+04/28/2005~
+Code~
+1114705930
+
+Shadow class lowered~
+Hutoshi~
+04/28/2005~
+Code~
+1114706403
+
+Drowhate fixed for drows.  Levitation is fine.  It's auto.~
+Hutoshi~
+04/28/2005~
+Code~
+1114707487
+
+Whonames are now colored for player sex.  purple for female, cyan for male.~
+Hutoshi~
+04/28/2005~
+Code~
+1114708073
+
+Thief helpfile updated~
+Hutoshi~
+04/28/2005~
+Help~
+1114709127
+
+Kingdoms are now open~
+Hutoshi~
+04/28/2005~
+Code~
+1114712618
+
+Pinhead fixed.~
+Hutoshi~
+04/28/2005~
+Code~
+1114735295
+
+Spamcap removed~
+Hutoshi~
+04/28/2005~
+Code~
+1114736996
+
+Powerword kill does 15k damage now with added timer~
+Hutoshi~
+04/28/2005~
+Code~
+1114737077
+
+reserve for uk's lowered, instead of -50, -10~
+Hutoshi~
+04/28/2005~
+Code~
+1114737232
+
+Arena fixed.  No longer auto.  Type arenajoin start to open arena.~
+Hutoshi~
+04/28/2005~
+Code~
+1114747018
+
+Fixed kset problem with kingdoms.~
+Hutoshi~
+04/29/2005~
+Code~
+1114777942
+
+New stats and look to finger command.~
+Hutoshi~
+04/29/2005~
+Code~
+1114780199
+
+Religion removed from who.~
+Hutoshi~
+04/29/2005~
+Code~
+1114780205
+
+Ganging rules have changed,  can no longer gang religion members, only kingdom members.~
+Hutoshi~
+04/29/2005~
+Rule~
+1114780231
+
+Relics are now semi questable.  Still some restrictions.~
+Hutoshi~
+04/29/2005~
+Code~
+1114781592
+
+Ktalk channel fixed.~
+Hutoshi~
+04/29/2005~
+Code~
+1114782121
+
+Fixed heal for drows.~
+Hutoshi~
+04/29/2005~
+Code~
+1114783768
+
+Reimbursement over.  New chars will now be set to normal settings.~
+Hutoshi~
+04/29/2005~
+Code~
+1114784866
+
+Uk's powerword kill now only does 8k~
+Hutoshi~
+04/29/2005~
+Code~
+1114805108
+
+Newbies do not count as kingdom members.~
+Hutoshi~
+04/29/2005~
+Rule~
+1114808821
+
+Giant weaponlevels now go to 600~
+Hutoshi~
+04/29/2005~
+Code~
+1114808909
+
+Giants can wear eq when using dawnstrength~
+Hutoshi~
+04/29/2005~
+Code~
+1114808923
+
+Fixed delchange bug, will now delete correct change~
+Hutoshi~
+04/29/2005~
+Code~
+1114809019
+
+Giants gsweep no longer hurls~
+Hutoshi~
+04/29/2005~
+Code~
+1114809366
+
+Uk's lowered a tad.~
+Hutoshi~
+04/29/2005~
+Code~
+1114809426
+
+Yay, we hit change number 69!!!~
+Hutoshi~
+04/29/2005~
+Code~
+1114809428
+
+Will now recieve more bones per kill~
+Hutoshi~
+04/29/2005~
+Code~
+1114816752
+
+Double bones added to dblbuy~
+Hutoshi~
+04/29/2005~
+Code~
+1114817326
+
+Class Wars is now open.~
+Tanthalus~
+04/30/2005~
+Area~
+1114880486
+
+If you're character is causing the mud to crash, don't be a dumbfuck and constantly try to log it.~
+Tanthalus~
+04/30/2005~
+Rule~
+1114893831
+
+Exp now goes beyond 2 billion.~
+Hutoshi~
+04/30/2005~
+Code~
+1114909149
+
+Fixed exp readout on score.~
+Hutoshi~
+04/30/2005~
+Code~
+1114909173
+
+Fixed exp readout on prompts~
+Hutoshi~
+04/30/2005~
+Code~
+1114909183
+
+Debugged players.  Guys, please don't overload your chars with items.~
+Hutoshi~
+04/30/2005~
+Code~
+1114909196
+
+Shadowpowers now show when using power command~
+Hutoshi~
+04/30/2005~
+Code~
+1114909892
+
+Fixed bug with time and timers.~
+Hutoshi~
+05/01/2005~
+Code~
+1114965098
+
+Fixed crash bug when double exp goes off~
+Hutoshi~
+05/01/2005~
+Code~
+1114965139
+
+Fixed arena bug.~
+Hutoshi~
+05/01/2005~
+Code~
+1114965645
+
+Exp readout on mob kills fixed~
+Hutoshi~
+05/01/2005~
+Code~
+1114966813
+
+Changes no longer spams so much.~
+Hutoshi~
+05/01/2005~
+Code~
+1114966820
+
+Keep public channels Civil. There is no need for pbashing and talking shit endlessly, remember this is for fun.~
+Xrakisis~
+05/01/2005~
+Rule~
+1115008585
+
+Arguements between players are to be taken to tells, or you will be silenced~
+Lura~
+05/01/2005~
+Rule~
+1115008789
+
+Automated copyover implemented.  Will copyover automatically once a day.~
+Hutoshi~
+05/03/2005~
+Code~
+1115132854
+
+Artifacts removed from game.~
+Hutoshi~
+05/03/2005~
+Code~
+1115152754
+
+Gaints upped a tad.~
+Hutoshi~
+05/03/2005~
+Code~
+1115153992
+
+Kingdoms should save properly now.~
+Hutoshi~
+05/03/2005~
+Code~
+1115153998
+
+Balanced Giants and shadows~
+Hutoshi~
+05/03/2005~
+Code~
+1115155208
+
+Can no longer open multiple arenas at once~
+Hutoshi~
+05/03/2005~
+Code~
+1115155218
+
+Will recieve a restore in arena once you tie someone.~
+Hutoshi~
+05/03/2005~
+Code~
+1115155239
+
+Giants open to pk.~
+Hutoshi~
+05/03/2005~
+Code~
+1115155460
+
+Fixed decap exp bonus problem~
+Hutoshi~
+05/04/2005~
+Code~
+1115214733
+
+Fixed drop command.  Will no longer take your eq.~
+Hutoshi~
+05/04/2005~
+Code~
+1115214747
+
+Fixed call all bug.  Will actually work now.~
+Hutoshi~
+05/04/2005~
+Code~
+1115214760
+
+Time is properly working again.~
+Hutoshi~
+05/04/2005~
+Code~
+1115216159
+
+Vamps, Bmages, ninjas, drows and sams are closed to pk until further notice either by me or Hutoshi~
+Lura~
+05/04/2005~
+Rule~
+1115228351
+
+Angels, Thieves, Ghouls and Werewolves are also closed to pk till further notice~
+Lura~
+05/04/2005~
+Rule~
+1115228911
+
+Fixed all imm levels~
+Hutoshi~
+05/04/2005~
+Code~
+1115258610
+
+Earthpunch will now randomly destance instead of 100% always destancing~
+Hutoshi~
+05/05/2005~
+Code~
+1115326429
+
+Sams can now wear any eq and get the bonus~
+Hutoshi~
+05/06/2005~
+Code~
+1115405125
+
+Fae's should be able to wear all eq now as well~
+Hutoshi~
+05/06/2005~
+Code~
+1115405219
+
+Vampires open to pk~
+Hutoshi~
+05/06/2005~
+Code~
+1115405925
+
+Fixed cauldron and fear for vamps~
+Hutoshi~
+05/06/2005~
+Code~
+1115406670
+
+Upped percentage for assassinate to work for vamps, fixed bloodwater~
+Hutoshi~
+05/06/2005~
+Code~
+1115407091
+
+You may only cap a linkdead player if they go linkdead in the middle of a fight, otherwise its illegal...old rule of never cap is null and void~
+Lura~
+05/07/2005~
+Rule~
+1115483249
+
+skyblade, priests and draconians closed to pk as well now till further notice~
+Lura~
+05/07/2005~
+Rule~
+1115484665
+
+Laxatives are no longer available~
+Hutoshi~
+05/08/2005~
+Code~
+1115568951
+
+Rules have been changed slightly, more changes to come..if i can remember em all~
+Lura~
+05/08/2005~
+Rule~
+1115573124
+
+Mirror and Formillusion disabled for vamps till limit/timer is put on em, part of our crashing problem~
+Lura~
+05/09/2005~
+Code~
+1115620653
+
+formillusion and mirror fixed~
+Hutoshi~
+05/09/2005~
+Code~
+1115667279
+
+Arena fixed~
+Hutoshi~
+05/09/2005~
+Code~
+1115667423
+
+Pentagram helpfile in, note me if you want a helpfile for your kingdom~
+Lura~
+05/09/2005~
+Code~
+1115681538
+
+Valium removed from shops.~
+Hutoshi~
+05/10/2005~
+Area~
+1115766312
+
+changed xsocials for those of you naughty kids that like to play with em, shoot me i was bored:p~
+Lura~
+05/10/2005~
+Code~
+1115780483
+
+Balanced giants down a tad.  Test this and let me know~
+Hutoshi~
+05/11/2005~
+Code~
+1115860684
+
+Added in tiercap command~
+Hutoshi~
+05/11/2005~
+Code~
+1115861840
+
+Can no longer decap once you hit your status cap for your tier~
+Hutoshi~
+05/11/2005~
+Code~
+1115861853
+
+Added no spamcap code to tiercap command~
+Hutoshi~
+05/11/2005~
+Code~
+1115862079
+
+Tiercap helpfile in.~
+Hutoshi~
+05/11/2005~
+Code~
+1115862298
+
+Moved scroll command beneath score command so sc will work to activate score.~
+Hutoshi~
+05/11/2005~
+Code~
+1115862319
+
+Vamps lowered a tad more.~
+Hutoshi~
+05/11/2005~
+Code~
+1115862376
+
+Added ranks to kingdoms.  Use kset command to set rank names, use kpromote to promote your members.~
+Hutoshi~
+05/12/2005~
+Code~
+1115910550
+
+Can now set own leader and general ranks~
+Hutoshi~
+05/12/2005~
+Code~
+1115912137
+
+Ktalk fixed~
+Hutoshi~
+05/12/2005~
+Code~
+1115917764
+
+Escape will now take you to Temple Square~
+Hutoshi~
+05/12/2005~
+Code~
+1115930696
+
+liches are closed to pk also, they uber weak~
+Lura~
+05/12/2005~
+Rule~
+1115941913
+
+ok once again Bmages, ninjas, drows, sams, ghouls, werewolves, angels and thieves are closed till further notice along with liches now~
+Lura~
+05/12/2005~
+Rule~
+1115942051
+
+also forgot to mention skyblade priests and draconians are closed till furhter notice~
+Lura~
+05/12/2005~
+Rule~
+1115942352
+
+OK all classes are now subject to pk, dont cry if you die or are weak, been told its better like this by players~
+Lura~
+05/16/2005~
+Rule~
+1116284565
+
+Removed spamcap code since everyone bitches about it~
+Hutoshi~
+05/18/2005~
+Code~
+1116445004
+
+Removed chat color settings~
+Hutoshi~
+05/18/2005~
+Code~
+1116453695
+
+Brief2 will now work for sigil damage.~
+Hutoshi~
+05/18/2005~
+Code~
+1116455220
+
+Will now have to wait 3 days to rejoin a kingdom if you defect~
+Hutoshi~
+05/18/2005~
+Code~
+1116458049
+
+Added in kingdom commands kwithdraw and defect~
+Hutoshi~
+05/18/2005~
+Code~
+1116458096
+
+Updated kingdom helpfile~
+Hutoshi~
+05/18/2005~
+Help~
+1116458265
+
+Added in anti-gang code~
+Hutoshi~
+05/18/2005~
+Code~
+1116458620
+
+Updated help gang~
+Hutoshi~
+05/19/2005~
+Help~
+1116539526
+
+Fixed up the text alignment in selfclass.~
+Demona~
+05/19/2005~
+Code~
+1116562335
+
+Lowered success rate of fear command for vamps.~
+Hutoshi~
+05/22/2005~
+Code~
+1116775846
+
+Sweep for giants now lag the char using the power~
+Hutoshi~
+05/23/2005~
+Code~
+1116876513
+
+Statuscap is now removed.~
+Hutoshi~
+05/23/2005~
+Code~
+1116877883
+
+demons and drows can now wear all 4 weapons be sure to thank Akurei for that fix~
+Lura~
+05/24/2005~
+Code~
+1116994307
+
+Fixed the exp/primal display bugs under the train command.~
+Demona~
+05/25/2005~
+Code~
+1117008057
+
+fixed gsweep, will no long stun victim every single time you use it.~
+Hutoshi~
+05/25/2005~
+Code~
+1117083583
+
+No more hiding in noname noexit rooms, If you find one please inform the immortal staff.~
+Hutoshi~
+05/26/2005~
+Rule~
+1117116857
+
+Began working on balance issues heavily.  Classes balanced so far: Demon through Cyborg on help class.~
+Hutoshi~
+05/27/2005~
+Code~
+1117214550
+
+Changed the Drow mastery from a weapon to a medal. Same statistics.~
+Demona~
+05/29/2005~
+Code~
+1117378921
+
+Lowered lag on gas breath~
+Hutoshi~
+05/29/2005~
+Code~
+1117390352
+
+No more gems hilts or slabs auto loading on mobs~
+Hutoshi~
+05/31/2005~
+Code~
+1117557217
+
+Enabled dblbuy command once more.  Test phase, I will see how it works.~
+Hutoshi~
+05/31/2005~
+Code~
+1117559992
+
+Raised success rate of unnerve for demons~
+Hutoshi~
+05/31/2005~
+Code~
+1117604065
+
+Raised damcap of Sams~
+Hutoshi~
+05/31/2005~
+Code~
+1117604437
+
+new items has been added eq wise, please enjoy and you gotta find the goddess to get it~
+Lura~
+06/02/2005~
+Code~
+1117747451
+
+Since it's difficult for some people to use proper judgment, NO SACCING OF SOMEONE ELSE'S CLAIMED EQ.~
+Hutoshi~
+06/03/2005~
+Rule~
+1117830485
+
+You may not induct someone while they are in the middle of pk with someone else, its pk interference i will be adding this and other rules asap to the help rules~
+Lura~
+06/03/2005~
+Rule~
+1117836958
+
+Sword of prosperity fixed, no longer random, set to work like its set in olc, please make sure you get a exhange from me~
+Lura~
+06/04/2005~
+Code~
+1117908560
+
+also since i fixed the swords price on em has been lowered~
+Lura~
+06/04/2005~
+Code~
+1117908787
+
+changed help rules slightly under main points and changed help kingdoms a little~
+Lura~
+06/05/2005~
+Rule~
+1117997543
+
+Pshift for liches reworked and enabled~
+Lura~
+06/07/2005~
+Code~
+1118191588
+
+Upon quit, all but 4 of each sigil you are carrying will automatically disappear~
+Akurei~
+06/08/2005~
+Code~
+1118296060
+
+Sigil limit upon quit should now check containers~
+Akurei~
+06/09/2005~
+Code~
+1118342213
+
+Werewolves can wear all weapons.~
+Demona~
+06/12/2005~
+Code~
+1118598987
+
+Portal to pelagon area added to the portal room, the area isn't full yet, but feel free to hunt there.~
+Othello~
+06/12/2005~
+Area~
+1118611618
+
+The underground lair is added, if you find any items, you must make a personal note to me. To get there, go one west, one down of recall. Beware: all rooms are astral/no recall.~
+Othello~
+06/18/2005~
+Area~
+1119144502
+
+If you have either Avolakia's Tentacle, the Razor Tusk, and/or Parthalee's claw, you *MUST* sacrifice them, if you're caught with them, you don't want to know the penalties.~
+Othello~
+06/18/2005~
+Rule~
+1119159713
+

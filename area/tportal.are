@@ -1,0 +1,1247 @@
+#AREADATA
+Name        Lighthouse~
+Builders    Meredith~
+Music       default.mid~
+VNUMs       52000 52049
+Cvnum       0
+Security    1
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#52001
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+35 0 0 0
+0 0
+0
+0
+#52002
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+7 0 0 0
+0 0
+0
+0
+#52008
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+974 0 0 0
+0 0
+0
+0
+#52012
+guardian of time~
+#GT#ghe #Wg#0uardia#Wn #po#Pf #CT#cime#n~
+#GT#ghe #Wg#0uardia#Wn #po#Pf #CT#cime#n directs his cold hard stare at you.
+~
+~
+73755 4719272 1000
+3226 78 20 2
+1 9
+0
+0
+#52018
+kakawaru~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+2 0 0 0
+0 0
+0
+0
+#52020
+Lighthouse keeper~
+#0L#Ci#wg#ch#0th#co#wu#Cs#0e #yK#Yee#yp#Ye#yr#n~
+The statue like #yK#Yee#yp#Ye#yr#n #po#Pf t#phe #RF#rl#Ra#rm#Re#n is here, gazing across the #Cs#ce#Ca.
+~
+~
+19 168 1000
+755 0 0 0
+2 0
+0
+0
+#52039
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+17 0 0 0
+0 0
+0
+0
+#52040
+A ballistic faerie~
+#sa #Yb#ya#Yl#yl#Yi#ys#Yt#yi#Yc #Rf#rae#Rr#ri#Re#n~
+A shimmering light catches your eye.
+~
+Its gone in a flash... your not to sure what you just saw.
+~
+33 524456 0
+2876 60 8 1
+0 6
+0
+0
+#52041
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+1 0 0 0
+0 0
+0
+0
+#52042
+no name~
+#sa #Yb#ya#Yl#yl#Yi#ys#Yt#yic#Y #Rf#rae#Rr#ri#Re#n~
+A shimmering light catches your eye.
+~
+Its gone in a flash... your not to sure what you just saw.
+~
+1 524456 0
+3 60 8 1
+0 6
+0
+0
+#52043
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+26 0 0 0
+0 0
+0
+0
+#52044
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+4 0 0 0
+0 0
+0
+0
+#52045
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+69 0 0 0
+0 0
+0
+0
+#52046
+a ballistic faerie~
+#sa #Cb#ca#Cl#cl#Ci#cs#Ct#ci#Cc #Gf#gae#Gr#gi#Ge~
+A shimmering light catches your eye.
+~
+Its gone in a flash! its almost impossible to tell what it was.
+~
+1 528424 -1000
+2938 60 8 2
+0 6
+0
+0
+#52047
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+17 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#52010
+a smooth stone~
+a smooth stone~
+A glinting stone catches the eye of anyone that passes by.~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#52020
+the enternal flame of time light~
+#BT#bhe #0e#Wnter#wn#Wa#0l #rf#Rlam#re #po#Pf #Yt#yim#Ye#n~
+#BT#bhe #0e#Wnter#wn#Wa#0l #rf#Rlam#re #po#Pf #Yt#yim#Ye#n~
+8 4163 0 524288
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#52000
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52001
+D1
+~
+~
+0 0 52008
+D2
+~
+~
+0 0 52007
+D5
+~
+~
+0 0 52012
+S
+#52001
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52002
+D2
+~
+~
+0 0 52000
+D5
+~
+~
+0 0 52012
+S
+#52002
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52003
+D2
+~
+~
+0 0 52008
+D3
+~
+~
+0 0 52001
+D5
+~
+~
+0 0 52012
+S
+#52003
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 52004
+D3
+~
+~
+0 0 52002
+D5
+~
+~
+0 0 52012
+S
+#52004
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52003
+D2
+~
+~
+0 0 52005
+D3
+~
+~
+0 0 52008
+D5
+~
+~
+0 0 52012
+S
+#52005
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52004
+D3
+~
+~
+0 0 52006
+D4
+~
+~
+0 0 52025
+D5
+~
+~
+0 0 52012
+S
+#52006
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52008
+D1
+~
+~
+0 0 52005
+D3
+~
+~
+0 0 52007
+D5
+~
+~
+0 0 52012
+S
+#52007
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52000
+D1
+~
+~
+0 0 52006
+D5
+~
+~
+0 0 52012
+S
+#52008
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+4 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52002
+D1
+~
+~
+0 0 52004
+D2
+~
+~
+0 0 52006
+D3
+~
+~
+0 0 52000
+D4
+~
+~
+0 0 52027
+D5
+~
+~
+67 0 52012
+S
+#52009
+#r@#R)#g-#G'#BA #Yb#ye#Ya#yu#Yt#yi#Yf#yu#Yl #Cc#court#Cy#ca#Cr#cd#G,#g-#n~
+A white quart path leads to a beautiful crytal tower. The path is lines
+with roses, and other exotic flowers. The courtyard path continues to the
+east. 
+~
+4 2 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52010
+D2
+~
+~
+0 0 52012
+S
+#52010
+#r@#R)#g-#G'#BA #Yb#ye#Ya#yu#Yt#yi#Yf#yu#Yl #Cc#court#Cy#ca#Cr#cd#G,#g-#n~
+A white quart path leads to a beautiful crystal tower. The path is lines
+with roses, and other exotic flowers. Approuching the tower, you notice no
+visable signs of an entrance. This is a tower of legends and in them this
+tower guards a sacred flame. Only the worthy may enter, thoughs who seek the
+light. 
+~
+4 2 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8192 
+T
+flame~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 52011 0
+D3
+~
+~
+0 0 52009
+S
+#52011
+#W=#c)#0:A #Cc#crys#Ct#ca#Cl #Pe#pn#Pt#pr#Pa#pnce#0:#c(#W=#n~
+The room pulsates with a warm glow, light dances and shimmers as it enters the hall. The hall is alive with the crystal's light. There is no door exit to the outside world. Just say 'rose', and you shall be able to leave.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8192 
+T
+rose~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 52010 0
+D4
+~
+~
+0 0 52013
+S
+#52012
+#ro#RO#p(#0U#Wp#wo#0n #ct#Ch#ce #Yr#yoc#Yks#p)#RO#ro#n~
+the tiny island is seems to be a fortress in time. A sharp eyed guard awaits you. He doesnt seem to be to terrbly happy about your presence here.
+~
+4 5 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52009
+D4
+~
+~
+67 0 52008
+S
+#52013
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+The narrow passage in the tower spirals upwards. However the shimmering light seems to follow you no matter where you go. Its a marvalious view the sea outside.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D4
+~
+~
+0 0 52014
+D5
+~
+~
+0 0 52011
+S
+#52014
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+The narrow passage in the tower spirals upwards. However the shimmering light seems to follow you no matter where you turn.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D4
+~
+~
+0 0 52015
+D5
+~
+~
+0 0 52013
+S
+#52015
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+The narrow passage in the tower spirals upwards. However the shimmering light seems to follow you no matter where you turn.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D4
+~
+~
+0 0 52016
+D5
+~
+~
+0 0 52014
+S
+#52016
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+The narrow passage in the tower spirals upwards. However the shimmering light seems to follow you no matter where you turn.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D4
+~
+~
+0 0 52018
+D5
+~
+~
+0 0 52015
+S
+#52017
+#0(#7-#0) #rP#Rorta#rl #rR#Roo#rm #0(#7-#0)#n~
+Just say the name the name of the destination that you'd like to go.
+Testgrounds
+mall
+jungle
+lair
+den
+dawn
+hell
+forest
+pyramid
+newbie
+pelagon
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8192 
+T
+pelagon~
+A distorted portal to the Pelagon area appears.~
+A distorted portal appears directly in front of you.~
+all~
+8192 102301 0
+T
+newbie~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 3700 0
+T
+pyramid~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 100745 0
+T
+mall~
+A shimmering portal appears in front of $n~
+A shimmering portal appears in front of you~
+all~
+8192 40000 0
+T
+testgrounds~
+A #Csh#cim#wm#We#cri#Cng#n portal appears in front of $n~
+A #0sh#cim#wm#We#cri#0ng#n portal appears in front of you.~
+all~
+8192 50500 0
+T
+jungle~
+A shimmering portal appears in front of you.~
+A shimmering portal appears in front of you.~
+all~
+8192 100000 0
+T
+lair~
+A shimmering portal appears in front of $n~
+A shimmering portal appears in front of you~
+all~
+8192 32000 0
+T
+forest~
+A shimmering portal appears in front of $n~
+A shimmering portal appears in front of you~
+all~
+8192 60000 0
+T
+dawn~
+A shimmering portal appears in front of $n~
+A shimmering portal appears in front of you~
+all~
+8192 80001 0
+T
+hell~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of $n~
+all~
+8192 30100 0
+D1
+~
+~
+0 0 3001
+S
+#52018
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+The narrow passage in the tower spirals upwards. However the shimmering light seems to follow you no matter where you turn.
+~
+16777728 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D4
+~
+~
+0 0 52019
+D5
+~
+~
+0 0 52016
+S
+#52019
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+The narrow passage in the tower spirals upwards. However the shimmering light seems to follow you no matter where you turn.
+~
+16777728 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D4
+~
+~
+0 0 52020
+D5
+~
+~
+0 0 52018
+S
+#52020
+#w=#c)#0:#0T#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #Gc#ghamb#Ge#gr #Po#pf #Cl#ci#Cg#ch#Ct#0:#c(#w=#n~
+The crystal room dances with the flame's light. However, it sends out an
+unfaultering beaken across the great sea. This is also the room of the
+lightkeeper, she is bound by tradition her life in servitude, to make sure
+that the light will forever burn. 
+~
+16794130 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8192 
+T
+portal~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 52017 0
+D5
+~
+~
+0 0 52019
+S
+#52021
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52026
+D1
+~
+~
+0 0 52022
+S
+#52022
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52025
+D1
+~
+~
+0 0 52023
+D3
+~
+~
+0 0 52021
+S
+#52023
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52024
+D3
+~
+~
+0 0 52022
+S
+#52024
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52029
+D2
+~
+~
+0 0 52023
+D3
+~
+~
+0 0 52025
+S
+#52025
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52028
+D1
+~
+~
+0 0 52024
+D2
+~
+~
+0 0 52022
+D3
+~
+~
+0 0 52026
+D5
+~
+~
+0 0 52005
+S
+#52026
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52027
+D1
+~
+~
+0 0 52025
+D2
+~
+~
+0 0 52021
+S
+#52027
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52028
+D2
+~
+~
+0 0 52026
+D5
+~
+~
+0 0 52008
+S
+#52028
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52029
+D2
+~
+~
+0 0 52025
+D3
+~
+~
+0 0 52027
+S
+#52029
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 52024
+D3
+~
+~
+0 0 52028
+D4
+~
+~
+0 0 52030
+S
+#52030
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52035
+D1
+~
+~
+0 0 52031
+D5
+~
+~
+0 0 52029
+S
+#52031
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52034
+D1
+~
+~
+0 0 52032
+D3
+~
+~
+0 0 52030
+S
+#52032
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52033
+D3
+~
+~
+0 0 52031
+S
+#52033
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52038
+D2
+~
+~
+0 0 52032
+D3
+~
+~
+0 0 52034
+S
+#52034
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52037
+D1
+~
+~
+0 0 52033
+D2
+~
+~
+0 0 52031
+D3
+~
+~
+0 0 52035
+D4
+~
+~
+0 0 52043
+S
+#52035
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52036
+D1
+~
+~
+0 0 52034
+D2
+~
+~
+0 0 52030
+S
+#52036
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52037
+D2
+~
+~
+0 0 52035
+S
+#52037
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52038
+D2
+~
+~
+0 0 52034
+D3
+~
+~
+0 0 52036
+S
+#52038
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 52033
+D3
+~
+~
+0 0 52037
+S
+#52039
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52040
+D3
+~
+~
+0 0 52044
+S
+#52040
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52041
+D2
+~
+~
+0 0 52039
+D3
+~
+~
+0 0 52043
+S
+#52041
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 52040
+D3
+~
+~
+0 0 52042
+S
+#52042
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52041
+D2
+~
+~
+0 0 52043
+D3
+~
+~
+0 0 52047
+S
+#52043
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52042
+D1
+~
+~
+0 0 52040
+D2
+~
+~
+0 0 52044
+D3
+~
+~
+0 0 52046
+D5
+~
+~
+0 0 52034
+S
+#52044
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52043
+D1
+~
+~
+0 0 52039
+D3
+~
+~
+0 0 52045
+S
+#52045
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52046
+D1
+~
+~
+0 0 52044
+S
+#52046
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 52047
+D1
+~
+~
+0 0 52043
+D2
+~
+~
+0 0 52045
+S
+#52047
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yime#g=#G-#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 52042
+D2
+~
+~
+0 0 52046
+S
+#52048
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+M 52012 spec_vladd_decap
+S
+
+
+
+#RESETS
+M 0 52012 1 52012
+M 0 52020 1 52020
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52040 30 52040
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+M 0 52042 30 52042
+S
+
+
+
+#$

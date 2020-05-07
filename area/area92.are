@@ -1,0 +1,211 @@
+#AREADATA
+Name        new Class recalls and class eq~
+Builders    None~
+Music       ~
+VNUMs       400 500
+Cvnum       0
+Security    1
+Areabits    0
+SecType  0
+WeatAl  0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#400
+elemental mastery~
+#R/#r/#YX#y-#R+#GE#gl#Ge#gm#Ge#gn#Gt#ga#Gl #wMastery#R+#y-#YX#r\#R\#n~
+#R/#r/#YX#y-#R+#GE#gl#Ge#gm#Ge#gn#Gt#ga#Gl #wMastery#R+#y-#YX#r\#R\#n is here.~
+9 3 0 131073
+0 0 0
+none~
+none~
+0 0 0 21
+1 25000
+A
+18 300
+A
+17 -250
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#401
+blademaster mastery~
+#0|#c[#0-#c=#gB#0lad#geM#0aste#gr M#0aster#gy#c=#0-#c]#0|#n~
+#0|#c[#0-#c=#gB#0lad#geM#0aste#gr #gM#0aster#gy#c=#0-#c]#0|#n is here.~
+9 3 0 131073
+100 100 1
+none~
+none~
+0 0 0 21
+1 0
+A
+18 600
+A
+17 -400
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#402
+Health Rune~
+a #gH#7ealt#gh #7Rune#n~
+A #gH#7ealt#gh #7Rune#n is here.~
+60 0 0 1
+0 0 0
+none~
+none~
+0 0 0 0
+1 100000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#403
+lightsaber~
+#g<<#r(#LGreater#r)#g>> #7-#w=#LBlue#w=#7- #g>#7^#g>#wLightsaber#g>#7^#g>#7^#g>#7^#g>#7^#g>#7^#g>#n~
+#g<<#r(#LGreater#r)#g>> #7-#w=#LBlue#w=#7- #g>#7^#g>#wLightsaber#g>#7^#g>#7^#g>#7^#g>#7^#g>#7^#g>#n is here.~
+5 3 65536 8193
+100 100 1
+none~
+none~
+17000 400 600 1
+1 5000
+A
+14 500
+A
+12 500
+A
+13 500
+A
+18 400
+A
+19 600
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#404
+dragon mastery~
+#gD#yr#gag#yo#gn #gM#ya#gs#yt#ge#yr#gy#n~
+#gD#yr#gag#yo#gn #gM#ya#gs#yt#ge#yr#gy#n is here.~
+9 3 0 131073
+100 100 1
+none~
+none~
+0 0 0 15
+1 15000
+A
+18 400
+A
+19 400
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#405
+paladin mastery~
+#w<#g*#w>#7Paladin Mastery#w<#g*#w>#n~
+#w<#g*#w>#7Paladin Mastery#w<#g*#w>#n is here.~
+9 3 0 131073
+100 100 1
+none~
+none~
+200 0 0 54
+1 25000
+A
+17 -350
+A
+18 350
+A
+19 350
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#406
+shinobi katana~
+#R\#7|#R/ #RS#Yhinob#Ri K#Yatan#Ra #R\#7|#R/#n~
+#R\#7|#R/ #RS#Yhinob#Ri K#Yatan#Ra #R\#7|#R/#n~
+5 3 0 8193
+100 100 1
+none~
+none~
+17000 600 650 3
+9 150000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#400
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

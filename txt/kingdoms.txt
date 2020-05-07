@@ -1,0 +1,95 @@
+Darkness~
+#YD#oa#0r#Wkn#0e#os#Ys#0-#Y>#0)#n ~
+Genji~
+Paragon~
+#0(#Y<#0-#YO#ov#0e#Wrl#0o#or#Yd~
+#0(#Y<#0-#YS#oc#0i#oo#Yn~
+#0(#Y<#0-#YC#oo#0m#Wman#0d#oe#Yr~
+#0(#Y<#0-#YK#oe#0ep#oe#Yr~
+#0(#Y<#0-#YS#oe#0n#Wti#0n#oe#Yl~
+#0(#Y<#0-#YD#oe#0s#Wper#0a#od#Yo~
+#0(#Y<#0-#YD#oe#0g#Wene#0ra#ot#Ye~
+#RC#rh#0a#Wo#Rs #RM#ra#0i#Wd#Re#rn#n~
+#YT#yerrai#Yn #YS#yorceres#Ys#n~
+#CA#cer#Co #CS#corceres#Cs#n~
+#PE#pssenc#Pe #PS#porceres#Ps#n~
+#RE#Bl#Ye#Cm#Pe#Rn#Bt#Ya#Cl #GA#gcolyt#Ge#n~
+40301
+190 143 1520800
+100000 50000 50000 0
+Pantheon~
+#7(#GP#ga#wn#7th#we#go#Gn#7)~
+Rockwell~
+jaari~
+#gL#Gor#gd #gI#Gnqu#0is#Gito#gr#n~
+#gE#Gru#gs #gE#Gre#0p#Gto#gr#n~
+#gA#Gct#0u#Gari#gi#n~
+#GP#gr#ga#Ge#0s#Ger#gt#Gu#gm#n~
+#gV#Gig#0i#Glu#gm~
+#gP#Gra#0e#Gto#gr~
+#gR#Ged#0ee#Gme#gr#n~
+#gC#Gor#gn#Gi#0cu#Gl#ga#Gri#gi#n~
+#gO#Gra#0c#gu#Glu#gm#n~
+#gP#Gri#gn#0c#gi#Gpi#ga#n~
+#gV#Ger#0a#Gta#gs#n~
+#GA #gS#Gi#gg#Gn#0i#Gf#ge#Gr#gi#n~
+40400
+94 93 99253
+0 0 0 0
+None~
+None~
+None~
+None~
+#LL#wos#Lt #LG#wuardia#Ln#n~
+#LL#wos#Lt #LP#wrinc#Le#n~
+#LM#wirro#Lr#n~
+#LM#wis#Lt#n~
+#LG#wuardia#Ln#n~
+#LP#wrotecto#Lr#n~
+#LW#warrio#Lr#n~
+#LG#wlas#Ls#n~
+#LC#wlou#Ld#n~
+#LM#wistres#Ls#n~
+#LM#we'fi#Ln#n~
+#LA#wlmaste#Lr#n~
+40500
+2 2 1170546
+1000 1000 1000 0
+None~
+None~
+None~
+elektra~
+#7T#0o#wr#0m#7e#0n#wt#0o#7r#n~
+#7D#0a#7m#0n#7e#0d L#7a#0d#7y#n~
+#WD#0a#Wr#0k #WL#0o#Wr#0d#n~
+#0The #WU#0n#Wd#0e#Wa#0d#n~
+#WD#0a#Wm#0n#We#0d #WS#0o#Wu#0l#n~
+#WL#0o#Ws#0t #WS#0o#Wu#0l#n~
+#WH#0e#Wl#0l#Ws #0S#Wp#0a#Ww#0n#n~
+#wReaper#7~
+#wDeath's Mistress#7~
+#wWar Maiden#7~
+#wLady in Waiting#7~
+#wConcubine#W~
+40600
+0 0 0
+100000 50000 50000 0
+Diamond Edge~
+#n[#CD#ci#na#Wm#Co#cn#nd #CE#cd#ng#We#n]~
+Finvarra~
+Durial~
+#CD#cr#ne#Wa#Cd #CR#ci#nd#We#Cr#n~
+#CD#cr#ne#Wa#Cd #CM#ca#ng#Wu#Cs#n~
+#CD#cr#ne#Wa#Cd #CL#co#nr#Wd#n~
+#CS#ct#no#Wr#Cm #CR#ci#nd#We#Cr#n~
+#CF#ci#ne#Wl#Cd #CC#ch#na#Wm#Cp#ci#no#Wn#n~
+#CD#cr#na#Wg#Co#co#nn~
+#CD#ca#nr#Wk #CC#ca#nv#Wa#Cl#ci#ne#Wr#n~
+#PB#pl#no#Wo#Pd #PM#pa#nr#Wi#Pl#pi#nt#Wh#n~
+#PB#pl#no#Wo#Pd #PW#pi#nt#Wc#Ph#n~
+#PB#pl#no#Wo#Pd #PM#pa#ni#Wd#Pe#pn#n~
+#PU#pn#nh#Wo#Pl#py #PP#pr#ni#We#Ps#pt#ne#Ws#Ps#n~
+#PD#pa#nr#Wk #PI#pn#ni#Wt#Pi#pa#nt#We#n~
+40700
+58 19 1500000
+200000 100000 100000 100000

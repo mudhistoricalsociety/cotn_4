@@ -1,0 +1,6589 @@
+#AREADATA
+Name        Pizzaman   Haunted Forest~
+Builders    Pizzaman~
+Music       default.mid~
+VNUMs       60000 60600
+Cvnum       0
+Security    9
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#60000
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60001
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+769 0 0 0
+0 0
+0
+0
+#60002
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60003
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+826 0 0 0
+0 0
+0
+0
+#60004
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60005
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60006
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60007
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60008
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60009
+Ghost big~
+#GA Big Ghost#n~
+#GA Big Ghost is here scaring you.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60010
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60011
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60012
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60013
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+818 0 0 0
+0 0
+0
+0
+#60014
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60015
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+780 0 0 0
+0 0
+0
+0
+#60016
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+824 0 0 0
+0 0
+0
+0
+#60017
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60018
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+787 0 0 0
+0 0
+0
+0
+#60019
+Ghost Small~
+#GA Small Ghost#n~
+#GA Small Ghost is here scaring you.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60020
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60021
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60022
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60023
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60024
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60025
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+764 0 0 0
+0 0
+0
+0
+#60026
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+792 0 0 0
+0 0
+0
+0
+#60027
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60028
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+777 0 0 0
+0 0
+0
+0
+#60029
+Ghost drooling~
+#GA Drooling Ghost#n~
+#GA Drooling Ghost is here scaring you.#n
+~
+~
+3 0 0
+778 0 0 0
+0 0
+0
+0
+#60030
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+820 0 0 0
+0 0
+0
+0
+#60031
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+822 0 0 0
+0 0
+0
+0
+#60032
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+822 0 0 0
+0 0
+0
+0
+#60033
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60034
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60035
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60036
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+776 0 0 0
+0 0
+0
+0
+#60037
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+827 0 0 0
+0 0
+0
+0
+#60038
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60039
+Ghost Smelly~
+#GA Smelly Ghost#n~
+#GA Smelly Ghost is here scaring you.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60040
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+816 0 0 0
+0 0
+0
+0
+#60041
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60042
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60043
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60044
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+829 0 0 0
+0 0
+0
+0
+#60045
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60046
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60047
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+803 0 0 0
+0 0
+0
+0
+#60048
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60049
+Ghost Howling~
+#GA Howling Ghost#n~
+#GA Howling Ghost is here scaring you.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60050
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+762 0 0 0
+0 0
+0
+0
+#60051
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+769 0 0 0
+0 0
+0
+0
+#60052
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+798 0 0 0
+0 0
+0
+0
+#60053
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+807 0 0 0
+0 0
+0
+0
+#60054
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60055
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60056
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60057
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+827 0 0 0
+0 0
+0
+0
+#60058
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+801 0 0 0
+0 0
+0
+0
+#60059
+Ghost slimy~
+#GA Slimy Ghost#n~
+#GA Slimy Ghost is here scaring you.#n
+~
+~
+3 0 0
+830 0 0 0
+0 0
+0
+0
+#60060
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+798 0 0 0
+0 0
+0
+0
+#60061
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+790 0 0 0
+0 0
+0
+0
+#60062
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+833 0 0 0
+0 0
+0
+0
+#60063
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60064
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60065
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+816 0 0 0
+0 0
+0
+0
+#60066
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60067
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+787 0 0 0
+0 0
+0
+0
+#60068
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60069
+Ghost Horrible~
+#GA Horrible Ghost#n~
+#GA Horrible Ghost is here scaring you.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60070
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+781 0 0 0
+0 0
+0
+0
+#60071
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+829 0 0 0
+0 0
+0
+0
+#60072
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60073
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+842 0 0 0
+0 0
+0
+0
+#60074
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+798 0 0 0
+0 0
+0
+0
+#60075
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60076
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60077
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+790 0 0 0
+0 0
+0
+0
+#60078
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60079
+Ghost Three headed~
+#GA Three headed Ghost#n~
+#GA Three Headed Ghost is here scaring you.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60080
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60081
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60082
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+759 0 0 0
+0 0
+0
+0
+#60083
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+827 0 0 0
+0 0
+0
+0
+#60084
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+776 0 0 0
+0 0
+0
+0
+#60085
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60086
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60087
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60088
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+803 0 0 0
+0 0
+0
+0
+#60089
+Ghost Hound~
+#GA Ghost Hound#n~
+#GA Ghost Hound is here scaring you.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60090
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+830 0 0 0
+0 0
+0
+0
+#60091
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+800 0 0 0
+0 0
+0
+0
+#60092
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60093
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+839 0 0 0
+0 0
+0
+0
+#60094
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+781 0 0 0
+0 0
+0
+0
+#60095
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60096
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+829 0 0 0
+0 0
+0
+0
+#60097
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60098
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+813 0 0 0
+0 0
+0
+0
+#60099
+Ghost Hound~
+#GA Dismembered Ghost #n~
+#GA Dismembered Ghost  is here scaring you.#n
+~
+~
+3 0 0
+831 0 0 0
+0 0
+0
+0
+#60100
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60101
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60102
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+816 0 0 0
+0 0
+0
+0
+#60103
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60104
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+824 0 0 0
+0 0
+0
+0
+#60105
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+790 0 0 0
+0 0
+0
+0
+#60106
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60107
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60108
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60109
+Ghost Nightmare~
+#GA Nightmare Ghost #n~
+#GA Nightmare Ghost  is here scaring you.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60110
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60111
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60112
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+787 0 0 0
+0 0
+0
+0
+#60113
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60114
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+779 0 0 0
+0 0
+0
+0
+#60115
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+816 0 0 0
+0 0
+0
+0
+#60116
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+813 0 0 0
+0 0
+0
+0
+#60117
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60118
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+812 0 0 0
+0 0
+0
+0
+#60119
+Ghoul~
+#GA Ghoul #n~
+#GA Ghoul is floating here.#n
+~
+~
+3 0 0
+812 0 0 0
+0 0
+0
+0
+#60120
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60121
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60122
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+818 0 0 0
+0 0
+0
+0
+#60123
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+830 0 0 0
+0 0
+0
+0
+#60124
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60125
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60126
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+778 0 0 0
+0 0
+0
+0
+#60127
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60128
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+824 0 0 0
+0 0
+0
+0
+#60129
+Ghoul Slimy~
+#GA Slimy Ghoul #n~
+#GA Slimy Ghoul is floating here.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60130
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+792 0 0 0
+0 0
+0
+0
+#60131
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60132
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60133
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60134
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60135
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60136
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60137
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+837 0 0 0
+0 0
+0
+0
+#60138
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+781 0 0 0
+0 0
+0
+0
+#60139
+Ghoul Cowardly~
+#GA Cowardly Ghoul #n~
+#GA Cowardly Ghoul is floating here.#n
+~
+~
+3 0 0
+800 0 0 0
+0 0
+0
+0
+#60140
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60141
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+800 0 0 0
+0 0
+0
+0
+#60142
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60143
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+842 0 0 0
+0 0
+0
+0
+#60144
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60145
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60146
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+816 0 0 0
+0 0
+0
+0
+#60147
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60148
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60149
+Ghoul Brave~
+#GA Brave Ghoul #n~
+#GA Brave Ghoul is floating here.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60150
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+823 0 0 0
+0 0
+0
+0
+#60151
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60152
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60153
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60154
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60155
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+768 0 0 0
+0 0
+0
+0
+#60156
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60157
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60158
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60159
+Ghoul Smelly~
+#GA Smelly Ghoul #n~
+#GA Smelly Ghoul is floating here.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60160
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+787 0 0 0
+0 0
+0
+0
+#60161
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+835 0 0 0
+0 0
+0
+0
+#60162
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+762 0 0 0
+0 0
+0
+0
+#60163
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+839 0 0 0
+0 0
+0
+0
+#60164
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60165
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+781 0 0 0
+0 0
+0
+0
+#60166
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60167
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60168
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60169
+Ghoul Happy~
+#GA Happy Ghoul #n~
+#GA Happy Ghoul is floating here.#n
+~
+~
+3 0 0
+792 0 0 0
+0 0
+0
+0
+#60170
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60171
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60172
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60173
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+798 0 0 0
+0 0
+0
+0
+#60174
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60175
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+822 0 0 0
+0 0
+0
+0
+#60176
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+787 0 0 0
+0 0
+0
+0
+#60177
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60178
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60179
+Ghoul sad~
+#GA Sad Ghoul #n~
+#GA Sad Ghoul is floating here.#n
+~
+~
+3 0 0
+807 0 0 0
+0 0
+0
+0
+#60180
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+798 0 0 0
+0 0
+0
+0
+#60181
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+816 0 0 0
+0 0
+0
+0
+#60182
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60183
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60184
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60185
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+825 0 0 0
+0 0
+0
+0
+#60186
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60187
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60188
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60189
+Ghoul Tall~
+#GA Tall Ghoul #n~
+#GA Tall Ghoul is floating here.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60190
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+787 0 0 0
+0 0
+0
+0
+#60191
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60192
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60193
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+812 0 0 0
+0 0
+0
+0
+#60194
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60195
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+827 0 0 0
+0 0
+0
+0
+#60196
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+790 0 0 0
+0 0
+0
+0
+#60197
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60198
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60199
+Ghoul Tiny~
+#GA Tiny Ghoul #n~
+#GA Tiny Ghoul is floating here.#n
+~
+~
+3 0 0
+826 0 0 0
+0 0
+0
+0
+#60200
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+809 0 0 0
+0 0
+0
+0
+#60201
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60202
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60203
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+788 0 0 0
+0 0
+0
+0
+#60204
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+790 0 0 0
+0 0
+0
+0
+#60205
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60206
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60207
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60208
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60209
+Ghoul Huge~
+#GA Huge Ghoul #n~
+#GA Huge Ghoul is floating here.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60210
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+753 0 0 0
+0 0
+0
+0
+#60211
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60212
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60213
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+824 0 0 0
+0 0
+0
+0
+#60214
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60215
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60216
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60217
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60218
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60219
+Ghoul Sick~
+#GA Sick Ghoul #n~
+#GA Sick Ghoul is floating here.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60220
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60221
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+774 0 0 0
+0 0
+0
+0
+#60222
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60223
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+773 0 0 0
+0 0
+0
+0
+#60224
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60225
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60226
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60227
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60228
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+828 0 0 0
+0 0
+0
+0
+#60229
+Ghoul Content~
+#GA Content Ghoul #n~
+#GA Content Ghoul is floating here.#n
+~
+~
+3 0 0
+800 0 0 0
+0 0
+0
+0
+#60230
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60231
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+800 0 0 0
+0 0
+0
+0
+#60232
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60233
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60234
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+824 0 0 0
+0 0
+0
+0
+#60235
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60236
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+816 0 0 0
+0 0
+0
+0
+#60237
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+780 0 0 0
+0 0
+0
+0
+#60238
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60239
+Ghoul Scary~
+#GA Scary Ghoul #n~
+#GA Scary Ghoul is floating here.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60240
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60241
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60242
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60243
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60244
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60245
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+818 0 0 0
+0 0
+0
+0
+#60246
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60247
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+779 0 0 0
+0 0
+0
+0
+#60248
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60249
+Hairy monster~
+#GA Hairy  Monster #n~
+#GA Hairy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60250
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+826 0 0 0
+0 0
+0
+0
+#60251
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60252
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60253
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60254
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+807 0 0 0
+0 0
+0
+0
+#60255
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+778 0 0 0
+0 0
+0
+0
+#60256
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60257
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60258
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60259
+Scary monster~
+#GA Scary  Monster #n~
+#GA Scary Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60260
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+775 0 0 0
+0 0
+0
+0
+#60261
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+779 0 0 0
+0 0
+0
+0
+#60262
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60263
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+774 0 0 0
+0 0
+0
+0
+#60264
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+781 0 0 0
+0 0
+0
+0
+#60265
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60266
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+742 0 0 0
+0 0
+0
+0
+#60267
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60268
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60269
+Shadow monster~
+#GA Shadow  Monster #n~
+#GA Shadow Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+807 0 0 0
+0 0
+0
+0
+#60270
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60271
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60272
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60273
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60274
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+816 0 0 0
+0 0
+0
+0
+#60275
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+820 0 0 0
+0 0
+0
+0
+#60276
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60277
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60278
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60279
+Stinky monster~
+#GA Stinky  Monster #n~
+#GA Stinky Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+812 0 0 0
+0 0
+0
+0
+#60280
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60281
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60282
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60283
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60284
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60285
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+815 0 0 0
+0 0
+0
+0
+#60286
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60287
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60288
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+763 0 0 0
+0 0
+0
+0
+#60289
+Creepy monster~
+#GA Creepy  Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60290
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+760 0 0 0
+0 0
+0
+0
+#60291
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+777 0 0 0
+0 0
+0
+0
+#60292
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60293
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+801 0 0 0
+0 0
+0
+0
+#60294
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+809 0 0 0
+0 0
+0
+0
+#60295
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60296
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60297
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+780 0 0 0
+0 0
+0
+0
+#60298
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60299
+Flaming monster~
+#GA Flaming  Monster #n~
+#GA Flaming Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60300
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60301
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60302
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+832 0 0 0
+0 0
+0
+0
+#60303
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+781 0 0 0
+0 0
+0
+0
+#60304
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+772 0 0 0
+0 0
+0
+0
+#60305
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+777 0 0 0
+0 0
+0
+0
+#60306
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+790 0 0 0
+0 0
+0
+0
+#60307
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+779 0 0 0
+0 0
+0
+0
+#60308
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+798 0 0 0
+0 0
+0
+0
+#60309
+Powerful monster~
+#GA Powerful Monster #n~
+#GA Powerful Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60310
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+809 0 0 0
+0 0
+0
+0
+#60311
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60312
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+751 0 0 0
+0 0
+0
+0
+#60313
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60314
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60315
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+830 0 0 0
+0 0
+0
+0
+#60316
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60317
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+779 0 0 0
+0 0
+0
+0
+#60318
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60319
+Giant monster~
+#GA Giant Monster #n~
+#GA Giant Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60320
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+781 0 0 0
+0 0
+0
+0
+#60321
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60322
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60323
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60324
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60325
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+807 0 0 0
+0 0
+0
+0
+#60326
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+827 0 0 0
+0 0
+0
+0
+#60327
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60328
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60329
+Happy monster~
+#GA Happy Monster #n~
+#GA Happy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60330
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+794 0 0 0
+0 0
+0
+0
+#60331
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+801 0 0 0
+0 0
+0
+0
+#60332
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60333
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60334
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60335
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60336
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+782 0 0 0
+0 0
+0
+0
+#60337
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60338
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+826 0 0 0
+0 0
+0
+0
+#60339
+Flying monster~
+#GA Flying Monster #n~
+#GA Flying Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60340
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60341
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+823 0 0 0
+0 0
+0
+0
+#60342
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+807 0 0 0
+0 0
+0
+0
+#60343
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+826 0 0 0
+0 0
+0
+0
+#60344
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60345
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60346
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60347
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+904 0 0 0
+0 0
+0
+0
+#60348
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+836 0 0 0
+0 0
+0
+0
+#60349
+Creepy monster~
+#GA Creepy Monster #n~
+#GA Creepy Monster is hitting you upside the head.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60350
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+1028 0 0 0
+0 0
+0
+0
+#60351
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+783 0 0 0
+0 0
+0
+0
+#60352
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+774 0 0 0
+0 0
+0
+0
+#60353
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+817 0 0 0
+0 0
+0
+0
+#60354
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+829 0 0 0
+0 0
+0
+0
+#60355
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+846 0 0 0
+0 0
+0
+0
+#60356
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60357
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+846 0 0 0
+0 0
+0
+0
+#60358
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60359
+Clone~
+#GA Clone #n~
+#GA Clone of you stands here.#n
+~
+~
+3 0 0
+792 0 0 0
+0 0
+0
+0
+#60360
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+767 0 0 0
+0 0
+0
+0
+#60361
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+834 0 0 0
+0 0
+0
+0
+#60362
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+763 0 0 0
+0 0
+0
+0
+#60363
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+770 0 0 0
+0 0
+0
+0
+#60364
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60365
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+697 0 0 0
+0 0
+0
+0
+#60366
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+827 0 0 0
+0 0
+0
+0
+#60367
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+765 0 0 0
+0 0
+0
+0
+#60368
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+822 0 0 0
+0 0
+0
+0
+#60369
+Wraith~
+#GA Wraith #n~
+#GA Wraith floats around here.#n
+~
+~
+3 0 0
+827 0 0 0
+0 0
+0
+0
+#60370
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+746 0 0 0
+0 0
+0
+0
+#60371
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60372
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+775 0 0 0
+0 0
+0
+0
+#60373
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+780 0 0 0
+0 0
+0
+0
+#60374
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+827 0 0 0
+0 0
+0
+0
+#60375
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+801 0 0 0
+0 0
+0
+0
+#60376
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60377
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60378
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60379
+Wraith Giant~
+#GA Giant Wraith #n~
+#GA Giant Wraith floats around here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60380
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60381
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+835 0 0 0
+0 0
+0
+0
+#60382
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60383
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+818 0 0 0
+0 0
+0
+0
+#60384
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60385
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60386
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60387
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60388
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60389
+Wraith Skinny~
+#GA Skinny Wraith #n~
+#GA Skinny Wraith floats around here.#n
+~
+~
+3 0 0
+786 0 0 0
+0 0
+0
+0
+#60390
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+862 0 0 0
+0 0
+0
+0
+#60391
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+823 0 0 0
+0 0
+0
+0
+#60392
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60393
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+892 0 0 0
+0 0
+0
+0
+#60394
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60395
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60396
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+815 0 0 0
+0 0
+0
+0
+#60397
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+811 0 0 0
+0 0
+0
+0
+#60398
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+823 0 0 0
+0 0
+0
+0
+#60399
+Wraith Fire~
+#GA Fire Wraith #n~
+#GA Fire Wraith floats around here.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60400
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+803 0 0 0
+0 0
+0
+0
+#60401
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60402
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+801 0 0 0
+0 0
+0
+0
+#60403
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+777 0 0 0
+0 0
+0
+0
+#60404
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+800 0 0 0
+0 0
+0
+0
+#60405
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60406
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+824 0 0 0
+0 0
+0
+0
+#60407
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+806 0 0 0
+0 0
+0
+0
+#60408
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60409
+Wraith Sleeping~
+#GA Sleeping Wraith #n~
+#GA Sleeping Wraith floats around here.#n
+~
+~
+3 0 0
+790 0 0 0
+0 0
+0
+0
+#60410
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+800 0 0 0
+0 0
+0
+0
+#60411
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60412
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+830 0 0 0
+0 0
+0
+0
+#60413
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+796 0 0 0
+0 0
+0
+0
+#60414
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60415
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60416
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+821 0 0 0
+0 0
+0
+0
+#60417
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+792 0 0 0
+0 0
+0
+0
+#60418
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+809 0 0 0
+0 0
+0
+0
+#60419
+Wraith Shadow~
+#GA Shadow Wraith #n~
+#GA Shadow Wraith floats around here.#n
+~
+~
+3 0 0
+837 0 0 0
+0 0
+0
+0
+#60420
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+807 0 0 0
+0 0
+0
+0
+#60421
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+784 0 0 0
+0 0
+0
+0
+#60422
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60423
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+803 0 0 0
+0 0
+0
+0
+#60424
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+814 0 0 0
+0 0
+0
+0
+#60425
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60426
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+793 0 0 0
+0 0
+0
+0
+#60427
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+824 0 0 0
+0 0
+0
+0
+#60428
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+795 0 0 0
+0 0
+0
+0
+#60429
+Wraith Burping~
+#GA Burping Wraith #n~
+#GA Burping Wraith floats around here.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60430
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+809 0 0 0
+0 0
+0
+0
+#60431
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60432
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60433
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+788 0 0 0
+0 0
+0
+0
+#60434
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60435
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60436
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+819 0 0 0
+0 0
+0
+0
+#60437
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60438
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+792 0 0 0
+0 0
+0
+0
+#60439
+Wraith Stupid~
+#GA Stupid Wraith #n~
+#GA Stupid Wraith floats around here.#n
+~
+~
+3 0 0
+788 0 0 0
+0 0
+0
+0
+#60440
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60441
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+791 0 0 0
+0 0
+0
+0
+#60442
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+809 0 0 0
+0 0
+0
+0
+#60443
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+822 0 0 0
+0 0
+0
+0
+#60444
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60445
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+807 0 0 0
+0 0
+0
+0
+#60446
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+763 0 0 0
+0 0
+0
+0
+#60447
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60448
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+818 0 0 0
+0 0
+0
+0
+#60449
+Wraith Fuzzy~
+#GA Fuzzy Wraith #n~
+#GA Fuzzy Wraith floats around here.#n
+~
+~
+3 0 0
+785 0 0 0
+0 0
+0
+0
+#60450
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+809 0 0 0
+0 0
+0
+0
+#60451
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+838 0 0 0
+0 0
+0
+0
+#60452
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+813 0 0 0
+0 0
+0
+0
+#60453
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+777 0 0 0
+0 0
+0
+0
+#60454
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60455
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+770 0 0 0
+0 0
+0
+0
+#60456
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+812 0 0 0
+0 0
+0
+0
+#60457
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+808 0 0 0
+0 0
+0
+0
+#60458
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+797 0 0 0
+0 0
+0
+0
+#60459
+Wraith joyful~
+#GA Joyful Wraith #n~
+#GA Joyful Wraith floats around here.#n
+~
+~
+3 0 0
+809 0 0 0
+0 0
+0
+0
+#60460
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+790 0 0 0
+0 0
+0
+0
+#60461
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60462
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+832 0 0 0
+0 0
+0
+0
+#60463
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+780 0 0 0
+0 0
+0
+0
+#60464
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+780 0 0 0
+0 0
+0
+0
+#60465
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+804 0 0 0
+0 0
+0
+0
+#60466
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+829 0 0 0
+0 0
+0
+0
+#60467
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+802 0 0 0
+0 0
+0
+0
+#60468
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+810 0 0 0
+0 0
+0
+0
+#60469
+Wraith Killer~
+#GA Killer Wraith #n~
+#GA Killer Wraith floats around here.#n
+~
+~
+3 0 0
+780 0 0 0
+0 0
+0
+0
+#60470
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60471
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+800 0 0 0
+0 0
+0
+0
+#60472
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+848 0 0 0
+0 0
+0
+0
+#60473
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+805 0 0 0
+0 0
+0
+0
+#60474
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+831 0 0 0
+0 0
+0
+0
+#60475
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+799 0 0 0
+0 0
+0
+0
+#60476
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+789 0 0 0
+0 0
+0
+0
+#60477
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+787 0 0 0
+0 0
+0
+0
+#60478
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+776 0 0 0
+0 0
+0
+0
+#60479
+Wraith Loser~
+#GA Loser Wraith #n~
+#GA Loser Wraith floats around here.#n
+~
+~
+3 0 0
+757 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#60000
+Oak Branch~
+#GA Large Oak branch#n~
+#GA Large Oak branch#n~
+5 0 0 8193
+0 0 0
+none~
+none~
+18000 400 800 8
+1 0
+A
+19 100
+A
+18 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#60001
+Big black dildo~
+#0A Big black dildo#n~
+#0A Big black dildo#n~
+31 4224 0 1
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#60002
+Pile Puke~
+#yPizzaman's Pile o Puke#n~
+#yPizzaman's Pile o Puke#n~
+12 131328 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#60000
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60035
+D1
+~
+~
+0 0 60001
+S
+#60001
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60002
+D3
+~
+~
+0 0 60000
+S
+#60002
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60003
+D3
+~
+~
+0 0 60001
+S
+#60003
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60004
+D3
+~
+~
+0 0 60002
+S
+#60004
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60005
+D3
+~
+~
+0 0 60003
+S
+#60005
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60006
+D3
+~
+~
+0 0 60004
+S
+#60006
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60007
+D3
+~
+~
+0 0 60005
+S
+#60007
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60008
+D3
+~
+~
+0 0 60006
+S
+#60008
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60009
+D3
+~
+~
+0 0 60007
+S
+#60009
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60010
+D3
+~
+~
+0 0 60008
+S
+#60010
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 60011
+D3
+~
+~
+0 0 60009
+S
+#60011
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60010
+D2
+~
+~
+0 0 60012
+S
+#60012
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60011
+D3
+~
+~
+0 0 60013
+S
+#60013
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60012
+D3
+~
+~
+0 0 60014
+S
+#60014
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60013
+D3
+~
+~
+0 0 60015
+S
+#60015
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60014
+D3
+~
+~
+0 0 60016
+S
+#60016
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60015
+D3
+~
+~
+0 0 60017
+S
+#60017
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60016
+D3
+~
+~
+0 0 60018
+S
+#60018
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60017
+D3
+~
+~
+0 0 60019
+S
+#60019
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60018
+D3
+~
+~
+0 0 60020
+S
+#60020
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60019
+D3
+~
+~
+0 0 60021
+S
+#60021
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60020
+D3
+~
+~
+0 0 60022
+S
+#60022
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60021
+D2
+~
+~
+0 0 60023
+S
+#60023
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60022
+D2
+~
+~
+0 0 60024
+S
+#60024
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60023
+D1
+~
+~
+0 0 60025
+S
+#60025
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60026
+D3
+~
+~
+0 0 60024
+S
+#60026
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60027
+D3
+~
+~
+0 0 60025
+S
+#60027
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60028
+D3
+~
+~
+0 0 60026
+S
+#60028
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60029
+D3
+~
+~
+0 0 60027
+S
+#60029
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60030
+D3
+~
+~
+0 0 60028
+S
+#60030
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60031
+D3
+~
+~
+0 0 60029
+S
+#60031
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60032
+D3
+~
+~
+0 0 60030
+S
+#60032
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60033
+D3
+~
+~
+0 0 60031
+S
+#60033
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60034
+D3
+~
+~
+0 0 60032
+S
+#60034
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 60035
+D3
+~
+~
+0 0 60033
+S
+#60035
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60034
+D2
+~
+~
+0 0 60000
+S
+#60036
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 60037
+S
+#60037
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60036
+D3
+~
+~
+0 0 60038
+S
+#60038
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60037
+D3
+~
+~
+0 0 60039
+S
+#60039
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60038
+D3
+~
+~
+0 0 60040
+S
+#60040
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60039
+D3
+~
+~
+0 0 60041
+S
+#60041
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60040
+D3
+~
+~
+0 0 60042
+S
+#60042
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60041
+D3
+~
+~
+0 0 60043
+S
+#60043
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60042
+D3
+~
+~
+0 0 60044
+S
+#60044
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60043
+D3
+~
+~
+0 0 60045
+S
+#60045
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60044
+D3
+~
+~
+0 0 60046
+S
+#60046
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60045
+D2
+~
+~
+0 0 60047
+S
+#60047
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60046
+D2
+~
+~
+0 0 60048
+S
+#60048
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60047
+D1
+~
+~
+0 0 60049
+S
+#60049
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60050
+D3
+~
+~
+0 0 60048
+S
+#60050
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60051
+D3
+~
+~
+0 0 60049
+S
+#60051
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60052
+D3
+~
+~
+0 0 60050
+S
+#60052
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60053
+D3
+~
+~
+0 0 60051
+S
+#60053
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60054
+D3
+~
+~
+0 0 60052
+S
+#60054
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60055
+D3
+~
+~
+0 0 60053
+S
+#60055
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60056
+D3
+~
+~
+0 0 60054
+S
+#60056
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60057
+D3
+~
+~
+0 0 60055
+S
+#60057
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 60058
+D3
+~
+~
+0 0 60056
+S
+#60058
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 60059
+D3
+~
+~
+0 0 60057
+S
+#60059
+#GHaunted Forest#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 60058
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 60009 3 60000
+M 0 60008 3 60000
+M 0 60007 3 60000
+M 0 60006 3 60000
+M 0 60005 3 60000
+M 0 60004 3 60000
+M 0 60003 3 60000
+M 0 60002 3 60000
+M 0 60001 3 60000
+M 0 60000 3 60000
+M 0 60019 3 60001
+M 0 60018 3 60001
+M 0 60017 3 60001
+M 0 60016 3 60001
+M 0 60015 3 60001
+M 0 60014 3 60001
+M 0 60013 3 60001
+M 0 60012 3 60001
+M 0 60011 3 60001
+M 0 60010 3 60001
+M 0 60029 3 60002
+M 0 60028 3 60002
+M 0 60027 3 60002
+M 0 60026 3 60002
+M 0 60025 3 60002
+M 0 60024 3 60002
+M 0 60023 3 60002
+M 0 60022 3 60002
+M 0 60021 3 60002
+M 0 60020 3 60002
+M 0 60039 3 60003
+M 0 60038 3 60003
+M 0 60037 3 60003
+M 0 60036 3 60003
+M 0 60035 3 60003
+M 0 60034 3 60003
+M 0 60033 3 60003
+M 0 60032 3 60003
+M 0 60031 3 60003
+M 0 60030 3 60003
+M 0 60049 3 60004
+M 0 60048 3 60004
+M 0 60047 3 60004
+M 0 60046 3 60004
+M 0 60045 3 60004
+M 0 60044 3 60004
+M 0 60043 3 60004
+M 0 60042 3 60004
+M 0 60041 3 60004
+M 0 60040 3 60004
+M 0 60059 3 60005
+M 0 60058 3 60005
+M 0 60057 3 60005
+M 0 60056 3 60005
+M 0 60055 3 60005
+M 0 60054 3 60005
+M 0 60053 3 60005
+M 0 60052 3 60005
+M 0 60051 3 60005
+M 0 60050 3 60005
+M 0 60069 3 60006
+M 0 60068 3 60006
+M 0 60067 3 60006
+M 0 60066 3 60006
+M 0 60065 3 60006
+M 0 60064 3 60006
+M 0 60063 3 60006
+M 0 60062 3 60006
+M 0 60061 3 60006
+M 0 60060 3 60006
+M 0 60079 3 60007
+M 0 60078 3 60007
+M 0 60077 3 60007
+M 0 60076 3 60007
+M 0 60075 3 60007
+M 0 60074 3 60007
+M 0 60073 3 60007
+M 0 60072 3 60007
+M 0 60071 3 60007
+M 0 60070 3 60007
+M 0 60089 3 60008
+M 0 60088 3 60008
+M 0 60087 3 60008
+M 0 60086 3 60008
+M 0 60085 3 60008
+M 0 60084 3 60008
+M 0 60083 3 60008
+M 0 60082 3 60008
+M 0 60081 3 60008
+M 0 60080 3 60008
+M 0 60099 3 60009
+M 0 60098 3 60009
+M 0 60097 3 60009
+M 0 60096 3 60009
+M 0 60095 3 60009
+M 0 60094 3 60009
+M 0 60093 3 60009
+M 0 60092 3 60009
+M 0 60091 3 60009
+M 0 60090 3 60009
+M 0 60109 3 60010
+M 0 60108 3 60010
+M 0 60107 3 60010
+M 0 60106 3 60010
+M 0 60105 3 60010
+M 0 60104 3 60010
+M 0 60103 3 60010
+M 0 60102 3 60010
+M 0 60101 3 60010
+M 0 60100 3 60010
+M 0 60119 3 60011
+M 0 60118 3 60011
+M 0 60117 3 60011
+M 0 60116 3 60011
+M 0 60115 3 60011
+M 0 60114 3 60011
+M 0 60113 3 60011
+M 0 60112 3 60011
+M 0 60111 3 60011
+M 0 60110 3 60011
+M 0 60129 3 60012
+M 0 60128 3 60012
+M 0 60127 3 60012
+M 0 60126 3 60012
+M 0 60125 3 60012
+M 0 60124 3 60012
+M 0 60123 3 60012
+M 0 60122 3 60012
+M 0 60121 3 60012
+M 0 60120 3 60012
+M 0 60139 3 60013
+M 0 60138 3 60013
+M 0 60137 3 60013
+M 0 60136 3 60013
+M 0 60135 3 60013
+M 0 60134 3 60013
+M 0 60133 3 60013
+M 0 60132 3 60013
+M 0 60131 3 60013
+M 0 60130 3 60013
+M 0 60149 3 60014
+M 0 60148 3 60014
+M 0 60147 3 60014
+M 0 60146 3 60014
+M 0 60145 3 60014
+M 0 60144 3 60014
+M 0 60143 3 60014
+M 0 60142 3 60014
+M 0 60141 3 60014
+M 0 60140 3 60014
+M 0 60159 3 60015
+M 0 60158 3 60015
+M 0 60157 3 60015
+M 0 60156 3 60015
+M 0 60155 3 60015
+M 0 60154 3 60015
+M 0 60153 3 60015
+M 0 60152 3 60015
+M 0 60151 3 60015
+M 0 60150 3 60015
+M 0 60169 3 60016
+M 0 60168 3 60016
+M 0 60167 3 60016
+M 0 60166 3 60016
+M 0 60165 3 60016
+M 0 60164 3 60016
+M 0 60163 3 60016
+M 0 60162 3 60016
+M 0 60161 3 60016
+M 0 60160 3 60016
+M 0 60179 3 60017
+M 0 60178 3 60017
+M 0 60177 3 60017
+M 0 60176 3 60017
+M 0 60175 3 60017
+M 0 60174 3 60017
+M 0 60173 3 60017
+M 0 60172 3 60017
+M 0 60171 3 60017
+M 0 60170 3 60017
+M 0 60189 3 60018
+M 0 60188 3 60018
+M 0 60187 3 60018
+M 0 60186 3 60018
+M 0 60185 3 60018
+M 0 60184 3 60018
+M 0 60183 3 60018
+M 0 60182 3 60018
+M 0 60181 3 60018
+M 0 60180 3 60018
+M 0 60199 3 60019
+M 0 60198 3 60019
+M 0 60197 3 60019
+M 0 60196 3 60019
+M 0 60195 3 60019
+M 0 60194 3 60019
+M 0 60193 3 60019
+M 0 60192 3 60019
+M 0 60191 3 60019
+M 0 60190 3 60019
+M 0 60209 3 60020
+M 0 60208 3 60020
+M 0 60207 3 60020
+M 0 60206 3 60020
+M 0 60205 3 60020
+M 0 60204 3 60020
+M 0 60203 3 60020
+M 0 60202 3 60020
+M 0 60201 3 60020
+M 0 60200 3 60020
+M 0 60219 3 60021
+M 0 60218 3 60021
+M 0 60217 3 60021
+M 0 60216 3 60021
+M 0 60215 3 60021
+M 0 60214 3 60021
+M 0 60213 3 60021
+M 0 60212 3 60021
+M 0 60211 3 60021
+M 0 60210 3 60021
+M 0 60229 3 60022
+M 0 60228 3 60022
+M 0 60227 3 60022
+M 0 60226 3 60022
+M 0 60225 3 60022
+M 0 60224 3 60022
+M 0 60223 3 60022
+M 0 60222 3 60022
+M 0 60221 3 60022
+M 0 60220 3 60022
+M 0 60239 3 60023
+M 0 60238 3 60023
+M 0 60237 3 60023
+M 0 60236 3 60023
+M 0 60235 3 60023
+M 0 60234 3 60023
+M 0 60233 3 60023
+M 0 60232 3 60023
+M 0 60231 3 60023
+M 0 60230 3 60023
+M 0 60249 3 60024
+M 0 60248 3 60024
+M 0 60247 3 60024
+M 0 60246 3 60024
+M 0 60245 3 60024
+M 0 60244 3 60024
+M 0 60243 3 60024
+M 0 60242 3 60024
+M 0 60241 3 60024
+M 0 60240 3 60024
+M 0 60259 3 60025
+M 0 60258 3 60025
+M 0 60257 3 60025
+M 0 60256 3 60025
+M 0 60255 3 60025
+M 0 60254 3 60025
+M 0 60253 3 60025
+M 0 60252 3 60025
+M 0 60251 3 60025
+M 0 60250 3 60025
+M 0 60269 3 60026
+M 0 60268 3 60026
+M 0 60267 3 60026
+M 0 60266 3 60026
+M 0 60265 3 60026
+M 0 60264 3 60026
+M 0 60263 3 60026
+M 0 60262 3 60026
+M 0 60261 3 60026
+M 0 60260 3 60026
+M 0 60279 3 60027
+M 0 60278 3 60027
+M 0 60277 3 60027
+M 0 60276 3 60027
+M 0 60275 3 60027
+M 0 60274 3 60027
+M 0 60273 3 60027
+M 0 60272 3 60027
+M 0 60271 3 60027
+M 0 60270 3 60027
+M 0 60289 3 60028
+M 0 60288 3 60028
+M 0 60287 3 60028
+M 0 60286 3 60028
+M 0 60285 3 60028
+M 0 60284 3 60028
+M 0 60283 3 60028
+M 0 60282 3 60028
+M 0 60281 3 60028
+M 0 60280 3 60028
+M 0 60299 3 60029
+M 0 60298 3 60029
+M 0 60297 3 60029
+M 0 60296 3 60029
+M 0 60295 3 60029
+M 0 60294 3 60029
+M 0 60293 3 60029
+M 0 60292 3 60029
+M 0 60291 3 60029
+M 0 60290 3 60029
+M 0 60309 3 60030
+M 0 60308 3 60030
+M 0 60307 3 60030
+M 0 60306 3 60030
+M 0 60305 3 60030
+M 0 60304 3 60030
+M 0 60303 3 60030
+M 0 60302 3 60030
+M 0 60301 3 60030
+M 0 60300 3 60030
+M 0 60319 3 60031
+M 0 60318 3 60031
+M 0 60317 3 60031
+M 0 60316 3 60031
+M 0 60315 3 60031
+M 0 60314 3 60031
+M 0 60313 3 60031
+M 0 60312 3 60031
+M 0 60311 3 60031
+M 0 60310 3 60031
+M 0 60329 3 60032
+M 0 60328 3 60032
+M 0 60327 3 60032
+M 0 60326 3 60032
+M 0 60325 3 60032
+M 0 60324 3 60032
+M 0 60323 3 60032
+M 0 60322 3 60032
+M 0 60321 3 60032
+M 0 60320 3 60032
+M 0 60339 3 60033
+M 0 60338 3 60033
+M 0 60337 3 60033
+M 0 60336 3 60033
+M 0 60335 3 60033
+M 0 60334 3 60033
+M 0 60333 3 60033
+M 0 60332 3 60033
+M 0 60331 3 60033
+M 0 60330 3 60033
+M 0 60349 3 60034
+M 0 60348 3 60034
+M 0 60347 3 60034
+M 0 60346 3 60034
+M 0 60345 3 60034
+M 0 60344 3 60034
+M 0 60343 3 60034
+M 0 60342 3 60034
+M 0 60341 3 60034
+M 0 60340 3 60034
+M 0 60359 3 60035
+M 0 60358 3 60035
+M 0 60357 3 60035
+M 0 60356 3 60035
+M 0 60355 3 60035
+M 0 60354 3 60035
+M 0 60353 3 60035
+M 0 60352 3 60035
+M 0 60351 3 60035
+M 0 60350 3 60035
+M 0 60369 3 60036
+M 0 60368 3 60036
+M 0 60367 3 60036
+M 0 60366 3 60036
+M 0 60365 3 60036
+M 0 60364 3 60036
+M 0 60363 3 60036
+M 0 60362 3 60036
+M 0 60361 3 60036
+M 0 60360 3 60036
+S
+
+
+
+#$

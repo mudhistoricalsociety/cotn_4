@@ -1,0 +1,167 @@
+#AREADATA
+Name        mayhem~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40400 40499
+Cvnum       0
+Security    1
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#40400
+Guardian of star~
+#rGuardian #Ro#0f #RM#0ayhem#n~
+#r.x[ #RT#0he #RP#0urest #RF#0orm #Ro#0f #RM#0ayhem #r]x.#n
+~
+~
+100355 0 0
+3995 75 20 3
+2 3
+0
+0
+#40401
+Healer Star~
+#RH#0e#wal#0e#Rr #0of #RM#0a#wyh#0e#Rm#n~
+#RH#0e#wal#0e#Rr #0of #RM#0a#wyh#0e#Rm#n
+~
+~
+101395 268435624 1000
+4006 0 0 0
+0 0
+0
+0
+#40402
+nightmare healer~
+#LMy#Cs#Wid#Ci#Lan H#Ce#Wal#Ce#Lr#n~
+#LMy#Cs#Wid#Ci#Lan H#Ce#Wal#Ce#Lr#n
+~
+~
+101395 268435624 0
+3987 100 20 3
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#40400
+Kingdom of #y=#p-#cs#gta#cr#p-#y=#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40403
+D5
+~
+~
+0 0 2172
+S
+#40401
+Bank of #y-#p=#cs#gta#cr#p=#y-#n~
+~
+4096 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40402
+D2
+~
+~
+0 0 40403
+S
+#40402
+Healing Room of #y=#p-#cs#gta#cr#p-#y=#n~
+~
+8 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 40401
+S
+#40403
+The #y-#p=#cs#gta#cr#p=#y-#n Throne Room~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40401
+D1
+~
+~
+0 0 40404
+D2
+~
+~
+0 0 40405
+D3
+~
+~
+0 0 40400
+S
+#40404
+#BStorage of Star#n~
+~
+1024 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 40403
+S
+#40405
+#BStar Quarters#n~
+~
+1024 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40403
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+M 40400 spec_guard_two
+M 40401 spec_cast_adept
+M 40402 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 40400 1 40400
+M 0 40401 1 40402
+S
+
+
+
+#$

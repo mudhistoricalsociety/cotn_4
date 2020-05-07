@@ -1,0 +1,610 @@
+#AREADATA
+Name        trainingarea~
+Builders    None~
+Music       default.mid~
+VNUMs       50850 50900
+Cvnum       0
+Security    1
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#50851
+A mean old granny.~
+#sA #Bm#be#Ba#bn #Yo#yl#Yd #Pg#prann#Py#n~
+#sA #Bm#be#Ba#bn #Yo#yl#Yd #Pg#prann#Py#n is here growling.
+~
+Shes a mean bitty old lady, she gives you the evil eye just for looking at her.
+~
+205971 0 0
+99 100 20 0
+2 0
+0
+0
+#50852
+a mean old man~
+#BA #Pm#pean #Co#cl#Cd #gm#Gan#n~
+#BA #Pm#pean #Co#cl#Cd #gm#Gan#n is here knocking young kids upside their heads.
+~
+This old geezer was in the merchants marines, apparently he still has fight left in him after all these years.
+~
+205971 0 -1000
+113 100 20 0
+1 0
+0
+0
+#50853
+anne train~
+#rA#Rnn#re#n~
+#rA#Rnn#re#n the red headed step child is here.
+~
+There is just something about this kid that just makes you want to smack them...
+~
+196755 0 -1000
+82 100 20 0
+2 0
+0
+0
+#50854
+An evil Substitute~
+#DA#wn #Re#rv#Ril #GS#gubst#Gi#gt#Gut#ge#n~
+#DA#wn #Re#rv#Ril #GS#gubst#Gi#gt#Gut#ge#n is here, cursing at the students.
+~
+~
+196755 0 -1000
+118 100 20 0
+2 0
+0
+0
+#50855
+Touchy priest~
+#RA #pt#Po#pu#Pc#ph#Py #Wp#wr#Wi#we#Ws#wt#n~
+#RA #pt#Po#pu#Pc#ph#Py #Wp#wr#Wi#we#Ws#wt#n is here search for an alter boy.
+~
+Yeah right... holyer then thou... hes the worse kind of person there is. So its time to teach him a lesson.
+~
+205971 0 1000
+92 100 20 0
+1 0
+0
+0
+#50856
+the Newbie Healer~
+#Yt#yhe #GN#ge#Gw#gb#Gi#ge #PH#pea#Pl#per#n~
+#Yt#yhe #GN#ge#Gw#gb#Gi#ge #PH#pea#Pl#per#n is here, fixing up the little people.
+~
+Shes as old as the hills, and rather wrinkled. Her tanned leather hide seems to wiggle about as she moves.
+~
+73747 0 1000
+994 100 20 0
+2 0
+0
+0
+#50857
+a newbie nurse~
+#YA #gN#Ge#gw#Gb#gi#Ge #RN#ru#Rr#rs#Re#n~
+#YA #gN#Ge#gw#Gb#gi#Ge #RN#ru#Rr#rs#Re#n trying to comfort some of the injured.
+~
+One on thing would go threw most mudders mind..
+Heeeeeeeellllllllloooooooooooooooooooooo Nurse!
+~
+19 8 1000
+1016 0 0 0
+2 0
+0
+0
+#50858
+the Newbie bitch~
+#GT#ghe #Cn#ce#Cw#cb#Ci#ce #Bb#Wi#Bt#Wc#Bh#n ~
+#GT#ghe #Cn#ce#Cw#cb#Ci#ce #Bb#Wi#Bt#Wc#Bh#n is here, ready for all of your newbie needs.
+~
+Shes a foxy chick with a big #GN#n on her forehead.
+~
+65555 0 0
+3014 0 0 0
+2 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#50850
+a bone carved whip bite weapon~
+#ba #wb#Wo#wne #0c#Warv#0ed #cw#whip#n.~
+#bA #wb#Wo#wne #0c#Warv#0ed #cw#whip#n is here, awaiting its next victom.~
+5 0 0 8193
+0 0 0
+none~
+none~
+0 60 70 10
+10 1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50851
+n newbie mark face ~
+#GN#n~
+#GN#n is here vibratating with Super Newbie powers!~
+9 262147 0 32769
+0 0 0
+none~
+none~
+25 0 0 16
+40 500
+A
+4 30
+A
+3 30
+A
+5 30
+A
+19 35
+A
+18 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50852
+a tiny faerie floater~
+#Y=#y>#WA #Ct#cin#Cy #Pf#pa#Pe#pr#Pi#pe#y<#Y=#n~
+#WA #Ct#cin#Cy #Pf#pa#Pe#pr#Pi#pe#y#n is here about to pass out.~
+9 262155 65536 524289
+0 0 0
+none~
+none~
+0 0 0 0
+1 200
+A
+14 5000
+A
+12 5000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50858
+a bloody deer hook grepper~
+#ca #Rb#rlo#Ro#rdy #0g#Cr#0e#cp#0p#Ce#0r#n~
+#ca #Rb#rlo#Ro#rdy #0g#Cr#0e#cp#0p#Ce#0r#n gleams wickedly  from the shadows.~
+5 0 0 8193
+0 0 0
+none~
+none~
+0 60 80 9
+12 1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#50850
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 50858
+D2
+~
+~
+0 0 50857
+D4
+~
+~
+3 0 50851
+D5
+~
+~
+0 0 3054
+S
+#50851
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 50853
+D1
+~
+~
+0 0 50854
+D2
+~
+~
+0 0 50852
+D3
+~
+~
+0 0 50855
+D4
+~
+~
+0 0 50856
+D5
+~
+~
+3 0 50850
+S
+#50852
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 50851
+S
+#50853
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 50851
+S
+#50854
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 50851
+S
+#50855
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 50851
+S
+#50856
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+16794628 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D5
+~
+~
+0 0 50851
+S
+#50857
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya #PS#ppe#Pl#pl #0R#woo#Wm#s!#s!#s!~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 50850
+S
+#50858
+#pT#Ph#pe #GN#ge#Gw#gb#GI#ge #0S#wt#Wo#wR#0e#s!#n~
+~
+4 0 1
+50858 50850 50852 50851 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 50850
+S
+#50859
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082190896 
+S
+#50860
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082191348 
+S
+#50861
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082191860 
+S
+#50862
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082192312 
+S
+#50863
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082192764 
+S
+#50864
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082193216 
+S
+#50865
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082193668 
+S
+#50866
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082194060 
+S
+#50867
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082194512 
+S
+#50868
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082194964 
+S
+#50869
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082195416 
+S
+#50870
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082195868 
+S
+#50871
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082196320 
+S
+#50872
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082196772 
+S
+#50873
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082197224 
+S
+#50874
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082197616 
+S
+#50875
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082198068 
+S
+#50876
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082198520 
+S
+#50877
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082198972 
+S
+#50878
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082199424 
+S
+#50879
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082199876 
+S
+#50880
+#CT#cr#Ca#ci#Cn#ci#Cn#cg #YA#yre#Ya#s!#n~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082200328 
+S
+#50881
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082200780 
+S
+#50882
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082201232 
+S
+#50883
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082201684 
+S
+#50884
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082202136 
+S
+#50885
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082202588 
+S
+#50886
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082203040 
+S
+#50887
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082203492 
+S
+#50888
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082203944 
+S
+#50889
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082204396 
+S
+#50890
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082204848 
+S
+#50891
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082205360 
+S
+#50892
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082205812 
+S
+#50893
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082206264 
+S
+#50894
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082206596 
+S
+#50895
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082207048 
+S
+#50896
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082207500 
+S
+#50897
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082207952 
+S
+#50898
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1082208404 
+S
+#50899
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+Z 50856 shopspec_healer
+M 50857 spec_cast_adept
+Z 50858 shopspec_generic
+S
+
+
+
+#RESETS
+M 0 50851 1 50851
+M 0 50852 1 50852
+M 0 50853 1 50853
+M 0 50854 1 50854
+M 0 50855 1 50855
+M 0 50856 1 50856
+M 0 50857 1 50856
+M 0 50858 1 50858
+S
+
+
+
+#$

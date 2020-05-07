@@ -1,0 +1,309 @@
+#AREADATA
+Name        Zarius  The Land of Mystery~
+Builders    Zarius~
+Music       default.mid~
+VNUMs       78100 78199
+Cvnum       0
+Security    9
+Areabits    0
+SecType  32
+WeatAl  2
+End
+
+
+
+#MOBILES
+#78100
+Mindcloud Fairy~
+#sMindcloud #sFairy#n~
+A crazy looking fairy is smoking weed.
+~
+~
+196609 64 1000
+3033 0 0 0
+2 0
+0
+0
+#78101
+mindcloud tax man~
+#0Mindcloud #BTax #WMan#n~
+A man collecting dues is running people down
+~
+~
+196609 0 -1000
+3004 0 0 0
+1 0
+0
+0
+#78103
+britney slut~
+#PBritney#n~
+#PBritney #0the nasty slut wants to please you#n
+~
+~
+3 40 0
+110 0 0 0
+2 4
+0
+0
+M ACT 78103 sit~
+M SPEECH 2 hi~
+#78104
+Murdock~
+#YMurdock#n~
+A puppy named "Murdock" sits here wagging his tail
+~
+~
+533 1049120 1000
+4008 100 20 3
+1 10
+0
+0
+#0
+
+
+
+#OBJECTS
+#78100
+sword blade~
+#wthe #Wblade #wof a #0sword#n~
+#wthe #Wblade #wof a #0sword#w lies here.#n~
+34 0 0 1
+0 0 0
+none~
+none~
+0 78101 78102 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78101
+sword hilt~
+#wthe #Yhilt #wof a #0sword#n~
+#wthe #Yhilt #wof a #0sword#w lies here.#n~
+34 0 0 1
+0 0 0
+none~
+none~
+78100 0 78102 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78102
+sword ancient~
+#B|#W*#B| #wSword of the #0Ancients #B|#W*#B|#n~
+A mystical sword lies here.~
+5 3 0 8193
+0 0 0
+none~
+none~
+0 80 140 1
+1 100000
+A
+18 30
+A
+19 30
+A
+1 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78104
+orc grenade~
+#0an #ROrc #gGrenade#n~
+A grenade has been dropped here~
+55 0 0 16385
+0 0 0
+none~
+none~
+0 0 2000 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78105
+jacuzzi~
+#CBubbling #PJacuzzi#n~
+#0a #CBubbling #PJacuzzi#0 is mounted into the floor here#n~
+6 0 0 0
+100 100 1
+none~
+none~
+5 1000 2336 100
+100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78106
+window~
+bay window~
+A bay window is set into the wall here~
+7 0 0 0
+0 0 0
+none~
+none~
+3001 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78107
+beanbag chair~
+#YBeanbag #Bchair#n~
+A #YBean#ybag #Bchair#n is here.~
+6 0 0 0
+100 0 0
+none~
+none~
+2 10000 16 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78108
+badger~
+#0a #rcrazy #YBad#yger#n~
+#wa #rcrazy #YBad#yger #w is running in circles.#n~
+58 16512 0 1
+0 0 0
+$p #RG#rn#YA#rw#rS #Won $N! #0(#w%d#0)#n~
+$p #RG#rn#YA#rw#rS #Won you! #0(#w%d#0)#n~
+2 1 40 0 75 0 110 0
+1 2000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78109
+ultimate weapon dragon~
+a dragon~
+A wicked dragon~
+58 16512 0 1
+0 0 0
+$p sends forth a blast of flame at $N! [%d]~
+$p sends forth a blast of flame at you! [%d]~
+9 1 150 2 80 1999999 100 0
+1 500000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#78100
+Zarius's Office~
+Hey, everyone needs somewhere to relax
+ 
+~
+16388 9 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+1 0 78101
+R SPEECH 1 food~
+S
+#78101
+Back Yard~
+This is the back yard of Zarius's house where he keeps the dog. 
+~
+0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 78100
+S
+#78102
+Another room~
+The den
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 78103 
+S
+#0
+
+
+
+#MOBPROGS
+#78103
+spank $n
+sleep 10
+wankoff $n
+~
+#0
+
+#OBJPROGS
+#78100
+~
+#0
+
+#ROOMPROGS
+#78100
+ROOM echo $n, You lazy bastard!
+~
+#0
+
+#SPECIALS
+M 78100 spec_fairy
+M 78101 spec_taxman
+M 78104 spec_dog
+S
+
+
+
+#RESETS
+M 0 78100 3 78100
+M 0 78103 1 78102
+S
+
+
+
+#$

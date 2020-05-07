@@ -1,0 +1,1393 @@
+Mon Oct 27 23:58:21 2003 :: loading help.are
+Mon Oct 27 23:58:21 2003 :: loading fortress.are
+Mon Oct 27 23:58:21 2003 :: loading kavir.are
+Mon Oct 27 23:58:21 2003 :: loading dragon2.are
+Mon Oct 27 23:58:21 2003 :: loading dragonheart.are
+Mon Oct 27 23:58:21 2003 :: loading sunyata.are
+Mon Oct 27 23:58:21 2003 :: loading eoeasy.are
+Mon Oct 27 23:58:21 2003 :: loading eohard.are
+Mon Oct 27 23:58:21 2003 :: loading midgaard.are
+Mon Oct 27 23:58:21 2003 :: loading atlantis.are
+Mon Oct 27 23:58:21 2003 :: loading air.are
+Mon Oct 27 23:58:21 2003 :: loading limbo.are
+Mon Oct 27 23:58:21 2003 :: loading smurf.are
+Mon Oct 27 23:58:21 2003 :: loading plains.are
+Mon Oct 27 23:58:21 2003 :: loading ultima.are
+Mon Oct 27 23:58:21 2003 :: loading ofcol2.are
+Mon Oct 27 23:58:21 2003 :: loading hitower.are
+Mon Oct 27 23:58:21 2003 :: loading olympus.are
+Mon Oct 27 23:58:21 2003 :: loading shire.are
+Mon Oct 27 23:58:21 2003 :: loading gnome.are
+Mon Oct 27 23:58:21 2003 :: loading wyvern.are
+Mon Oct 27 23:58:21 2003 :: loading catacomb.are
+Mon Oct 27 23:58:21 2003 :: loading hood.are
+Mon Oct 27 23:58:21 2003 :: loading draconia.are
+Mon Oct 27 23:58:21 2003 :: loading mahntor.are
+Mon Oct 27 23:58:21 2003 :: loading trollden.are
+Mon Oct 27 23:58:21 2003 :: loading firenewt.are
+Mon Oct 27 23:58:21 2003 :: loading chapel.are
+Mon Oct 27 23:58:21 2003 :: loading midennir.are
+Mon Oct 27 23:58:21 2003 :: loading grave.are
+Mon Oct 27 23:58:21 2003 :: loading school.are
+Mon Oct 27 23:58:21 2003 :: loading moria.are
+Mon Oct 27 23:58:21 2003 :: loading juargan.are
+Mon Oct 27 23:58:21 2003 :: loading eastern.are
+Mon Oct 27 23:58:21 2003 :: loading pyramid.are
+Mon Oct 27 23:58:21 2003 :: loading drow.are
+Mon Oct 27 23:58:21 2003 :: loading thalos.are
+Mon Oct 27 23:58:21 2003 :: loading mirror.are
+Mon Oct 27 23:58:21 2003 :: loading ofcol.are
+Mon Oct 27 23:58:21 2003 :: loading arachnos.are
+Mon Oct 27 23:58:21 2003 :: loading daycare.are
+Mon Oct 27 23:58:21 2003 :: loading sewer.are
+Mon Oct 27 23:58:21 2003 :: loading valley.are
+Mon Oct 27 23:58:21 2003 :: loading mega1.are
+Mon Oct 27 23:58:21 2003 :: loading marsh.are
+Mon Oct 27 23:58:21 2003 :: loading dream.are
+Mon Oct 27 23:58:21 2003 :: loading dylan.are
+Mon Oct 27 23:58:21 2003 :: loading canyon.are
+Mon Oct 27 23:58:21 2003 :: loading galaxy.are
+Mon Oct 27 23:58:21 2003 :: loading mobfact.are
+Mon Oct 27 23:58:21 2003 :: loading start.are
+Mon Oct 27 23:58:21 2003 :: loading quest.are
+Mon Oct 27 23:58:21 2003 :: loading doom.are
+Mon Oct 27 23:58:21 2003 :: loading Vallanda.are
+Mon Oct 27 23:58:21 2003 :: loading weed.are
+Mon Oct 27 23:58:21 2003 :: loading arena.are
+Mon Oct 27 23:58:21 2003 :: loading astral.are
+Mon Oct 27 23:58:21 2003 :: loading hell.are
+Mon Oct 27 23:58:21 2003 :: loading heaven.are
+Mon Oct 27 23:58:21 2003 :: loading dystopia.are
+Mon Oct 27 23:58:21 2003 :: loading dawnjobo.are
+Mon Oct 27 23:58:21 2003 :: loading classeq.are
+Mon Oct 27 23:58:21 2003 :: loading domeship.are
+Mon Oct 27 23:58:21 2003 :: loading disney.are
+Mon Oct 27 23:58:21 2003 :: loading classhq.are
+Mon Oct 27 23:58:21 2003 :: loading willaz1.are
+Mon Oct 27 23:58:21 2003 :: loading workshop.are
+Mon Oct 27 23:58:21 2003 :: loading jatr1.are
+Mon Oct 27 23:58:21 2003 :: loading palmer.are
+Mon Oct 27 23:58:21 2003 :: loading jungle.are
+Mon Oct 27 23:58:21 2003 :: loading den.are
+Mon Oct 27 23:58:21 2003 :: loading zarius.are
+Mon Oct 27 23:58:21 2003 :: loading area75.are
+Mon Oct 27 23:58:21 2003 :: loading kingone.are
+Mon Oct 27 23:58:21 2003 :: loading area77.are
+Mon Oct 27 23:58:21 2003 :: loading area78.are
+Mon Oct 27 23:58:21 2003 :: loading area79.are
+Mon Oct 27 23:58:21 2003 :: loading area80.are
+Mon Oct 27 23:58:21 2003 :: loading area81.are
+Mon Oct 27 23:58:21 2003 :: loading area82.are
+Mon Oct 27 23:58:21 2003 :: loading area83.are
+Mon Oct 27 23:58:21 2003 :: loading area84.are
+Mon Oct 27 23:58:21 2003 :: loading mobprogs.are
+Mon Oct 27 23:58:21 2003 :: loading area85.are
+Mon Oct 27 23:58:21 2003 :: loading darklady.are
+Mon Oct 27 23:58:21 2003 :: loading crypt.are
+Mon Oct 27 23:58:21 2003 :: loading deathgld.are
+Mon Oct 27 23:58:21 2003 :: loading area87.are
+Mon Oct 27 23:58:21 2003 :: Loading Bans
+Mon Oct 27 23:58:21 2003 :: Loading Leaderboard
+Mon Oct 27 23:58:21 2003 :: Loading Kingdoms
+Mon Oct 27 23:58:21 2003 :: Loading Religions
+Mon Oct 27 23:58:21 2003 :: Loading Wars
+Mon Oct 27 23:58:21 2003 :: Loading Boards
+Mon Oct 27 23:58:21 2003 :: Loading Notes
+Mon Oct 27 23:58:21 2003 :: Loading Disabled
+Mon Oct 27 23:58:21 2003 :: Loading Mudinfo
+Mon Oct 27 23:58:21 2003 :: Loading CCenter
+Mon Oct 27 23:58:21 2003 :: Loading Projects
+Mon Oct 27 23:58:21 2003 :: Loading Coreinfo
+Mon Oct 27 23:58:21 2003 :: Loading Changes
+Mon Oct 27 23:58:21 2003 :: Loading Wizlist.
+Mon Oct 27 23:58:21 2003 :: Loading Socials
+Mon Oct 27 23:58:21 2003 :: Fixing Mobprogs
+Mon Oct 27 23:58:21 2003 :: Loading Artifacts
+Mon Oct 27 23:58:21 2003 :: Mindcloud is ready to rock on port 4000.
+Tue Oct 28 00:02:39 2003 :: Crupi trying to connect.
+Tue Oct 28 00:02:41 2003 :: Crupi@ppp-63-198-17-186.dialup.chic01.pacbell.net has connected.
+Tue Oct 28 00:20:57 2003 :: Log Crupi: relevel
+Tue Oct 28 00:21:38 2003 :: Shwt trying to connect.
+Tue Oct 28 00:21:40 2003 :: Shwt@Courtney.gsu.edu has connected.
+Tue Oct 28 00:22:57 2003 :: Akira trying to connect.
+Tue Oct 28 00:22:58 2003 :: Akira@adsl-67-117-31-146.dsl.chic01.pacbell.net has connected.
+Tue Oct 28 00:25:14 2003 :: Log Crupi: command golem
+Tue Oct 28 00:27:08 2003 :: Anubis trying to connect.
+Tue Oct 28 00:27:09 2003 :: Anubis@h68-146-243-152.cg.shawcable.net has connected.
+Tue Oct 28 00:28:01 2003 :: Anubis has quit.
+Read_from_descriptor: Connection reset by peer
+Tue Oct 28 00:30:29 2003 :: Log Crupi: bind        create      deny        disconnect  divorce     fcommand    
+Tue Oct 28 00:30:29 2003 :: Log Crupi: freeze      marry       qset        qstat       qtrust      prename     
+Tue Oct 28 00:30:30 2003 :: Log Crupi: wiznet      users       omni        hreload     force       pfile       
+Tue Oct 28 00:30:30 2003 :: Log Crupi: randomload  oset        otransfer   pset        pstat       purge       
+Tue Oct 28 00:33:55 2003 :: Log Crupi: deny callgolems
+Tue Oct 28 00:34:26 2003 :: Log Crupi: restore
+Tue Oct 28 00:34:32 2003 :: Log Crupi: restore all
+Tue Oct 28 00:46:22 2003 :: Rapacious trying to connect.
+Tue Oct 28 00:46:26 2003 :: Rapacious@p9-max1.rot.ihug.co.nz has connected.
+Tue Oct 28 00:52:23 2003 :: Shwt has quit.
+Tue Oct 28 00:53:27 2003 :: Log Crupi: give token zombie
+Tue Oct 28 00:56:23 2003 :: Log Akira: order
+Tue Oct 28 00:56:26 2003 :: Log Akira: order zombie follow akira
+Tue Oct 28 00:56:32 2003 :: Log Akira: order zombie group akira
+Tue Oct 28 00:58:40 2003 :: Akira has quit.
+Tue Oct 28 00:59:09 2003 :: Crupi has quit.
+Tue Oct 28 01:09:05 2003 :: Akira trying to connect.
+Tue Oct 28 01:09:06 2003 :: Akira@adsl-67-117-31-146.dsl.chic01.pacbell.net has connected.
+Tue Oct 28 01:14:39 2003 :: Log Akira: order zombie follow akira
+Tue Oct 28 01:15:15 2003 :: Rapacious has quit.
+Tue Oct 28 01:15:28 2003 :: Voracious trying to connect.
+Tue Oct 28 01:15:31 2003 :: Voracious@p9-max1.rot.ihug.co.nz has connected.
+Tue Oct 28 01:16:15 2003 :: Log Akira: order zombie follow
+Tue Oct 28 01:25:19 2003 :: Tax collector got Voracious for 354 bones (from bank).
+Tue Oct 28 01:27:15 2003 :: Voracious has quit.
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Tue Oct 28 01:38:16 2003 :: Girdlefanny trying to connect.
+Tue Oct 28 01:38:17 2003 :: Girdlefanny@Courtney.gsu.edu has connected.
+Tue Oct 28 01:40:57 2003 :: Girdlefanny has quit.
+Tue Oct 28 01:45:08 2003 :: Log Akira: give eye ro
+Tue Oct 28 01:45:59 2003 :: Akira has quit.
+Tue Oct 28 01:46:06 2003 :: Akira trying to connect.
+Tue Oct 28 01:46:06 2003 :: Akira@adsl-67-117-31-146.dsl.chic01.pacbell.net has connected.
+Tue Oct 28 02:27:13 2003 :: Akira has quit.
+Tue Oct 28 02:43:34 2003 :: Rand trying to connect.
+Tue Oct 28 02:43:35 2003 :: Rand@fctnts08c005.nbnet.nb.ca has connected.
+Tue Oct 28 02:57:30 2003 :: Rand has quit.
+Tue Oct 28 02:57:36 2003 :: Rand trying to connect.
+Tue Oct 28 02:57:37 2003 :: Rand@fctnts08c005.nbnet.nb.ca has connected.
+Tue Oct 28 03:06:25 2003 :: Closing link to Rand.
+Tue Oct 28 03:06:27 2003 :: Rand trying to connect.
+Tue Oct 28 03:06:28 2003 :: Rand@fctnts08c005.nbnet.nb.ca reconnected.
+Tue Oct 28 03:13:47 2003 :: Rand has quit.
+Tue Oct 28 05:47:34 2003 :: Akira trying to connect.
+Tue Oct 28 05:47:35 2003 :: Akira@adsl-67-126-198-109.dsl.chic01.pacbell.net has connected.
+Tue Oct 28 05:53:44 2003 :: Rand trying to connect.
+Tue Oct 28 05:53:45 2003 :: Rand@fctnts08c005.nbnet.nb.ca has connected.
+Tue Oct 28 05:54:12 2003 :: Rand has quit.
+Tue Oct 28 06:13:23 2003 :: Crupi trying to connect.
+Tue Oct 28 06:13:25 2003 :: Crupi@66-42-81-13.stkn.pcweb.net has connected.
+Tue Oct 28 06:14:09 2003 :: Log Crupi: deny
+Tue Oct 28 06:14:16 2003 :: Log Crupi: deny golemcall
+Tue Oct 28 06:14:24 2003 :: Log Crupi: release
+Tue Oct 28 06:15:13 2003 :: Log Crupi: bind
+Tue Oct 28 06:22:12 2003 :: Essex trying to connect.
+Tue Oct 28 06:22:15 2003 :: Essex@68.27.91.31 has connected.
+Tue Oct 28 06:24:53 2003 :: Essex has quit.
+Tue Oct 28 06:26:58 2003 :: Crupi has quit.
+Tue Oct 28 06:29:17 2003 :: Essex trying to connect.
+Tue Oct 28 06:29:19 2003 :: Essex@68.27.91.31 has connected.
+Tue Oct 28 06:57:33 2003 :: Essex has quit.
+Tue Oct 28 07:02:28 2003 :: Essex trying to connect.
+Tue Oct 28 07:02:31 2003 :: Essex@68.27.91.31 has connected.
+Tue Oct 28 07:26:35 2003 :: Essex has quit.
+Tue Oct 28 07:44:31 2003 :: Tahiri trying to connect.
+Tue Oct 28 07:44:33 2003 :: Tahiri@qwest-png-ip136.scinternet.net has connected.
+Tue Oct 28 07:45:01 2003 :: Log Tahiri: mastery
+Tue Oct 28 07:45:43 2003 :: Tahiri has quit.
+Tue Oct 28 07:45:49 2003 :: Nomsyp trying to connect.
+Tue Oct 28 07:45:50 2003 :: Nomsyp@qwest-png-ip136.scinternet.net has connected.
+Tue Oct 28 07:46:38 2003 :: Akira has quit.
+Tue Oct 28 08:02:11 2003 :: Zraius trying to connect.
+Tue Oct 28 08:02:14 2003 :: Zarius trying to connect.
+Tue Oct 28 08:02:15 2003 :: Zarius@127.0.0.1 has connected.
+Tue Oct 28 08:14:00 2003 :: Tax collector got Zarius for 1767138 bones.
+Tue Oct 28 08:14:06 2003 :: Reverence trying to connect.
+Tue Oct 28 08:14:07 2003 :: Reverence@ppp-68-122-73-189.dsl.pltn13.pacbell.net has connected.
+Tue Oct 28 08:14:37 2003 :: Zarius trying to connect.
+Tue Oct 28 08:14:38 2003 :: Kicking off old connection Zarius@64.122.121.146
+Tue Oct 28 08:36:34 2003 :: Essex trying to connect.
+Tue Oct 28 08:36:35 2003 :: Essex@68.27.91.31 has connected.
+Tue Oct 28 08:39:38 2003 :: Essex decapitated by Nomsyp at 100047.
+Tue Oct 28 08:44:49 2003 :: Reverence has quit.
+Tue Oct 28 08:46:44 2003 :: Vicktor trying to connect.
+Tue Oct 28 08:46:46 2003 :: Vicktor@host180-241.bradley-cr8v-FWconxn.bradley.k12tn.net has connected.
+Read_from_descriptor: Connection reset by peer
+Tue Oct 28 08:47:46 2003 :: Closing link to Vicktor.
+Tue Oct 28 08:48:14 2003 :: Oblivion trying to connect.
+Tue Oct 28 08:48:28 2003 :: Oblivion@host180-241.bradley-cr8v-FWconxn.bradley.k12tn.net new player.
+Tue Oct 28 08:48:30 2003 :: Closing link to Essex.
+Tue Oct 28 08:48:35 2003 :: Oblivion has connected from the same IP as Vicktor
+Tue Oct 28 08:48:37 2003 :: Essex trying to connect.
+Tue Oct 28 08:48:39 2003 :: Essex@68.27.91.31 reconnected.
+Tue Oct 28 08:53:47 2003 :: Closing link to Nomsyp.
+Tue Oct 28 08:53:50 2003 :: Nomsyp trying to connect.
+Tue Oct 28 08:53:52 2003 :: Nomsyp@qwest-png-ip136.scinternet.net reconnected.
+Tue Oct 28 08:56:43 2003 :: Do_help: Oblivion tried 'control'
+Tue Oct 28 08:57:52 2003 :: Vicktor has quit.
+Tue Oct 28 09:00:15 2003 :: Closing link to Essex.
+Tue Oct 28 09:00:37 2003 :: Essex trying to connect.
+Tue Oct 28 09:00:39 2003 :: Essex@68.27.91.31 reconnected.
+Tue Oct 28 09:01:46 2003 :: Tax collector got Essex for 1537 bones (from bank).
+Tue Oct 28 09:09:29 2003 :: Zarius has selfdeleted, what a fool.
+Tue Oct 28 09:09:29 2003 :: Zarius has quit.
+Tue Oct 28 09:09:32 2003 :: Zarius trying to connect.
+Tue Oct 28 09:09:36 2003 :: Zarius@64.122.121.146 new player.
+Tue Oct 28 09:09:48 2003 :: Zarius has accepted the player policy.
+Tue Oct 28 09:11:07 2003 :: Log Oblivion: selfclass
+Tue Oct 28 09:11:23 2003 :: Log Oblivion: selfclass Vampire
+Tue Oct 28 09:12:05 2003 :: Kodiak trying to connect.
+Tue Oct 28 09:12:13 2003 :: Kodiak@bcowin.mcb.net new player.
+Tue Oct 28 09:16:11 2003 :: Log Zarius: selfclass draconian
+Tue Oct 28 09:17:00 2003 :: Do_help: Oblivion tried 'diciplines'
+Tue Oct 28 09:19:30 2003 :: Closing link to Essex.
+Tue Oct 28 09:19:35 2003 :: Essex trying to connect.
+Tue Oct 28 09:19:37 2003 :: Essex@68.27.91.31 reconnected.
+Tue Oct 28 09:20:36 2003 :: Log Zarius: relevel
+Tue Oct 28 09:23:44 2003 :: Kodiak has quit.
+Tue Oct 28 09:28:59 2003 :: Oblivion has quit.
+Tue Oct 28 09:32:40 2003 :: loading help.are
+Tue Oct 28 09:32:40 2003 :: loading fortress.are
+Tue Oct 28 09:32:40 2003 :: loading kavir.are
+Tue Oct 28 09:32:40 2003 :: loading dragon2.are
+Tue Oct 28 09:32:40 2003 :: loading dragonheart.are
+Tue Oct 28 09:32:40 2003 :: loading sunyata.are
+Tue Oct 28 09:32:40 2003 :: loading eoeasy.are
+Tue Oct 28 09:32:40 2003 :: loading eohard.are
+Tue Oct 28 09:32:40 2003 :: loading midgaard.are
+Tue Oct 28 09:32:40 2003 :: loading atlantis.are
+Tue Oct 28 09:32:40 2003 :: loading air.are
+Tue Oct 28 09:32:40 2003 :: loading limbo.are
+Tue Oct 28 09:32:40 2003 :: loading smurf.are
+Tue Oct 28 09:32:40 2003 :: loading plains.are
+Tue Oct 28 09:32:40 2003 :: loading ultima.are
+Tue Oct 28 09:32:40 2003 :: loading ofcol2.are
+Tue Oct 28 09:32:40 2003 :: loading hitower.are
+Tue Oct 28 09:32:40 2003 :: loading olympus.are
+Tue Oct 28 09:32:40 2003 :: loading shire.are
+Tue Oct 28 09:32:40 2003 :: loading gnome.are
+Tue Oct 28 09:32:40 2003 :: loading wyvern.are
+Tue Oct 28 09:32:40 2003 :: loading catacomb.are
+Tue Oct 28 09:32:40 2003 :: loading hood.are
+Tue Oct 28 09:32:40 2003 :: loading draconia.are
+Tue Oct 28 09:32:40 2003 :: loading mahntor.are
+Tue Oct 28 09:32:40 2003 :: loading trollden.are
+Tue Oct 28 09:32:40 2003 :: loading firenewt.are
+Tue Oct 28 09:32:40 2003 :: loading chapel.are
+Tue Oct 28 09:32:40 2003 :: loading midennir.are
+Tue Oct 28 09:32:40 2003 :: loading grave.are
+Tue Oct 28 09:32:40 2003 :: loading school.are
+Tue Oct 28 09:32:40 2003 :: loading moria.are
+Tue Oct 28 09:32:40 2003 :: loading juargan.are
+Tue Oct 28 09:32:40 2003 :: loading eastern.are
+Tue Oct 28 09:32:40 2003 :: loading pyramid.are
+Tue Oct 28 09:32:40 2003 :: loading drow.are
+Tue Oct 28 09:32:40 2003 :: loading thalos.are
+Tue Oct 28 09:32:40 2003 :: loading mirror.are
+Tue Oct 28 09:32:40 2003 :: loading ofcol.are
+Tue Oct 28 09:32:40 2003 :: loading arachnos.are
+Tue Oct 28 09:32:40 2003 :: loading daycare.are
+Tue Oct 28 09:32:40 2003 :: loading sewer.are
+Tue Oct 28 09:32:40 2003 :: loading valley.are
+Tue Oct 28 09:32:40 2003 :: loading mega1.are
+Tue Oct 28 09:32:40 2003 :: loading marsh.are
+Tue Oct 28 09:32:40 2003 :: loading dream.are
+Tue Oct 28 09:32:40 2003 :: loading dylan.are
+Tue Oct 28 09:32:40 2003 :: loading canyon.are
+Tue Oct 28 09:32:40 2003 :: loading galaxy.are
+Tue Oct 28 09:32:40 2003 :: loading mobfact.are
+Tue Oct 28 09:32:40 2003 :: loading start.are
+Tue Oct 28 09:32:40 2003 :: loading quest.are
+Tue Oct 28 09:32:40 2003 :: loading doom.are
+Tue Oct 28 09:32:40 2003 :: loading Vallanda.are
+Tue Oct 28 09:32:40 2003 :: loading weed.are
+Tue Oct 28 09:32:40 2003 :: loading arena.are
+Tue Oct 28 09:32:40 2003 :: loading astral.are
+Tue Oct 28 09:32:40 2003 :: loading hell.are
+Tue Oct 28 09:32:40 2003 :: loading heaven.are
+Tue Oct 28 09:32:40 2003 :: loading dystopia.are
+Tue Oct 28 09:32:40 2003 :: loading dawnjobo.are
+Tue Oct 28 09:32:40 2003 :: loading classeq.are
+Tue Oct 28 09:32:40 2003 :: loading domeship.are
+Tue Oct 28 09:32:40 2003 :: loading disney.are
+Tue Oct 28 09:32:40 2003 :: loading classhq.are
+Tue Oct 28 09:32:40 2003 :: loading willaz1.are
+Tue Oct 28 09:32:40 2003 :: loading workshop.are
+Tue Oct 28 09:32:40 2003 :: loading jatr1.are
+Tue Oct 28 09:32:40 2003 :: loading palmer.are
+Tue Oct 28 09:32:40 2003 :: loading jungle.are
+Tue Oct 28 09:32:40 2003 :: loading den.are
+Tue Oct 28 09:32:40 2003 :: loading zarius.are
+Tue Oct 28 09:32:40 2003 :: loading area75.are
+Tue Oct 28 09:32:40 2003 :: loading kingone.are
+Tue Oct 28 09:32:40 2003 :: loading area77.are
+Tue Oct 28 09:32:40 2003 :: loading area78.are
+Tue Oct 28 09:32:40 2003 :: loading area79.are
+Tue Oct 28 09:32:40 2003 :: loading area80.are
+Tue Oct 28 09:32:40 2003 :: loading area81.are
+Tue Oct 28 09:32:40 2003 :: loading area82.are
+Tue Oct 28 09:32:40 2003 :: loading area83.are
+Tue Oct 28 09:32:40 2003 :: loading area84.are
+Tue Oct 28 09:32:40 2003 :: loading mobprogs.are
+Tue Oct 28 09:32:40 2003 :: loading area85.are
+Tue Oct 28 09:32:40 2003 :: loading darklady.are
+Tue Oct 28 09:32:40 2003 :: loading crypt.are
+Tue Oct 28 09:32:40 2003 :: loading deathgld.are
+Tue Oct 28 09:32:40 2003 :: loading area87.are
+Tue Oct 28 09:32:40 2003 :: Loading Bans
+Tue Oct 28 09:32:40 2003 :: Loading Leaderboard
+Tue Oct 28 09:32:40 2003 :: Loading Kingdoms
+Tue Oct 28 09:32:40 2003 :: Loading Religions
+Tue Oct 28 09:32:40 2003 :: Loading Wars
+Tue Oct 28 09:32:40 2003 :: Loading Boards
+Tue Oct 28 09:32:40 2003 :: Loading Notes
+Tue Oct 28 09:32:40 2003 :: Loading Disabled
+Tue Oct 28 09:32:40 2003 :: Loading Mudinfo
+Tue Oct 28 09:32:40 2003 :: Loading CCenter
+Tue Oct 28 09:32:40 2003 :: Loading Projects
+Tue Oct 28 09:32:40 2003 :: Loading Coreinfo
+Tue Oct 28 09:32:40 2003 :: Loading Changes
+Tue Oct 28 09:32:40 2003 :: Loading Wizlist.
+Tue Oct 28 09:32:40 2003 :: Loading Socials
+Tue Oct 28 09:32:40 2003 :: Fixing Mobprogs
+Tue Oct 28 09:32:40 2003 :: Loading Artifacts
+Tue Oct 28 09:32:40 2003 :: Copyover recovery initiated
+Tue Oct 28 09:32:40 2003 :: Mindcloud is ready to rock on port 4000.
+Tue Oct 28 09:32:45 2003 :: Anubis trying to connect.
+Tue Oct 28 09:32:45 2003 :: Anubis@h68-146-243-152.cg.shawcable.net has connected.
+Tue Oct 28 09:33:11 2003 :: Log Anubis: disable
+Tue Oct 28 09:33:22 2003 :: [*****] BUG: Create_money: zero or negative money 0.
+Tue Oct 28 09:34:12 2003 :: loading help.are
+Tue Oct 28 09:34:12 2003 :: loading fortress.are
+Tue Oct 28 09:34:12 2003 :: loading kavir.are
+Tue Oct 28 09:34:12 2003 :: loading dragon2.are
+Tue Oct 28 09:34:12 2003 :: loading dragonheart.are
+Tue Oct 28 09:34:12 2003 :: loading sunyata.are
+Tue Oct 28 09:34:12 2003 :: loading eoeasy.are
+Tue Oct 28 09:34:12 2003 :: loading eohard.are
+Tue Oct 28 09:34:12 2003 :: loading midgaard.are
+Tue Oct 28 09:34:12 2003 :: loading atlantis.are
+Tue Oct 28 09:34:12 2003 :: loading air.are
+Tue Oct 28 09:34:12 2003 :: loading limbo.are
+Tue Oct 28 09:34:12 2003 :: loading smurf.are
+Tue Oct 28 09:34:12 2003 :: loading plains.are
+Tue Oct 28 09:34:12 2003 :: loading ultima.are
+Tue Oct 28 09:34:12 2003 :: loading ofcol2.are
+Tue Oct 28 09:34:12 2003 :: loading hitower.are
+Tue Oct 28 09:34:12 2003 :: loading olympus.are
+Tue Oct 28 09:34:12 2003 :: loading shire.are
+Tue Oct 28 09:34:12 2003 :: loading gnome.are
+Tue Oct 28 09:34:12 2003 :: loading wyvern.are
+Tue Oct 28 09:34:12 2003 :: loading catacomb.are
+Tue Oct 28 09:34:12 2003 :: loading hood.are
+Tue Oct 28 09:34:12 2003 :: loading draconia.are
+Tue Oct 28 09:34:12 2003 :: loading mahntor.are
+Tue Oct 28 09:34:12 2003 :: loading trollden.are
+Tue Oct 28 09:34:12 2003 :: loading firenewt.are
+Tue Oct 28 09:34:12 2003 :: loading chapel.are
+Tue Oct 28 09:34:12 2003 :: loading midennir.are
+Tue Oct 28 09:34:12 2003 :: loading grave.are
+Tue Oct 28 09:34:12 2003 :: loading school.are
+Tue Oct 28 09:34:12 2003 :: loading moria.are
+Tue Oct 28 09:34:12 2003 :: loading juargan.are
+Tue Oct 28 09:34:12 2003 :: loading eastern.are
+Tue Oct 28 09:34:12 2003 :: loading pyramid.are
+Tue Oct 28 09:34:12 2003 :: loading drow.are
+Tue Oct 28 09:34:12 2003 :: loading thalos.are
+Tue Oct 28 09:34:12 2003 :: loading mirror.are
+Tue Oct 28 09:34:12 2003 :: loading ofcol.are
+Tue Oct 28 09:34:12 2003 :: loading arachnos.are
+Tue Oct 28 09:34:12 2003 :: loading daycare.are
+Tue Oct 28 09:34:12 2003 :: loading sewer.are
+Tue Oct 28 09:34:12 2003 :: loading valley.are
+Tue Oct 28 09:34:12 2003 :: loading mega1.are
+Tue Oct 28 09:34:12 2003 :: loading marsh.are
+Tue Oct 28 09:34:12 2003 :: loading dream.are
+Tue Oct 28 09:34:12 2003 :: loading dylan.are
+Tue Oct 28 09:34:12 2003 :: loading canyon.are
+Tue Oct 28 09:34:12 2003 :: loading galaxy.are
+Tue Oct 28 09:34:12 2003 :: loading mobfact.are
+Tue Oct 28 09:34:12 2003 :: loading start.are
+Tue Oct 28 09:34:12 2003 :: loading quest.are
+Tue Oct 28 09:34:12 2003 :: loading doom.are
+Tue Oct 28 09:34:12 2003 :: loading Vallanda.are
+Tue Oct 28 09:34:12 2003 :: loading weed.are
+Tue Oct 28 09:34:12 2003 :: loading arena.are
+Tue Oct 28 09:34:12 2003 :: loading astral.are
+Tue Oct 28 09:34:12 2003 :: loading hell.are
+Tue Oct 28 09:34:12 2003 :: loading heaven.are
+Tue Oct 28 09:34:12 2003 :: loading dystopia.are
+Tue Oct 28 09:34:12 2003 :: loading dawnjobo.are
+Tue Oct 28 09:34:12 2003 :: loading classeq.are
+Tue Oct 28 09:34:12 2003 :: loading domeship.are
+Tue Oct 28 09:34:12 2003 :: loading disney.are
+Tue Oct 28 09:34:12 2003 :: loading classhq.are
+Tue Oct 28 09:34:12 2003 :: loading willaz1.are
+Tue Oct 28 09:34:12 2003 :: loading workshop.are
+Tue Oct 28 09:34:12 2003 :: loading jatr1.are
+Tue Oct 28 09:34:12 2003 :: loading palmer.are
+Tue Oct 28 09:34:12 2003 :: loading jungle.are
+Tue Oct 28 09:34:12 2003 :: loading den.are
+Tue Oct 28 09:34:12 2003 :: loading zarius.are
+Tue Oct 28 09:34:12 2003 :: loading area75.are
+Tue Oct 28 09:34:12 2003 :: loading kingone.are
+Tue Oct 28 09:34:12 2003 :: loading area77.are
+Tue Oct 28 09:34:12 2003 :: loading area78.are
+Tue Oct 28 09:34:12 2003 :: loading area79.are
+Tue Oct 28 09:34:12 2003 :: loading area80.are
+Tue Oct 28 09:34:12 2003 :: loading area81.are
+Tue Oct 28 09:34:12 2003 :: loading area82.are
+Tue Oct 28 09:34:12 2003 :: loading area83.are
+Tue Oct 28 09:34:12 2003 :: loading area84.are
+Tue Oct 28 09:34:12 2003 :: loading mobprogs.are
+Tue Oct 28 09:34:12 2003 :: loading area85.are
+Tue Oct 28 09:34:12 2003 :: loading darklady.are
+Tue Oct 28 09:34:12 2003 :: loading crypt.are
+Tue Oct 28 09:34:12 2003 :: loading deathgld.are
+Tue Oct 28 09:34:12 2003 :: loading area87.are
+Tue Oct 28 09:34:12 2003 :: Loading Bans
+Tue Oct 28 09:34:12 2003 :: Loading Leaderboard
+Tue Oct 28 09:34:12 2003 :: Loading Kingdoms
+Tue Oct 28 09:34:12 2003 :: Loading Religions
+Tue Oct 28 09:34:12 2003 :: Loading Wars
+Tue Oct 28 09:34:12 2003 :: Loading Boards
+Tue Oct 28 09:34:12 2003 :: Loading Notes
+Tue Oct 28 09:34:12 2003 :: Loading Disabled
+Tue Oct 28 09:34:12 2003 :: Loading Mudinfo
+Tue Oct 28 09:34:12 2003 :: Loading CCenter
+Tue Oct 28 09:34:12 2003 :: Loading Projects
+Tue Oct 28 09:34:12 2003 :: Loading Coreinfo
+Tue Oct 28 09:34:12 2003 :: Loading Changes
+Tue Oct 28 09:34:12 2003 :: Loading Wizlist.
+Tue Oct 28 09:34:12 2003 :: Loading Socials
+Tue Oct 28 09:34:12 2003 :: Fixing Mobprogs
+Tue Oct 28 09:34:12 2003 :: Loading Artifacts
+Tue Oct 28 09:34:12 2003 :: Copyover recovery initiated
+Tue Oct 28 09:34:12 2003 :: Mindcloud is ready to rock on port 4000.
+Tue Oct 28 09:37:48 2003 :: Log Anubis: oload 5
+Tue Oct 28 09:38:49 2003 :: Baphomet trying to connect.
+Tue Oct 28 09:38:51 2003 :: Baphomet@Courtney.gsu.edu has connected.
+Tue Oct 28 09:39:32 2003 :: loading help.are
+Tue Oct 28 09:39:32 2003 :: loading fortress.are
+Tue Oct 28 09:39:32 2003 :: loading kavir.are
+Tue Oct 28 09:39:32 2003 :: loading dragon2.are
+Tue Oct 28 09:39:32 2003 :: loading dragonheart.are
+Tue Oct 28 09:39:32 2003 :: loading sunyata.are
+Tue Oct 28 09:39:32 2003 :: loading eoeasy.are
+Tue Oct 28 09:39:32 2003 :: loading eohard.are
+Tue Oct 28 09:39:32 2003 :: loading midgaard.are
+Tue Oct 28 09:39:32 2003 :: loading atlantis.are
+Tue Oct 28 09:39:32 2003 :: loading air.are
+Tue Oct 28 09:39:32 2003 :: loading limbo.are
+Tue Oct 28 09:39:32 2003 :: loading smurf.are
+Tue Oct 28 09:39:32 2003 :: loading plains.are
+Tue Oct 28 09:39:32 2003 :: loading ultima.are
+Tue Oct 28 09:39:32 2003 :: loading ofcol2.are
+Tue Oct 28 09:39:32 2003 :: loading hitower.are
+Tue Oct 28 09:39:32 2003 :: loading olympus.are
+Tue Oct 28 09:39:32 2003 :: loading shire.are
+Tue Oct 28 09:39:32 2003 :: loading gnome.are
+Tue Oct 28 09:39:32 2003 :: loading wyvern.are
+Tue Oct 28 09:39:32 2003 :: loading catacomb.are
+Tue Oct 28 09:39:32 2003 :: loading hood.are
+Tue Oct 28 09:39:32 2003 :: loading draconia.are
+Tue Oct 28 09:39:32 2003 :: loading mahntor.are
+Tue Oct 28 09:39:32 2003 :: loading trollden.are
+Tue Oct 28 09:39:32 2003 :: loading firenewt.are
+Tue Oct 28 09:39:32 2003 :: loading chapel.are
+Tue Oct 28 09:39:32 2003 :: loading midennir.are
+Tue Oct 28 09:39:32 2003 :: loading grave.are
+Tue Oct 28 09:39:32 2003 :: loading school.are
+Tue Oct 28 09:39:32 2003 :: loading moria.are
+Tue Oct 28 09:39:32 2003 :: loading juargan.are
+Tue Oct 28 09:39:32 2003 :: loading eastern.are
+Tue Oct 28 09:39:32 2003 :: loading pyramid.are
+Tue Oct 28 09:39:32 2003 :: loading drow.are
+Tue Oct 28 09:39:32 2003 :: loading thalos.are
+Tue Oct 28 09:39:32 2003 :: loading mirror.are
+Tue Oct 28 09:39:32 2003 :: loading ofcol.are
+Tue Oct 28 09:39:32 2003 :: loading arachnos.are
+Tue Oct 28 09:39:32 2003 :: loading daycare.are
+Tue Oct 28 09:39:32 2003 :: loading sewer.are
+Tue Oct 28 09:39:32 2003 :: loading valley.are
+Tue Oct 28 09:39:32 2003 :: loading mega1.are
+Tue Oct 28 09:39:32 2003 :: loading marsh.are
+Tue Oct 28 09:39:32 2003 :: loading dream.are
+Tue Oct 28 09:39:32 2003 :: loading dylan.are
+Tue Oct 28 09:39:32 2003 :: loading canyon.are
+Tue Oct 28 09:39:32 2003 :: loading galaxy.are
+Tue Oct 28 09:39:32 2003 :: loading mobfact.are
+Tue Oct 28 09:39:32 2003 :: loading start.are
+Tue Oct 28 09:39:32 2003 :: loading quest.are
+Tue Oct 28 09:39:32 2003 :: loading doom.are
+Tue Oct 28 09:39:32 2003 :: loading Vallanda.are
+Tue Oct 28 09:39:32 2003 :: loading weed.are
+Tue Oct 28 09:39:32 2003 :: loading arena.are
+Tue Oct 28 09:39:32 2003 :: loading astral.are
+Tue Oct 28 09:39:32 2003 :: loading hell.are
+Tue Oct 28 09:39:32 2003 :: loading heaven.are
+Tue Oct 28 09:39:32 2003 :: loading dystopia.are
+Tue Oct 28 09:39:32 2003 :: loading dawnjobo.are
+Tue Oct 28 09:39:32 2003 :: loading classeq.are
+Tue Oct 28 09:39:32 2003 :: loading domeship.are
+Tue Oct 28 09:39:32 2003 :: loading disney.are
+Tue Oct 28 09:39:32 2003 :: loading classhq.are
+Tue Oct 28 09:39:32 2003 :: loading willaz1.are
+Tue Oct 28 09:39:32 2003 :: loading workshop.are
+Tue Oct 28 09:39:32 2003 :: loading jatr1.are
+Tue Oct 28 09:39:32 2003 :: loading palmer.are
+Tue Oct 28 09:39:32 2003 :: loading jungle.are
+Tue Oct 28 09:39:32 2003 :: loading den.are
+Tue Oct 28 09:39:32 2003 :: loading zarius.are
+Tue Oct 28 09:39:32 2003 :: loading area75.are
+Tue Oct 28 09:39:32 2003 :: loading kingone.are
+Tue Oct 28 09:39:32 2003 :: loading area77.are
+Tue Oct 28 09:39:32 2003 :: loading area78.are
+Tue Oct 28 09:39:32 2003 :: loading area79.are
+Tue Oct 28 09:39:32 2003 :: loading area80.are
+Tue Oct 28 09:39:32 2003 :: loading area81.are
+Tue Oct 28 09:39:32 2003 :: loading area82.are
+Tue Oct 28 09:39:32 2003 :: loading area83.are
+Tue Oct 28 09:39:32 2003 :: loading area84.are
+Tue Oct 28 09:39:32 2003 :: loading mobprogs.are
+Tue Oct 28 09:39:32 2003 :: loading area85.are
+Tue Oct 28 09:39:32 2003 :: loading darklady.are
+Tue Oct 28 09:39:32 2003 :: loading crypt.are
+Tue Oct 28 09:39:32 2003 :: loading deathgld.are
+Tue Oct 28 09:39:32 2003 :: loading area87.are
+Tue Oct 28 09:39:32 2003 :: Loading Bans
+Tue Oct 28 09:39:32 2003 :: Loading Leaderboard
+Tue Oct 28 09:39:32 2003 :: Loading Kingdoms
+Tue Oct 28 09:39:32 2003 :: Loading Religions
+Tue Oct 28 09:39:32 2003 :: Loading Wars
+Tue Oct 28 09:39:32 2003 :: Loading Boards
+Tue Oct 28 09:39:32 2003 :: Loading Notes
+Tue Oct 28 09:39:32 2003 :: Loading Disabled
+Tue Oct 28 09:39:32 2003 :: Loading Mudinfo
+Tue Oct 28 09:39:32 2003 :: Loading CCenter
+Tue Oct 28 09:39:32 2003 :: Loading Projects
+Tue Oct 28 09:39:32 2003 :: Loading Coreinfo
+Tue Oct 28 09:39:32 2003 :: Loading Changes
+Tue Oct 28 09:39:32 2003 :: Loading Wizlist.
+Tue Oct 28 09:39:32 2003 :: Loading Socials
+Tue Oct 28 09:39:32 2003 :: Fixing Mobprogs
+Tue Oct 28 09:39:32 2003 :: Loading Artifacts
+Tue Oct 28 09:39:32 2003 :: Copyover recovery initiated
+Tue Oct 28 09:39:32 2003 :: Mindcloud is ready to rock on port 4000.
+Tue Oct 28 09:40:09 2003 :: Kodiak trying to connect.
+Tue Oct 28 09:40:11 2003 :: Kodiak@bcowin.mcb.net has connected.
+Tue Oct 28 09:41:40 2003 :: Kodiak has quit.
+Tue Oct 28 09:46:38 2003 :: Tax collector got Essex for 1540 bones (from bank).
+Tue Oct 28 09:47:55 2003 :: loading help.are
+Tue Oct 28 09:47:55 2003 :: loading fortress.are
+Tue Oct 28 09:47:55 2003 :: loading kavir.are
+Tue Oct 28 09:47:55 2003 :: loading dragon2.are
+Tue Oct 28 09:47:55 2003 :: loading dragonheart.are
+Tue Oct 28 09:47:55 2003 :: loading sunyata.are
+Tue Oct 28 09:47:55 2003 :: loading eoeasy.are
+Tue Oct 28 09:47:55 2003 :: loading eohard.are
+Tue Oct 28 09:47:55 2003 :: loading midgaard.are
+Tue Oct 28 09:47:55 2003 :: loading atlantis.are
+Tue Oct 28 09:47:55 2003 :: loading air.are
+Tue Oct 28 09:47:55 2003 :: loading limbo.are
+Tue Oct 28 09:47:55 2003 :: loading smurf.are
+Tue Oct 28 09:47:55 2003 :: loading plains.are
+Tue Oct 28 09:47:55 2003 :: loading ultima.are
+Tue Oct 28 09:47:55 2003 :: loading ofcol2.are
+Tue Oct 28 09:47:55 2003 :: loading hitower.are
+Tue Oct 28 09:47:55 2003 :: loading olympus.are
+Tue Oct 28 09:47:55 2003 :: loading shire.are
+Tue Oct 28 09:47:55 2003 :: loading gnome.are
+Tue Oct 28 09:47:55 2003 :: loading wyvern.are
+Tue Oct 28 09:47:55 2003 :: loading catacomb.are
+Tue Oct 28 09:47:55 2003 :: loading hood.are
+Tue Oct 28 09:47:55 2003 :: loading draconia.are
+Tue Oct 28 09:47:55 2003 :: loading mahntor.are
+Tue Oct 28 09:47:55 2003 :: loading trollden.are
+Tue Oct 28 09:47:55 2003 :: loading firenewt.are
+Tue Oct 28 09:47:55 2003 :: loading chapel.are
+Tue Oct 28 09:47:55 2003 :: loading midennir.are
+Tue Oct 28 09:47:55 2003 :: loading grave.are
+Tue Oct 28 09:47:55 2003 :: loading school.are
+Tue Oct 28 09:47:55 2003 :: loading moria.are
+Tue Oct 28 09:47:55 2003 :: loading juargan.are
+Tue Oct 28 09:47:55 2003 :: loading eastern.are
+Tue Oct 28 09:47:55 2003 :: loading pyramid.are
+Tue Oct 28 09:47:55 2003 :: loading drow.are
+Tue Oct 28 09:47:55 2003 :: loading thalos.are
+Tue Oct 28 09:47:55 2003 :: loading mirror.are
+Tue Oct 28 09:47:55 2003 :: loading ofcol.are
+Tue Oct 28 09:47:55 2003 :: loading arachnos.are
+Tue Oct 28 09:47:55 2003 :: loading daycare.are
+Tue Oct 28 09:47:55 2003 :: loading sewer.are
+Tue Oct 28 09:47:55 2003 :: loading valley.are
+Tue Oct 28 09:47:55 2003 :: loading mega1.are
+Tue Oct 28 09:47:55 2003 :: loading marsh.are
+Tue Oct 28 09:47:55 2003 :: loading dream.are
+Tue Oct 28 09:47:55 2003 :: loading dylan.are
+Tue Oct 28 09:47:55 2003 :: loading canyon.are
+Tue Oct 28 09:47:55 2003 :: loading galaxy.are
+Tue Oct 28 09:47:55 2003 :: loading mobfact.are
+Tue Oct 28 09:47:55 2003 :: loading start.are
+Tue Oct 28 09:47:55 2003 :: loading quest.are
+Tue Oct 28 09:47:55 2003 :: loading doom.are
+Tue Oct 28 09:47:55 2003 :: loading Vallanda.are
+Tue Oct 28 09:47:55 2003 :: loading weed.are
+Tue Oct 28 09:47:55 2003 :: loading arena.are
+Tue Oct 28 09:47:55 2003 :: loading astral.are
+Tue Oct 28 09:47:55 2003 :: loading hell.are
+Tue Oct 28 09:47:55 2003 :: loading heaven.are
+Tue Oct 28 09:47:55 2003 :: loading dystopia.are
+Tue Oct 28 09:47:55 2003 :: loading dawnjobo.are
+Tue Oct 28 09:47:55 2003 :: loading classeq.are
+Tue Oct 28 09:47:55 2003 :: loading domeship.are
+Tue Oct 28 09:47:55 2003 :: loading disney.are
+Tue Oct 28 09:47:55 2003 :: loading classhq.are
+Tue Oct 28 09:47:55 2003 :: loading willaz1.are
+Tue Oct 28 09:47:55 2003 :: loading workshop.are
+Tue Oct 28 09:47:55 2003 :: loading jatr1.are
+Tue Oct 28 09:47:55 2003 :: loading palmer.are
+Tue Oct 28 09:47:55 2003 :: loading jungle.are
+Tue Oct 28 09:47:55 2003 :: loading den.are
+Tue Oct 28 09:47:55 2003 :: loading zarius.are
+Tue Oct 28 09:47:55 2003 :: loading area75.are
+Tue Oct 28 09:47:55 2003 :: loading kingone.are
+Tue Oct 28 09:47:55 2003 :: loading area77.are
+Tue Oct 28 09:47:55 2003 :: loading area78.are
+Tue Oct 28 09:47:55 2003 :: loading area79.are
+Tue Oct 28 09:47:55 2003 :: loading area80.are
+Tue Oct 28 09:47:55 2003 :: loading area81.are
+Tue Oct 28 09:47:55 2003 :: loading area82.are
+Tue Oct 28 09:47:55 2003 :: loading area83.are
+Tue Oct 28 09:47:55 2003 :: loading area84.are
+Tue Oct 28 09:47:55 2003 :: loading mobprogs.are
+Tue Oct 28 09:47:55 2003 :: loading area85.are
+Tue Oct 28 09:47:55 2003 :: loading darklady.are
+Tue Oct 28 09:47:55 2003 :: loading crypt.are
+Tue Oct 28 09:47:55 2003 :: loading deathgld.are
+Tue Oct 28 09:47:55 2003 :: loading area87.are
+Tue Oct 28 09:47:55 2003 :: Loading Bans
+Tue Oct 28 09:47:55 2003 :: Loading Leaderboard
+Tue Oct 28 09:47:55 2003 :: Loading Kingdoms
+Tue Oct 28 09:47:55 2003 :: Loading Religions
+Tue Oct 28 09:47:55 2003 :: Loading Wars
+Tue Oct 28 09:47:55 2003 :: Loading Boards
+Tue Oct 28 09:47:55 2003 :: Loading Notes
+Tue Oct 28 09:47:55 2003 :: Loading Disabled
+Tue Oct 28 09:47:55 2003 :: Loading Mudinfo
+Tue Oct 28 09:47:55 2003 :: Loading CCenter
+Tue Oct 28 09:47:55 2003 :: Loading Projects
+Tue Oct 28 09:47:55 2003 :: Loading Coreinfo
+Tue Oct 28 09:47:55 2003 :: Loading Changes
+Tue Oct 28 09:47:55 2003 :: Loading Wizlist.
+Tue Oct 28 09:47:55 2003 :: Loading Socials
+Tue Oct 28 09:47:55 2003 :: Fixing Mobprogs
+Tue Oct 28 09:47:55 2003 :: Loading Artifacts
+Tue Oct 28 09:47:55 2003 :: Copyover recovery initiated
+Tue Oct 28 09:47:55 2003 :: Mindcloud is ready to rock on port 4000.
+Tue Oct 28 09:49:29 2003 :: Closing link to Essex.
+Tue Oct 28 09:49:40 2003 :: Essex trying to connect.
+Tue Oct 28 09:49:41 2003 :: Essex@68.27.91.31 reconnected.
+Tue Oct 28 09:51:36 2003 :: Oblivion trying to connect.
+Tue Oct 28 09:51:38 2003 :: Oblivion@host180-241.bradley-cr8v-FWconxn.bradley.k12tn.net has connected.
+Tue Oct 28 09:56:35 2003 :: loading help.are
+Tue Oct 28 09:56:35 2003 :: loading fortress.are
+Tue Oct 28 09:56:35 2003 :: loading kavir.are
+Tue Oct 28 09:56:35 2003 :: loading dragon2.are
+Tue Oct 28 09:56:35 2003 :: loading dragonheart.are
+Tue Oct 28 09:56:35 2003 :: loading sunyata.are
+Tue Oct 28 09:56:35 2003 :: loading eoeasy.are
+Tue Oct 28 09:56:35 2003 :: loading eohard.are
+Tue Oct 28 09:56:35 2003 :: loading midgaard.are
+Tue Oct 28 09:56:35 2003 :: loading atlantis.are
+Tue Oct 28 09:56:35 2003 :: loading air.are
+Tue Oct 28 09:56:35 2003 :: loading limbo.are
+Tue Oct 28 09:56:35 2003 :: loading smurf.are
+Tue Oct 28 09:56:35 2003 :: loading plains.are
+Tue Oct 28 09:56:35 2003 :: loading ultima.are
+Tue Oct 28 09:56:35 2003 :: loading ofcol2.are
+Tue Oct 28 09:56:35 2003 :: loading hitower.are
+Tue Oct 28 09:56:35 2003 :: loading olympus.are
+Tue Oct 28 09:56:35 2003 :: loading shire.are
+Tue Oct 28 09:56:35 2003 :: loading gnome.are
+Tue Oct 28 09:56:35 2003 :: loading wyvern.are
+Tue Oct 28 09:56:35 2003 :: loading catacomb.are
+Tue Oct 28 09:56:35 2003 :: loading hood.are
+Tue Oct 28 09:56:35 2003 :: loading draconia.are
+Tue Oct 28 09:56:35 2003 :: loading mahntor.are
+Tue Oct 28 09:56:35 2003 :: loading trollden.are
+Tue Oct 28 09:56:35 2003 :: loading firenewt.are
+Tue Oct 28 09:56:35 2003 :: loading chapel.are
+Tue Oct 28 09:56:35 2003 :: loading midennir.are
+Tue Oct 28 09:56:35 2003 :: loading grave.are
+Tue Oct 28 09:56:35 2003 :: loading school.are
+Tue Oct 28 09:56:35 2003 :: loading moria.are
+Tue Oct 28 09:56:35 2003 :: loading juargan.are
+Tue Oct 28 09:56:35 2003 :: loading eastern.are
+Tue Oct 28 09:56:35 2003 :: loading pyramid.are
+Tue Oct 28 09:56:35 2003 :: loading drow.are
+Tue Oct 28 09:56:35 2003 :: loading thalos.are
+Tue Oct 28 09:56:35 2003 :: loading mirror.are
+Tue Oct 28 09:56:35 2003 :: loading ofcol.are
+Tue Oct 28 09:56:35 2003 :: loading arachnos.are
+Tue Oct 28 09:56:35 2003 :: loading daycare.are
+Tue Oct 28 09:56:35 2003 :: loading sewer.are
+Tue Oct 28 09:56:35 2003 :: loading valley.are
+Tue Oct 28 09:56:35 2003 :: loading mega1.are
+Tue Oct 28 09:56:35 2003 :: loading marsh.are
+Tue Oct 28 09:56:35 2003 :: loading dream.are
+Tue Oct 28 09:56:35 2003 :: loading dylan.are
+Tue Oct 28 09:56:35 2003 :: loading canyon.are
+Tue Oct 28 09:56:35 2003 :: loading galaxy.are
+Tue Oct 28 09:56:35 2003 :: loading mobfact.are
+Tue Oct 28 09:56:35 2003 :: loading start.are
+Tue Oct 28 09:56:35 2003 :: loading quest.are
+Tue Oct 28 09:56:35 2003 :: loading doom.are
+Tue Oct 28 09:56:35 2003 :: loading Vallanda.are
+Tue Oct 28 09:56:35 2003 :: loading weed.are
+Tue Oct 28 09:56:35 2003 :: loading arena.are
+Tue Oct 28 09:56:35 2003 :: loading astral.are
+Tue Oct 28 09:56:35 2003 :: loading hell.are
+Tue Oct 28 09:56:35 2003 :: loading heaven.are
+Tue Oct 28 09:56:35 2003 :: loading dystopia.are
+Tue Oct 28 09:56:35 2003 :: loading dawnjobo.are
+Tue Oct 28 09:56:35 2003 :: loading classeq.are
+Tue Oct 28 09:56:35 2003 :: loading domeship.are
+Tue Oct 28 09:56:35 2003 :: loading disney.are
+Tue Oct 28 09:56:35 2003 :: loading classhq.are
+Tue Oct 28 09:56:35 2003 :: loading willaz1.are
+Tue Oct 28 09:56:35 2003 :: loading workshop.are
+Tue Oct 28 09:56:35 2003 :: loading jatr1.are
+Tue Oct 28 09:56:35 2003 :: loading palmer.are
+Tue Oct 28 09:56:35 2003 :: loading jungle.are
+Tue Oct 28 09:56:35 2003 :: loading den.are
+Tue Oct 28 09:56:35 2003 :: loading zarius.are
+Tue Oct 28 09:56:35 2003 :: loading area75.are
+Tue Oct 28 09:56:35 2003 :: loading kingone.are
+Tue Oct 28 09:56:35 2003 :: loading area77.are
+Tue Oct 28 09:56:35 2003 :: loading area78.are
+Tue Oct 28 09:56:35 2003 :: loading area79.are
+Tue Oct 28 09:56:35 2003 :: loading area80.are
+Tue Oct 28 09:56:35 2003 :: loading area81.are
+Tue Oct 28 09:56:35 2003 :: loading area82.are
+Tue Oct 28 09:56:35 2003 :: loading area83.are
+Tue Oct 28 09:56:35 2003 :: loading area84.are
+Tue Oct 28 09:56:35 2003 :: loading mobprogs.are
+Tue Oct 28 09:56:35 2003 :: loading area85.are
+Tue Oct 28 09:56:35 2003 :: loading darklady.are
+Tue Oct 28 09:56:35 2003 :: loading crypt.are
+Tue Oct 28 09:56:35 2003 :: loading deathgld.are
+Tue Oct 28 09:56:35 2003 :: loading area87.are
+Tue Oct 28 09:56:35 2003 :: Loading Bans
+Tue Oct 28 09:56:35 2003 :: Loading Leaderboard
+Tue Oct 28 09:56:35 2003 :: Loading Kingdoms
+Tue Oct 28 09:56:35 2003 :: Loading Religions
+Tue Oct 28 09:56:35 2003 :: Loading Wars
+Tue Oct 28 09:56:35 2003 :: Loading Boards
+Tue Oct 28 09:56:35 2003 :: Loading Notes
+Tue Oct 28 09:56:35 2003 :: Loading Disabled
+Tue Oct 28 09:56:35 2003 :: Loading Mudinfo
+Tue Oct 28 09:56:35 2003 :: Loading CCenter
+Tue Oct 28 09:56:35 2003 :: Loading Projects
+Tue Oct 28 09:56:35 2003 :: Loading Coreinfo
+Tue Oct 28 09:56:35 2003 :: Loading Changes
+Tue Oct 28 09:56:35 2003 :: Loading Wizlist.
+Tue Oct 28 09:56:35 2003 :: Loading Socials
+Tue Oct 28 09:56:35 2003 :: Fixing Mobprogs
+Tue Oct 28 09:56:35 2003 :: Loading Artifacts
+Tue Oct 28 09:56:35 2003 :: Copyover recovery initiated
+Tue Oct 28 09:56:35 2003 :: Mindcloud is ready to rock on port 4000.
+Read_from_descriptor: Connection reset by peer
+Tue Oct 28 09:56:42 2003 :: Closing link to Baphomet.
+Tue Oct 28 09:56:52 2003 :: Baphomet trying to connect.
+Tue Oct 28 09:56:53 2003 :: Baphomet@Courtney.gsu.edu reconnected.
+Tue Oct 28 09:58:25 2003 :: loading help.are
+Tue Oct 28 09:58:25 2003 :: loading fortress.are
+Tue Oct 28 09:58:25 2003 :: loading kavir.are
+Tue Oct 28 09:58:25 2003 :: loading dragon2.are
+Tue Oct 28 09:58:25 2003 :: loading dragonheart.are
+Tue Oct 28 09:58:25 2003 :: loading sunyata.are
+Tue Oct 28 09:58:25 2003 :: loading eoeasy.are
+Tue Oct 28 09:58:25 2003 :: loading eohard.are
+Tue Oct 28 09:58:25 2003 :: loading midgaard.are
+Tue Oct 28 09:58:25 2003 :: loading atlantis.are
+Tue Oct 28 09:58:25 2003 :: loading air.are
+Tue Oct 28 09:58:25 2003 :: loading limbo.are
+Tue Oct 28 09:58:25 2003 :: loading smurf.are
+Tue Oct 28 09:58:25 2003 :: loading plains.are
+Tue Oct 28 09:58:25 2003 :: loading ultima.are
+Tue Oct 28 09:58:25 2003 :: loading ofcol2.are
+Tue Oct 28 09:58:25 2003 :: loading hitower.are
+Tue Oct 28 09:58:25 2003 :: loading olympus.are
+Tue Oct 28 09:58:25 2003 :: loading shire.are
+Tue Oct 28 09:58:25 2003 :: loading gnome.are
+Tue Oct 28 09:58:25 2003 :: loading wyvern.are
+Tue Oct 28 09:58:25 2003 :: loading catacomb.are
+Tue Oct 28 09:58:25 2003 :: loading hood.are
+Tue Oct 28 09:58:25 2003 :: loading draconia.are
+Tue Oct 28 09:58:25 2003 :: loading mahntor.are
+Tue Oct 28 09:58:25 2003 :: loading trollden.are
+Tue Oct 28 09:58:25 2003 :: loading firenewt.are
+Tue Oct 28 09:58:25 2003 :: loading chapel.are
+Tue Oct 28 09:58:25 2003 :: loading midennir.are
+Tue Oct 28 09:58:25 2003 :: loading grave.are
+Tue Oct 28 09:58:25 2003 :: loading school.are
+Tue Oct 28 09:58:25 2003 :: loading moria.are
+Tue Oct 28 09:58:25 2003 :: loading juargan.are
+Tue Oct 28 09:58:25 2003 :: loading eastern.are
+Tue Oct 28 09:58:25 2003 :: loading pyramid.are
+Tue Oct 28 09:58:25 2003 :: loading drow.are
+Tue Oct 28 09:58:25 2003 :: loading thalos.are
+Tue Oct 28 09:58:25 2003 :: loading mirror.are
+Tue Oct 28 09:58:25 2003 :: loading ofcol.are
+Tue Oct 28 09:58:25 2003 :: loading arachnos.are
+Tue Oct 28 09:58:25 2003 :: loading daycare.are
+Tue Oct 28 09:58:25 2003 :: loading sewer.are
+Tue Oct 28 09:58:25 2003 :: loading valley.are
+Tue Oct 28 09:58:25 2003 :: loading mega1.are
+Tue Oct 28 09:58:25 2003 :: loading marsh.are
+Tue Oct 28 09:58:25 2003 :: loading dream.are
+Tue Oct 28 09:58:25 2003 :: loading dylan.are
+Tue Oct 28 09:58:25 2003 :: loading canyon.are
+Tue Oct 28 09:58:25 2003 :: loading galaxy.are
+Tue Oct 28 09:58:25 2003 :: loading mobfact.are
+Tue Oct 28 09:58:25 2003 :: loading start.are
+Tue Oct 28 09:58:25 2003 :: loading quest.are
+Tue Oct 28 09:58:25 2003 :: loading doom.are
+Tue Oct 28 09:58:25 2003 :: loading Vallanda.are
+Tue Oct 28 09:58:25 2003 :: loading weed.are
+Tue Oct 28 09:58:25 2003 :: loading arena.are
+Tue Oct 28 09:58:25 2003 :: loading astral.are
+Tue Oct 28 09:58:25 2003 :: loading hell.are
+Tue Oct 28 09:58:25 2003 :: loading heaven.are
+Tue Oct 28 09:58:25 2003 :: loading dystopia.are
+Tue Oct 28 09:58:25 2003 :: loading dawnjobo.are
+Tue Oct 28 09:58:25 2003 :: loading classeq.are
+Tue Oct 28 09:58:25 2003 :: loading domeship.are
+Tue Oct 28 09:58:25 2003 :: loading disney.are
+Tue Oct 28 09:58:25 2003 :: loading classhq.are
+Tue Oct 28 09:58:25 2003 :: loading willaz1.are
+Tue Oct 28 09:58:25 2003 :: loading workshop.are
+Tue Oct 28 09:58:25 2003 :: loading jatr1.are
+Tue Oct 28 09:58:25 2003 :: loading palmer.are
+Tue Oct 28 09:58:25 2003 :: loading jungle.are
+Tue Oct 28 09:58:25 2003 :: loading den.are
+Tue Oct 28 09:58:25 2003 :: loading zarius.are
+Tue Oct 28 09:58:25 2003 :: loading area75.are
+Tue Oct 28 09:58:25 2003 :: loading kingone.are
+Tue Oct 28 09:58:25 2003 :: loading area77.are
+Tue Oct 28 09:58:25 2003 :: loading area78.are
+Tue Oct 28 09:58:25 2003 :: loading area79.are
+Tue Oct 28 09:58:25 2003 :: loading area80.are
+Tue Oct 28 09:58:25 2003 :: loading area81.are
+Tue Oct 28 09:58:25 2003 :: loading area82.are
+Tue Oct 28 09:58:25 2003 :: loading area83.are
+Tue Oct 28 09:58:25 2003 :: loading area84.are
+Tue Oct 28 09:58:25 2003 :: loading mobprogs.are
+Tue Oct 28 09:58:25 2003 :: loading area85.are
+Tue Oct 28 09:58:25 2003 :: loading darklady.are
+Tue Oct 28 09:58:25 2003 :: loading crypt.are
+Tue Oct 28 09:58:25 2003 :: loading deathgld.are
+Tue Oct 28 09:58:25 2003 :: loading area87.are
+Tue Oct 28 09:58:25 2003 :: Loading Bans
+Tue Oct 28 09:58:25 2003 :: Loading Leaderboard
+Tue Oct 28 09:58:25 2003 :: Loading Kingdoms
+Tue Oct 28 09:58:25 2003 :: Loading Religions
+Tue Oct 28 09:58:25 2003 :: Loading Wars
+Tue Oct 28 09:58:25 2003 :: Loading Boards
+Tue Oct 28 09:58:25 2003 :: Loading Notes
+Tue Oct 28 09:58:25 2003 :: Loading Disabled
+Tue Oct 28 09:58:25 2003 :: Loading Mudinfo
+Tue Oct 28 09:58:25 2003 :: Loading CCenter
+Tue Oct 28 09:58:25 2003 :: Loading Projects
+Tue Oct 28 09:58:25 2003 :: Loading Coreinfo
+Tue Oct 28 09:58:25 2003 :: Loading Changes
+Tue Oct 28 09:58:25 2003 :: Loading Wizlist.
+Tue Oct 28 09:58:25 2003 :: Loading Socials
+Tue Oct 28 09:58:25 2003 :: Fixing Mobprogs
+Tue Oct 28 09:58:25 2003 :: Loading Artifacts
+Tue Oct 28 09:58:25 2003 :: Copyover recovery initiated
+Tue Oct 28 09:58:25 2003 :: Mindcloud is ready to rock on port 4000.
+Tue Oct 28 10:01:05 2003 :: loading help.are
+Tue Oct 28 10:01:05 2003 :: loading fortress.are
+Tue Oct 28 10:01:05 2003 :: loading kavir.are
+Tue Oct 28 10:01:05 2003 :: loading dragon2.are
+Tue Oct 28 10:01:05 2003 :: loading dragonheart.are
+Tue Oct 28 10:01:05 2003 :: loading sunyata.are
+Tue Oct 28 10:01:05 2003 :: loading eoeasy.are
+Tue Oct 28 10:01:05 2003 :: loading eohard.are
+Tue Oct 28 10:01:05 2003 :: loading midgaard.are
+Tue Oct 28 10:01:05 2003 :: loading atlantis.are
+Tue Oct 28 10:01:05 2003 :: loading air.are
+Tue Oct 28 10:01:05 2003 :: loading limbo.are
+Tue Oct 28 10:01:05 2003 :: loading smurf.are
+Tue Oct 28 10:01:05 2003 :: loading plains.are
+Tue Oct 28 10:01:05 2003 :: loading ultima.are
+Tue Oct 28 10:01:05 2003 :: loading ofcol2.are
+Tue Oct 28 10:01:05 2003 :: loading hitower.are
+Tue Oct 28 10:01:05 2003 :: loading olympus.are
+Tue Oct 28 10:01:05 2003 :: loading shire.are
+Tue Oct 28 10:01:05 2003 :: loading gnome.are
+Tue Oct 28 10:01:05 2003 :: loading wyvern.are
+Tue Oct 28 10:01:05 2003 :: loading catacomb.are
+Tue Oct 28 10:01:05 2003 :: loading hood.are
+Tue Oct 28 10:01:05 2003 :: loading draconia.are
+Tue Oct 28 10:01:05 2003 :: loading mahntor.are
+Tue Oct 28 10:01:05 2003 :: loading trollden.are
+Tue Oct 28 10:01:05 2003 :: loading firenewt.are
+Tue Oct 28 10:01:05 2003 :: loading chapel.are
+Tue Oct 28 10:01:05 2003 :: loading midennir.are
+Tue Oct 28 10:01:05 2003 :: loading grave.are
+Tue Oct 28 10:01:05 2003 :: loading school.are
+Tue Oct 28 10:01:05 2003 :: loading moria.are
+Tue Oct 28 10:01:05 2003 :: loading juargan.are
+Tue Oct 28 10:01:05 2003 :: loading eastern.are
+Tue Oct 28 10:01:05 2003 :: loading pyramid.are
+Tue Oct 28 10:01:05 2003 :: loading drow.are
+Tue Oct 28 10:01:05 2003 :: loading thalos.are
+Tue Oct 28 10:01:05 2003 :: loading mirror.are
+Tue Oct 28 10:01:05 2003 :: loading ofcol.are
+Tue Oct 28 10:01:05 2003 :: loading arachnos.are
+Tue Oct 28 10:01:05 2003 :: loading daycare.are
+Tue Oct 28 10:01:05 2003 :: loading sewer.are
+Tue Oct 28 10:01:05 2003 :: loading valley.are
+Tue Oct 28 10:01:05 2003 :: loading mega1.are
+Tue Oct 28 10:01:05 2003 :: loading marsh.are
+Tue Oct 28 10:01:05 2003 :: loading dream.are
+Tue Oct 28 10:01:05 2003 :: loading dylan.are
+Tue Oct 28 10:01:05 2003 :: loading canyon.are
+Tue Oct 28 10:01:05 2003 :: loading galaxy.are
+Tue Oct 28 10:01:05 2003 :: loading mobfact.are
+Tue Oct 28 10:01:05 2003 :: loading start.are
+Tue Oct 28 10:01:05 2003 :: loading quest.are
+Tue Oct 28 10:01:05 2003 :: loading doom.are
+Tue Oct 28 10:01:05 2003 :: loading Vallanda.are
+Tue Oct 28 10:01:05 2003 :: loading weed.are
+Tue Oct 28 10:01:05 2003 :: loading arena.are
+Tue Oct 28 10:01:05 2003 :: loading astral.are
+Tue Oct 28 10:01:05 2003 :: loading hell.are
+Tue Oct 28 10:01:05 2003 :: loading heaven.are
+Tue Oct 28 10:01:05 2003 :: loading dystopia.are
+Tue Oct 28 10:01:05 2003 :: loading dawnjobo.are
+Tue Oct 28 10:01:05 2003 :: loading classeq.are
+Tue Oct 28 10:01:05 2003 :: loading domeship.are
+Tue Oct 28 10:01:05 2003 :: loading disney.are
+Tue Oct 28 10:01:05 2003 :: loading classhq.are
+Tue Oct 28 10:01:05 2003 :: loading willaz1.are
+Tue Oct 28 10:01:05 2003 :: loading workshop.are
+Tue Oct 28 10:01:05 2003 :: loading jatr1.are
+Tue Oct 28 10:01:05 2003 :: loading palmer.are
+Tue Oct 28 10:01:05 2003 :: loading jungle.are
+Tue Oct 28 10:01:05 2003 :: loading den.are
+Tue Oct 28 10:01:05 2003 :: loading zarius.are
+Tue Oct 28 10:01:05 2003 :: loading area75.are
+Tue Oct 28 10:01:05 2003 :: loading kingone.are
+Tue Oct 28 10:01:05 2003 :: loading area77.are
+Tue Oct 28 10:01:05 2003 :: loading area78.are
+Tue Oct 28 10:01:05 2003 :: loading area79.are
+Tue Oct 28 10:01:05 2003 :: loading area80.are
+Tue Oct 28 10:01:05 2003 :: loading area81.are
+Tue Oct 28 10:01:05 2003 :: loading area82.are
+Tue Oct 28 10:01:05 2003 :: loading area83.are
+Tue Oct 28 10:01:05 2003 :: loading area84.are
+Tue Oct 28 10:01:05 2003 :: loading mobprogs.are
+Tue Oct 28 10:01:05 2003 :: loading area85.are
+Tue Oct 28 10:01:05 2003 :: loading darklady.are
+Tue Oct 28 10:01:05 2003 :: loading crypt.are
+Tue Oct 28 10:01:05 2003 :: loading deathgld.are
+Tue Oct 28 10:01:05 2003 :: loading area87.are
+Tue Oct 28 10:01:05 2003 :: Loading Bans
+Tue Oct 28 10:01:05 2003 :: Loading Leaderboard
+Tue Oct 28 10:01:05 2003 :: Loading Kingdoms
+Tue Oct 28 10:01:05 2003 :: Loading Religions
+Tue Oct 28 10:01:05 2003 :: Loading Wars
+Tue Oct 28 10:01:05 2003 :: Loading Boards
+Tue Oct 28 10:01:05 2003 :: Loading Notes
+Tue Oct 28 10:01:05 2003 :: Loading Disabled
+Tue Oct 28 10:01:05 2003 :: Loading Mudinfo
+Tue Oct 28 10:01:05 2003 :: Loading CCenter
+Tue Oct 28 10:01:05 2003 :: Loading Projects
+Tue Oct 28 10:01:05 2003 :: Loading Coreinfo
+Tue Oct 28 10:01:05 2003 :: Loading Changes
+Tue Oct 28 10:01:05 2003 :: Loading Wizlist.
+Tue Oct 28 10:01:05 2003 :: Loading Socials
+Tue Oct 28 10:01:05 2003 :: Fixing Mobprogs
+Tue Oct 28 10:01:05 2003 :: Loading Artifacts
+Tue Oct 28 10:01:05 2003 :: Copyover recovery initiated
+Tue Oct 28 10:01:05 2003 :: Mindcloud is ready to rock on port 4000.
+Tue Oct 28 10:02:44 2003 :: Do_help: Oblivion tried 'embrace'
+Tue Oct 28 10:02:49 2003 :: Do_help: Oblivion tried 'age'
+Tue Oct 28 10:06:56 2003 :: Stumpy trying to connect.
+Tue Oct 28 10:06:57 2003 :: Stumpy@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 10:07:18 2003 :: Stumpy has quit.
+Tue Oct 28 10:07:31 2003 :: Smiley trying to connect.
+Tue Oct 28 10:07:40 2003 :: Smiley@ACD09089.ipt.aol.com new player.
+Tue Oct 28 10:11:04 2003 :: Nomsyp has quit.
+Tue Oct 28 10:12:05 2003 :: Log Smiley: selfclass shadow
+Tue Oct 28 10:22:03 2003 :: Nomsyp trying to connect.
+Tue Oct 28 10:22:05 2003 :: Nomsyp@qwest-png-ip136.scinternet.net has connected.
+Tue Oct 28 10:22:09 2003 :: Log Oblivion: give pill
+Tue Oct 28 10:22:18 2003 :: Sinosun trying to connect.
+Tue Oct 28 10:22:19 2003 :: Sinosun@host180-241.bradley-cr8v-FWconxn.bradley.k12tn.net has connected.
+Tue Oct 28 10:22:19 2003 :: Sinosun has connected from the same IP as Oblivion
+Tue Oct 28 10:22:28 2003 :: Log Oblivion: give pill sinosun
+Tue Oct 28 10:23:00 2003 :: Smiley has quit.
+Tue Oct 28 10:23:08 2003 :: Stumpy trying to connect.
+Tue Oct 28 10:23:08 2003 :: Sinosun decapitated by Baphomet at 50515.
+Tue Oct 28 10:23:09 2003 :: Stumpy@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 10:23:16 2003 :: Reverence trying to connect.
+Tue Oct 28 10:23:17 2003 :: Reverence@ppp-68-122-73-189.dsl.pltn13.pacbell.net has connected.
+Tue Oct 28 10:24:22 2003 :: Stumpy has quit.
+Tue Oct 28 10:24:33 2003 :: Smiley trying to connect.
+Tue Oct 28 10:24:34 2003 :: Smiley@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 10:25:25 2003 :: Do_help: Oblivion tried 'age'
+Tue Oct 28 10:25:46 2003 :: Smiley has quit.
+Tue Oct 28 10:25:48 2003 :: Nomsyp decapitated by Baphomet at 155.
+Tue Oct 28 10:25:58 2003 :: Stoner trying to connect.
+Tue Oct 28 10:26:03 2003 :: Steve trying to connect.
+Tue Oct 28 10:26:05 2003 :: Steve@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 10:26:21 2003 :: Reverence has quit.
+Tue Oct 28 10:27:24 2003 :: Steve has quit.
+Tue Oct 28 10:27:34 2003 :: Stones trying to connect.
+Tue Oct 28 10:27:35 2003 :: Stones@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 10:29:11 2003 :: Sinosun has quit.
+Tue Oct 28 10:34:34 2003 :: Stones has quit.
+Tue Oct 28 10:34:43 2003 :: Smiley trying to connect.
+Tue Oct 28 10:34:43 2003 :: Smiley@ACD09089.ipt.aol.com has connected.
+Read_from_descriptor: Connection reset by peer
+Tue Oct 28 10:35:29 2003 :: Closing link to Oblivion.
+Tue Oct 28 10:40:51 2003 :: Tax collector got Anubis for 453517 bones (from bank).
+Tue Oct 28 10:45:14 2003 :: Oblivion has quit.
+Tue Oct 28 10:46:11 2003 :: Sinosun trying to connect.
+Tue Oct 28 10:46:11 2003 :: Sinosun@host180-241.bradley-cr8v-FWconxn.bradley.k12tn.net has connected.
+Tue Oct 28 10:51:49 2003 :: Sinosun decapitated by Nomsyp at 155.
+Tue Oct 28 10:56:08 2003 :: Smiley has quit.
+Tue Oct 28 10:56:15 2003 :: Stumpy trying to connect.
+Tue Oct 28 10:56:17 2003 :: Stumpy@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 10:58:29 2003 :: Sinosun has quit.
+Tue Oct 28 11:00:12 2003 :: Stumpy has quit.
+Tue Oct 28 11:00:19 2003 :: Essex has quit.
+Tue Oct 28 11:02:33 2003 :: Baphomet has quit.
+Tue Oct 28 11:04:01 2003 :: Titus trying to connect.
+Tue Oct 28 11:04:02 2003 :: Titus@d137-186-221-17.abhsia.telus.net has connected.
+Tue Oct 28 11:05:16 2003 :: Titus has quit.
+Tue Oct 28 11:13:39 2003 :: Smiley trying to connect.
+Tue Oct 28 11:13:40 2003 :: Smiley@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 11:14:04 2003 :: Darklady trying to connect.
+Tue Oct 28 11:14:07 2003 :: DarkLadY@209-165-34-244.jps.net has connected.
+Tue Oct 28 11:15:02 2003 :: Tax collector got Zarius for 162704 bones.
+Tue Oct 28 11:17:30 2003 :: Tax collector got Zarius for 167815 bones.
+Tue Oct 28 11:18:50 2003 :: Tax collector got Nomsyp for 5076 bones (from bank).
+Read_from_descriptor: Connection reset by peer
+Tue Oct 28 11:35:06 2003 :: Tax collector got Nomsyp for 1330 bones (from bank).
+Tue Oct 28 11:35:54 2003 :: Tax collector got Nomsyp for 1245 bones (from bank).
+Tue Oct 28 11:36:05 2003 :: Log Nitemare: divorce
+Tue Oct 28 11:36:21 2003 :: Log Nitemare: divorce meredith nitemare
+Tue Oct 28 11:36:44 2003 :: Log Nitemare: delevel
+Tue Oct 28 11:36:46 2003 :: Nitemare has quit.
+Tue Oct 28 11:36:49 2003 :: Zarius trying to connect.
+Tue Oct 28 11:36:50 2003 :: Zarius@64.122.121.146 has connected.
+Tue Oct 28 11:37:09 2003 :: loading help.are
+Tue Oct 28 11:37:09 2003 :: loading fortress.are
+Tue Oct 28 11:37:09 2003 :: loading kavir.are
+Tue Oct 28 11:37:09 2003 :: loading dragon2.are
+Tue Oct 28 11:37:09 2003 :: loading dragonheart.are
+Tue Oct 28 11:37:09 2003 :: loading sunyata.are
+Tue Oct 28 11:37:09 2003 :: loading eoeasy.are
+Tue Oct 28 11:37:09 2003 :: loading eohard.are
+Tue Oct 28 11:37:09 2003 :: loading midgaard.are
+Tue Oct 28 11:37:09 2003 :: loading atlantis.are
+Tue Oct 28 11:37:09 2003 :: loading air.are
+Tue Oct 28 11:37:09 2003 :: loading limbo.are
+Tue Oct 28 11:37:09 2003 :: loading smurf.are
+Tue Oct 28 11:37:09 2003 :: loading plains.are
+Tue Oct 28 11:37:09 2003 :: loading ultima.are
+Tue Oct 28 11:37:09 2003 :: loading ofcol2.are
+Tue Oct 28 11:37:09 2003 :: loading hitower.are
+Tue Oct 28 11:37:09 2003 :: loading olympus.are
+Tue Oct 28 11:37:09 2003 :: loading shire.are
+Tue Oct 28 11:37:09 2003 :: loading gnome.are
+Tue Oct 28 11:37:09 2003 :: loading wyvern.are
+Tue Oct 28 11:37:09 2003 :: loading catacomb.are
+Tue Oct 28 11:37:09 2003 :: loading hood.are
+Tue Oct 28 11:37:09 2003 :: loading draconia.are
+Tue Oct 28 11:37:09 2003 :: loading mahntor.are
+Tue Oct 28 11:37:09 2003 :: loading trollden.are
+Tue Oct 28 11:37:09 2003 :: loading firenewt.are
+Tue Oct 28 11:37:09 2003 :: loading chapel.are
+Tue Oct 28 11:37:09 2003 :: loading midennir.are
+Tue Oct 28 11:37:09 2003 :: loading grave.are
+Tue Oct 28 11:37:09 2003 :: loading school.are
+Tue Oct 28 11:37:09 2003 :: loading moria.are
+Tue Oct 28 11:37:09 2003 :: loading juargan.are
+Tue Oct 28 11:37:09 2003 :: loading eastern.are
+Tue Oct 28 11:37:09 2003 :: loading pyramid.are
+Tue Oct 28 11:37:09 2003 :: loading drow.are
+Tue Oct 28 11:37:09 2003 :: loading thalos.are
+Tue Oct 28 11:37:09 2003 :: loading mirror.are
+Tue Oct 28 11:37:09 2003 :: loading ofcol.are
+Tue Oct 28 11:37:09 2003 :: loading arachnos.are
+Tue Oct 28 11:37:09 2003 :: loading daycare.are
+Tue Oct 28 11:37:09 2003 :: loading sewer.are
+Tue Oct 28 11:37:09 2003 :: loading valley.are
+Tue Oct 28 11:37:09 2003 :: loading mega1.are
+Tue Oct 28 11:37:09 2003 :: loading marsh.are
+Tue Oct 28 11:37:09 2003 :: loading dream.are
+Tue Oct 28 11:37:09 2003 :: loading dylan.are
+Tue Oct 28 11:37:09 2003 :: loading canyon.are
+Tue Oct 28 11:37:09 2003 :: loading galaxy.are
+Tue Oct 28 11:37:09 2003 :: loading mobfact.are
+Tue Oct 28 11:37:09 2003 :: loading start.are
+Tue Oct 28 11:37:09 2003 :: loading quest.are
+Tue Oct 28 11:37:09 2003 :: loading doom.are
+Tue Oct 28 11:37:09 2003 :: loading Vallanda.are
+Tue Oct 28 11:37:09 2003 :: loading weed.are
+Tue Oct 28 11:37:09 2003 :: loading arena.are
+Tue Oct 28 11:37:09 2003 :: loading astral.are
+Tue Oct 28 11:37:09 2003 :: loading hell.are
+Tue Oct 28 11:37:09 2003 :: loading heaven.are
+Tue Oct 28 11:37:09 2003 :: loading dystopia.are
+Tue Oct 28 11:37:09 2003 :: loading dawnjobo.are
+Tue Oct 28 11:37:09 2003 :: loading classeq.are
+Tue Oct 28 11:37:09 2003 :: loading domeship.are
+Tue Oct 28 11:37:09 2003 :: loading disney.are
+Tue Oct 28 11:37:09 2003 :: loading classhq.are
+Tue Oct 28 11:37:09 2003 :: loading willaz1.are
+Tue Oct 28 11:37:09 2003 :: loading workshop.are
+Tue Oct 28 11:37:09 2003 :: loading jatr1.are
+Tue Oct 28 11:37:09 2003 :: loading palmer.are
+Tue Oct 28 11:37:09 2003 :: loading jungle.are
+Tue Oct 28 11:37:09 2003 :: loading den.are
+Tue Oct 28 11:37:09 2003 :: loading zarius.are
+Tue Oct 28 11:37:09 2003 :: loading area75.are
+Tue Oct 28 11:37:09 2003 :: loading kingone.are
+Tue Oct 28 11:37:09 2003 :: loading area77.are
+Tue Oct 28 11:37:09 2003 :: loading area78.are
+Tue Oct 28 11:37:09 2003 :: loading area79.are
+Tue Oct 28 11:37:09 2003 :: loading area80.are
+Tue Oct 28 11:37:09 2003 :: loading area81.are
+Tue Oct 28 11:37:09 2003 :: loading area82.are
+Tue Oct 28 11:37:09 2003 :: loading area83.are
+Tue Oct 28 11:37:09 2003 :: loading area84.are
+Tue Oct 28 11:37:09 2003 :: loading mobprogs.are
+Tue Oct 28 11:37:09 2003 :: loading area85.are
+Tue Oct 28 11:37:09 2003 :: loading darklady.are
+Tue Oct 28 11:37:09 2003 :: loading crypt.are
+Tue Oct 28 11:37:09 2003 :: loading deathgld.are
+Tue Oct 28 11:37:09 2003 :: loading area87.are
+Tue Oct 28 11:37:09 2003 :: Loading Bans
+Tue Oct 28 11:37:09 2003 :: Loading Leaderboard
+Tue Oct 28 11:37:09 2003 :: Loading Kingdoms
+Tue Oct 28 11:37:09 2003 :: Loading Religions
+Tue Oct 28 11:37:09 2003 :: Loading Wars
+Tue Oct 28 11:37:09 2003 :: Loading Boards
+Tue Oct 28 11:37:09 2003 :: Loading Notes
+Tue Oct 28 11:37:09 2003 :: Loading Disabled
+Tue Oct 28 11:37:09 2003 :: Loading Mudinfo
+Tue Oct 28 11:37:09 2003 :: Loading CCenter
+Tue Oct 28 11:37:09 2003 :: Loading Projects
+Tue Oct 28 11:37:09 2003 :: Loading Coreinfo
+Tue Oct 28 11:37:09 2003 :: Loading Changes
+Tue Oct 28 11:37:09 2003 :: Loading Wizlist.
+Tue Oct 28 11:37:09 2003 :: Loading Socials
+Tue Oct 28 11:37:09 2003 :: Fixing Mobprogs
+Tue Oct 28 11:37:09 2003 :: Loading Artifacts
+Tue Oct 28 11:37:09 2003 :: Copyover recovery initiated
+Tue Oct 28 11:37:09 2003 :: Mindcloud is ready to rock on port 4000.
+Tue Oct 28 11:37:47 2003 :: Meredith has selfdeleted, what a fool.
+Tue Oct 28 11:37:47 2003 :: Meredith has quit.
+Tue Oct 28 11:37:51 2003 :: Meredith trying to connect.
+Tue Oct 28 11:37:59 2003 :: Meredith@209-165-34-244.jps.net new player.
+Tue Oct 28 11:38:06 2003 :: Log Meredith: relevel
+Tue Oct 28 11:51:19 2003 :: Crupi trying to connect.
+Tue Oct 28 11:51:22 2003 :: Crupi@adsl-67-126-198-109.dsl.chic01.pacbell.net has connected.
+Tue Oct 28 12:01:35 2003 ::  input overflow!
+Tue Oct 28 12:01:35 2003 :: Meredith has quit.
+Tue Oct 28 12:01:39 2003 :: Darklady trying to connect.
+Tue Oct 28 12:01:43 2003 :: Metedith trying to connect.
+Tue Oct 28 12:01:46 2003 :: Meredith trying to connect.
+Tue Oct 28 12:01:50 2003 :: Meredith@209-165-34-244.jps.net has connected.
+Tue Oct 28 12:04:45 2003 :: Log Meredith: class mere angel
+Tue Oct 28 12:05:43 2003 :: Log Meredith: pstat meredith
+Tue Oct 28 12:07:25 2003 :: Log Meredith: relevel
+Tue Oct 28 12:08:03 2003 :: Log Crupi: class
+Tue Oct 28 12:08:36 2003 :: Log Crupi: class crupi hobbit
+Tue Oct 28 12:19:20 2003 :: Tax collector got Crupi for 90 bones.
+Tue Oct 28 12:22:28 2003 :: Smiley has quit.
+Tue Oct 28 12:22:52 2003 :: Stones trying to connect.
+Tue Oct 28 12:22:52 2003 :: Stones@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 12:24:13 2003 :: Stones has selfdeleted, what a fool.
+Tue Oct 28 12:24:13 2003 :: Stones has quit.
+Tue Oct 28 12:24:24 2003 :: Stumps trying to connect.
+Tue Oct 28 12:24:24 2003 :: Stumps@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 12:25:16 2003 :: Log Stumps: give 1402 bones nomsyp
+Tue Oct 28 12:25:35 2003 :: Stumps has selfdeleted, what a fool.
+Tue Oct 28 12:25:35 2003 :: Stumps has quit.
+Tue Oct 28 12:25:46 2003 :: Steve trying to connect.
+Tue Oct 28 12:25:46 2003 :: Steve@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 12:27:22 2003 :: Log Steve: give 24000 bones nomsyp
+Tue Oct 28 12:29:02 2003 :: Log Steve: give bag nom
+Tue Oct 28 12:33:55 2003 :: Log Steve: give 14000 bones nomsyp
+Tue Oct 28 12:45:06 2003 :: Log Meredith: class darklady mage
+Tue Oct 28 12:45:12 2003 :: Log Meredith: class meredith mage
+Tue Oct 28 12:45:39 2003 :: Log Nomsyp: give par steve
+Tue Oct 28 12:45:51 2003 :: Steve has quit.
+Tue Oct 28 12:46:16 2003 :: Smiley trying to connect.
+Tue Oct 28 12:46:18 2003 :: Smiley@ACD09089.ipt.aol.com has connected.
+Tue Oct 28 12:55:10 2003 :: Log Meredith: oset
+Tue Oct 28 12:57:29 2003 :: Closing link to Nomsyp.
+Tue Oct 28 12:57:33 2003 :: Nomsyp trying to connect.
+Tue Oct 28 12:57:35 2003 :: Nomsyp@qwest-png-ip136.scinternet.net reconnected.
+Tue Oct 28 13:04:29 2003 :: Crupi has quit.
+Tue Oct 28 13:05:21 2003 :: Akira trying to connect.
+Tue Oct 28 13:05:22 2003 :: Akira@adsl-67-126-198-109.dsl.chic01.pacbell.net has connected.
+Tue Oct 28 13:16:33 2003 :: Tax collector got Anubis for 434523 bones (from bank).
+Tue Oct 28 13:19:12 2003 :: Tax collector got Anubis for 371008 bones (from bank).
+Tue Oct 28 13:19:50 2003 :: Smiley has quit.
+Tue Oct 28 13:23:30 2003 :: Anubis trying to connect.
+Tue Oct 28 13:23:31 2003 :: Kicking off old connection Anubis@68.146.254.21
+Tue Oct 28 13:25:29 2003 :: Tax collector got Akira for 6582 bones (from bank).
+Tue Oct 28 13:27:35 2003 :: Smiley trying to connect.
+Tue Oct 28 13:27:37 2003 :: Smiley@AC90D385.ipt.aol.com has connected.
+Tue Oct 28 13:29:22 2003 :: Smiley has quit.
+Tue Oct 28 13:44:32 2003 :: Log Meredith: pstat akira
+Tue Oct 28 13:46:33 2003 :: Log Meredith: pstat akira
+Read_from_descriptor: Connection reset by peer
+Tue Oct 28 13:49:51 2003 :: Closing link to Nomsyp.
+Tue Oct 28 13:55:44 2003 :: Sinosun trying to connect.
+Tue Oct 28 13:55:46 2003 :: Sinosun@AC81F93E.ipt.aol.com has connected.
+Tue Oct 28 13:59:39 2003 :: Nomsyp has quit.
+Tue Oct 28 14:07:03 2003 :: Log Meredith: pstat akira
+Tue Oct 28 14:15:08 2003 :: Closing link to Zarius.
+Tue Oct 28 14:15:10 2003 :: Zarius trying to connect.
+Tue Oct 28 14:15:11 2003 :: Zarius@64.122.121.146 reconnected.
+Tue Oct 28 14:17:34 2003 :: Terrien trying to connect.
+Tue Oct 28 14:17:35 2003 :: Terrien@dialup-209.246.135.198.Dial1.Dallas1.Level3.net has connected.
+Tue Oct 28 14:26:04 2003 :: Akira has quit.
+Tue Oct 28 14:26:53 2003 :: Terrien has quit.
+Tue Oct 28 14:26:53 2003 :: [*****] BUG: Affect_modify: unknown location -99.
+Tue Oct 28 14:30:52 2003 :: Sinosun has quit.
+Tue Oct 28 14:33:32 2003 :: Smiley trying to connect.
+Tue Oct 28 14:33:34 2003 :: Smiley@AC8AA48C.ipt.aol.com has connected.
+Tue Oct 28 14:40:07 2003 :: Meredith has quit.
+Tue Oct 28 14:46:10 2003 :: Smiley has quit.
+Tue Oct 28 14:46:43 2003 :: Stumps trying to connect.
+Tue Oct 28 14:46:49 2003 :: Stumps@AC8AA48C.ipt.aol.com new player.
+Tue Oct 28 14:47:11 2003 :: Log Anubis: class self mage
+Tue Oct 28 14:51:00 2003 :: Log Stumps: selfclass monk
+Tue Oct 28 14:58:18 2003 :: Akira trying to connect.
+Tue Oct 28 14:58:18 2003 :: Akira@adsl-67-126-198-109.dsl.chic01.pacbell.net has connected.
+Tue Oct 28 14:59:00 2003 :: Akira has quit.
+Tue Oct 28 15:12:18 2003 :: Tax collector got Zarius for 161662 bones.
+Tue Oct 28 15:16:36 2003 :: loading help.are
+Tue Oct 28 15:16:36 2003 :: loading fortress.are
+Tue Oct 28 15:16:36 2003 :: loading kavir.are
+Tue Oct 28 15:16:36 2003 :: loading dragon2.are
+Tue Oct 28 15:16:36 2003 :: loading dragonheart.are
+Tue Oct 28 15:16:36 2003 :: loading sunyata.are
+Tue Oct 28 15:16:36 2003 :: loading eoeasy.are
+Tue Oct 28 15:16:36 2003 :: loading eohard.are
+Tue Oct 28 15:16:36 2003 :: loading midgaard.are
+Tue Oct 28 15:16:36 2003 :: loading atlantis.are
+Tue Oct 28 15:16:36 2003 :: loading air.are
+Tue Oct 28 15:16:36 2003 :: loading limbo.are
+Tue Oct 28 15:16:36 2003 :: loading smurf.are
+Tue Oct 28 15:16:36 2003 :: loading plains.are
+Tue Oct 28 15:16:36 2003 :: loading ultima.are
+Tue Oct 28 15:16:36 2003 :: loading ofcol2.are
+Tue Oct 28 15:16:36 2003 :: loading hitower.are
+Tue Oct 28 15:16:36 2003 :: loading olympus.are
+Tue Oct 28 15:16:36 2003 :: loading shire.are
+Tue Oct 28 15:16:36 2003 :: loading gnome.are
+Tue Oct 28 15:16:36 2003 :: loading wyvern.are
+Tue Oct 28 15:16:36 2003 :: loading catacomb.are
+Tue Oct 28 15:16:36 2003 :: loading hood.are
+Tue Oct 28 15:16:36 2003 :: loading draconia.are
+Tue Oct 28 15:16:36 2003 :: loading mahntor.are
+Tue Oct 28 15:16:36 2003 :: loading trollden.are
+Tue Oct 28 15:16:36 2003 :: loading firenewt.are
+Tue Oct 28 15:16:36 2003 :: loading chapel.are
+Tue Oct 28 15:16:36 2003 :: loading midennir.are
+Tue Oct 28 15:16:36 2003 :: loading grave.are
+Tue Oct 28 15:16:36 2003 :: loading school.are
+Tue Oct 28 15:16:36 2003 :: loading moria.are
+Tue Oct 28 15:16:36 2003 :: loading juargan.are
+Tue Oct 28 15:16:36 2003 :: loading eastern.are
+Tue Oct 28 15:16:36 2003 :: loading pyramid.are
+Tue Oct 28 15:16:36 2003 :: loading drow.are
+Tue Oct 28 15:16:36 2003 :: loading thalos.are
+Tue Oct 28 15:16:36 2003 :: loading mirror.are
+Tue Oct 28 15:16:36 2003 :: loading ofcol.are
+Tue Oct 28 15:16:36 2003 :: loading arachnos.are
+Tue Oct 28 15:16:36 2003 :: loading daycare.are
+Tue Oct 28 15:16:36 2003 :: loading sewer.are
+Tue Oct 28 15:16:36 2003 :: loading valley.are
+Tue Oct 28 15:16:36 2003 :: loading mega1.are
+Tue Oct 28 15:16:36 2003 :: loading marsh.are
+Tue Oct 28 15:16:36 2003 :: loading dream.are
+Tue Oct 28 15:16:36 2003 :: loading dylan.are
+Tue Oct 28 15:16:36 2003 :: loading canyon.are
+Tue Oct 28 15:16:36 2003 :: loading galaxy.are
+Tue Oct 28 15:16:36 2003 :: loading mobfact.are
+Tue Oct 28 15:16:36 2003 :: loading start.are
+Tue Oct 28 15:16:36 2003 :: loading quest.are
+Tue Oct 28 15:16:36 2003 :: loading doom.are
+Tue Oct 28 15:16:36 2003 :: loading Vallanda.are
+Tue Oct 28 15:16:36 2003 :: loading weed.are
+Tue Oct 28 15:16:36 2003 :: loading arena.are
+Tue Oct 28 15:16:36 2003 :: loading astral.are
+Tue Oct 28 15:16:36 2003 :: loading hell.are
+Tue Oct 28 15:16:36 2003 :: loading heaven.are
+Tue Oct 28 15:16:36 2003 :: loading dystopia.are
+Tue Oct 28 15:16:36 2003 :: loading dawnjobo.are
+Tue Oct 28 15:16:36 2003 :: loading classeq.are
+Tue Oct 28 15:16:36 2003 :: loading domeship.are
+Tue Oct 28 15:16:36 2003 :: loading disney.are
+Tue Oct 28 15:16:36 2003 :: loading classhq.are
+Tue Oct 28 15:16:36 2003 :: [*****] FILE: classhq.are LINE: 3719
+Tue Oct 28 15:16:36 2003 :: [*****] BUG: Get_obj_index: bad vnum 40043.
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Write_to_descriptor: Resource temporarily unavailable
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Resource temporarily unavailable
+Write_to_descriptor: Connection reset by peer
+Write_to_descriptor: Resource temporarily unavailable
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Write_to_descriptor: Resource temporarily unavailable
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Write_to_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer

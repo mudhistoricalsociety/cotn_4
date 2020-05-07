@@ -1,0 +1,430 @@
+#AREADATA
+Name        Pentagram~
+Builders    Artemis Pizzaman Moraugh~
+Music       default.mid~
+VNUMs       40300 40399
+Cvnum       0
+Security    9
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#40300
+Guardian Slut Warlord~
+#0A #RC#rh#0a#Wo#Rs #RA#rr#0c#Wh#RM#ra#0g#We#n~
+#0A #RC#rh#0a#Wo#Rs #RA#rr#0c#Wh#RM#ra#0g#We #0is here armed with deadly arcane magicks.#n
+~
+~
+98323 8360 0
+4001 75 20 3
+2 0
+0
+0
+#40301
+belle~
+#PA#pnnabell#Pe #GT#gurenda#Ge#n~
+#PA#pnnabell#Pe#0, daughter of #GFinvarra #0and #PElektra#0 is here playing on her father's #Ythrone#0.#n
+~
+~
+32771 0 0
+3986 0 0 0
+2 0
+0
+0
+#40314
+no name~
+#0An #sI#sl#sl#su#Rs#si#so#sn#si#Bs#st#n~
+#0An #sI#sl#sl#su#Rs#si#so#sn#si#Bs#st #0is here chanting in a lost tongue.#n
+~
+~
+106515 168 0
+4008 100 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#40300
+Throne of Fallen~
+throne of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n~
+The Almighty Throne of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n stands in its glory here.~
+12 131328 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40315
+Book Lura finvarra~
+#nLura's Book of Love~
+A small book, covered in hearts and the name of a Goddess lies here, holding her most intimate thoughts.~
+37 0 0 1
+0 0 0
+#n~
+none~
+0 0 0 0
+1 0
+E
+page1~
+Matt,
+
+Few things on my mind as I think of you when you are not around.
+During the day as you occupy my thoughts, it brings a small
+of pleasure to my face. At night when I lay down to sleep
+you float quietly through my dreams.
+I hope that we can make this thing between us progress further.
+I am deeply attracted to you, wishing with all I have to be there now.
+I know you get angry with me when I silence you. I am sorry that my
+Imming ways bother you. I hope it does not drive you off. I hope
+you remember that even when you get angry with me, my feelings do not
+change for you. Though your anger bothers me.
+I enjoy being with you, and how good you make me feel.
+Making you smile or laugh is one of the pleasures I recieve.
+I hope someday soon to give you more, everything you deserve.
+For I would give you the moon and stars if you asked me too.
+ 
+With love,
+Lura
+~
+~
+~
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40398
+moraugh's bag of tricks unique~
+#gMoraugh's #rBag #nof #bTricks#n~
+#gMoraugh's #rBag #nof #bTricks#n floats here~
+15 16387 0 524289
+0 0 0
+none~
+none~
+99999999 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40399
+Moraugh Token~
+#sMoraugh's Token#n~
+Moraugh's Token lies here.~
+37 16512 0 1
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40300
+#0The Entrance to the Castle#n~
+#0Mighty Stone walls stand before you, the glooming shadows #0casting over
+your entire body A #0large moat surrounds the #0castle, however the drawbridge
+is up and no one is in sight.  #0Something catches your eye, as you quickly
+turn around.  A #0large vortex stands before you, tearing the fabric of time
+#0and reality.#n  
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40301
+S
+#40301
+#0The Castle Foyer~
+#0After entering the vortex, you find yourself in a completely
+#0different atmosphere.  Apparently, you've somehow been #0transported to
+the inside of the castle.  The outside sure #0doesn't do it justice.  #0It
+is expensively decorated, with #0large elaborate paintings covering the
+walls, intricate vases #0and statues, and the most eloquent silk rugs you
+have ever #0seen.  Torches line the walls, and hallways lead in all
+#0directions.  #n 
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40302
+D1
+~
+~
+0 0 40304
+D2
+~
+~
+0 40301 40300
+D3
+~
+~
+0 0 40306
+S
+#40302
+#0A Seemingly Endless Hallway#n~
+#0This hallway seems to go on forever, #0fixtures holding #0candles line
+the #0walls and there is a plush, #0red satin #0carpet #0on the #0floor.  #n
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40315
+D1
+~
+~
+0 0 40307
+D2
+~
+~
+0 0 40301
+D3
+~
+~
+0 0 40308
+S
+#40303
+#BThe Battlements of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n~
+~
+8196 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+S
+#40304
+#0The Castle #YTreasury#n~
+#0This room is filled with #0large piles of gold.  The only part #0of the
+floor that can be seen is a #0small pathway dug out #0that #0leads to a
+counter.  From #0behind the counter a #0strange #0man #0jumps #0up, peering
+around.  He appears to be #0ancient, #0at #0least a #0hundred years old. 
+However, there #0is great #0wisdom in his #0eyes.  #n 
+~
+1052676 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 40301
+S
+#40305
+#BMess Hall of #0x#r*#0x#rf#ya#rl#yl#re#yn#0x#r*#0x#n~
+~
+1048580 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+S
+#40306
+#0The #RP#re#0n#Wt#Ra#rg#0r#Wa#Rm #0Chamber~
+#0At the end of a long hallway, you find yourself #0in a huge #0room. 
+#0Hundreds of burning candles #0line the floor, making #0small #0walkways. 
+There is #0a giant pentagram in the #0middle #0of the floor, #0with purple
+satin #0cushions on #0each point, #0and a rather #0large cushion in the
+middle.  #0This chamber is #0undoubtedly used for sacred and arcane
+#0rituals.  #n 
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40301
+S
+#40307
+#0The Castle Armoury#n~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 40302
+S
+#40308
+#0An Arched Entryway~
+#0There is a plaque on the wall, #0with strange words etched #0into it. 
+You're #0not quite sure #0what it says, #0as it #0seems to #0be in some sort
+#0of ancient or #0forgotten text.  #0A dim glow comes from the #0entryway. 
+#n 
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40313
+D1
+~
+~
+0 0 40302
+D3
+~
+~
+0 0 40309
+S
+#40309
+#0Chambers of the #p.:#PE#pssenc#Pe #PS#porcere#Pr#p:.~
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40308
+D3
+~
+~
+0 0 40310
+S
+#40310
+#0Chambers of the #c.:#CA#cer#Co #CS#corcere#Cr#c:.~
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 40311
+D1
+~
+~
+0 0 40309
+S
+#40311
+#0Chambers of the #y.:#YT#yerrai#Yn #YS#yorcere#Yr#y:.'~
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40312
+D2
+~
+~
+0 0 40310
+S
+#40312
+#0Chambers of the #b.:#BC#bascad#Be #BS#borcere#Br#b:.~
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40313
+D3
+~
+~
+0 0 40311
+S
+#40313
+#0The Study of the #r.:#RI#rnfern#Ro #RS#rorcere#Rr#r:.~
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 40308
+D3
+~
+~
+0 0 40312
+S
+#40314
+#0The Castle #WHealing #0Chamber#n~
+#0Upon entering, the first thing that #0catches your attention, #0is the
+chanting.  #0A very young, #0very handsome man #0paces #0back and #0forth
+across the #0chamber, #0chanting in an #0odd #0tongue.  #0Cots line the
+#0walls, some having #0occupants.  #0In #0the center, #0rests a large #0tub
+of sorts, #0where the #0injured #0soak their #0wounds.  #n 
+~
+1048576 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 40315
+S
+#40315
+#GF#gi#0n#Wv#Ga#gr#0r#Wa#G'#Gs #0Throne Room~
+#0The hallway opens up into an #0extremelly large chamber.  #0Paintings
+of fierce #0battles line #0the walls, #0as well as #0a large #0insignias and
+#0suits of armor.  #0A large throne #0rests in the #0center of the #0room,
+made entirely #0of bone #0and dragonscale.  #0Clearly, this is #0where the
+Overlord #0sits.  #n 
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 40314
+D2
+~
+~
+0 0 40302
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+M 40300 spec_guard_one
+M 40314 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 40300 1 40301
+M 0 40314 1 40314
+S
+
+
+
+#$

@@ -1,0 +1,188 @@
+#AREADATA
+Name        Hathor  Hathor's Domicile~
+Builders    Hathor~
+Music       default.mid~
+VNUMs       100000 100010
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#100000
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+147 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100001
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+152 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100002
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+150 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100003
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+148 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100004
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+151 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100005
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+149 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100006
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+149 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100007
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+150 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100008
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+148 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100009
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+150 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#100010
+slave~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n~
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LS#Pl#Ra#Yv#Ge#n
+~
+~
+3 0 0
+151 0 0 0d0+0 0d0+0
+0
+0 0 1
+S
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#100000
+#RH#Ya#Gt#Lh#Po#Rr#Y'#Gs #LD#Po#Rm#Yi#Gc#Li#Pl#Re#n~
+~
+0 1
+D0
+~
+~
+0 0 100001
+S
+#100001
+~
+~
+0 0
+D2
+~
+~
+0 0 100000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 100000 1 100000
+M 0 100001 1 100000
+M 0 100002 1 100000
+M 0 100003 1 100000
+M 0 100004 1 100000
+M 0 100005 1 100000
+M 0 100006 1 100000
+M 0 100007 1 100000
+M 0 100008 1 100000
+M 0 100009 1 100000
+M 0 100010 1 100000
+S
+
+
+
+#$

@@ -1,0 +1,315 @@
+[*****] BUG: Read_object: vnum 32 bad type.
+[*****] BUG: Read_object: vnum 34 bad type.
+[*****] BUG: Read_object: vnum 308 bad type.
+[*****] BUG: Read_object: vnum 1365 bad type.
+[*****] BUG: Read_object: vnum 3139 bad type.
+[*****] BUG: Read_object: vnum 3140 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 5012 bad type.
+[*****] BUG: Read_object: vnum 5011 bad type.
+[*****] BUG: Read_object: vnum 5013 bad type.
+[*****] BUG: Read_object: vnum 7306 bad type.
+[*****] BUG: Read_object: vnum 9201 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14029 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14024 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14028 bad type.
+[*****] BUG: Read_object: vnum 14023 bad type.
+[*****] BUG: Read_object: vnum 14022 bad type.
+[*****] BUG: Read_object: vnum 31062 bad type.
+[*****] BUG: Read_object: vnum 31062 bad type.
+[*****] BUG: Read_object: vnum 31058 bad type.
+[*****] BUG: Read_object: vnum 31058 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31060 bad type.
+[*****] BUG: Read_object: vnum 31061 bad type.
+[*****] BUG: Read_object: vnum 31063 bad type.
+[*****] BUG: Read_object: vnum 30318 bad type.
+[*****] BUG: Read_object: vnum 101510 bad type.
+[*****] BUG: Read_object: vnum 101507 bad type.
+[*****] BUG: Read_object: vnum 101508 bad type.
+[*****] BUG: Read_object: vnum 101509 bad type.
+[*****] BUG: Read_object: vnum 101506 bad type.
+[*****] BUG: Read_object: vnum 101502 bad type.
+[*****] BUG: Read_object: vnum 101501 bad type.
+[*****] BUG: Read_object: vnum 101503 bad type.
+[*****] BUG: Read_object: vnum 101504 bad type.
+[*****] BUG: Read_object: vnum 101505 bad type.
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: Read_object: vnum 32 bad type.
+[*****] BUG: Read_object: vnum 34 bad type.
+[*****] BUG: Read_object: vnum 308 bad type.
+[*****] BUG: Read_object: vnum 1365 bad type.
+[*****] BUG: Read_object: vnum 3139 bad type.
+[*****] BUG: Read_object: vnum 3140 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 5012 bad type.
+[*****] BUG: Read_object: vnum 5011 bad type.
+[*****] BUG: Read_object: vnum 5013 bad type.
+[*****] BUG: Read_object: vnum 7306 bad type.
+[*****] BUG: Read_object: vnum 9201 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14029 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14024 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14028 bad type.
+[*****] BUG: Read_object: vnum 14023 bad type.
+[*****] BUG: Read_object: vnum 14022 bad type.
+[*****] BUG: Read_object: vnum 31062 bad type.
+[*****] BUG: Read_object: vnum 31062 bad type.
+[*****] BUG: Read_object: vnum 31058 bad type.
+[*****] BUG: Read_object: vnum 31058 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31060 bad type.
+[*****] BUG: Read_object: vnum 31061 bad type.
+[*****] BUG: Read_object: vnum 31063 bad type.
+[*****] BUG: Read_object: vnum 30318 bad type.
+[*****] BUG: Read_object: vnum 101510 bad type.
+[*****] BUG: Read_object: vnum 101507 bad type.
+[*****] BUG: Read_object: vnum 101508 bad type.
+[*****] BUG: Read_object: vnum 101509 bad type.
+[*****] BUG: Read_object: vnum 101506 bad type.
+[*****] BUG: Read_object: vnum 101502 bad type.
+[*****] BUG: Read_object: vnum 101501 bad type.
+[*****] BUG: Read_object: vnum 101503 bad type.
+[*****] BUG: Read_object: vnum 101504 bad type.
+[*****] BUG: Read_object: vnum 101505 bad type.
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: Read_object: vnum 32 bad type.
+[*****] BUG: Read_object: vnum 34 bad type.
+[*****] BUG: Read_object: vnum 308 bad type.
+[*****] BUG: Read_object: vnum 1365 bad type.
+[*****] BUG: Read_object: vnum 3139 bad type.
+[*****] BUG: Read_object: vnum 3140 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3134 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 3610 bad type.
+[*****] BUG: Read_object: vnum 5012 bad type.
+[*****] BUG: Read_object: vnum 5011 bad type.
+[*****] BUG: Read_object: vnum 5013 bad type.
+[*****] BUG: Read_object: vnum 7306 bad type.
+[*****] BUG: Read_object: vnum 9201 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14029 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14024 bad type.
+[*****] BUG: Read_object: vnum 14012 bad type.
+[*****] BUG: Read_object: vnum 14028 bad type.
+[*****] BUG: Read_object: vnum 14023 bad type.
+[*****] BUG: Read_object: vnum 14022 bad type.
+[*****] BUG: Read_object: vnum 31062 bad type.
+[*****] BUG: Read_object: vnum 31062 bad type.
+[*****] BUG: Read_object: vnum 31058 bad type.
+[*****] BUG: Read_object: vnum 31058 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31059 bad type.
+[*****] BUG: Read_object: vnum 31060 bad type.
+[*****] BUG: Read_object: vnum 31061 bad type.
+[*****] BUG: Read_object: vnum 31063 bad type.
+[*****] BUG: Read_object: vnum 30318 bad type.
+[*****] BUG: Read_object: vnum 101510 bad type.
+[*****] BUG: Read_object: vnum 101507 bad type.
+[*****] BUG: Read_object: vnum 101508 bad type.
+[*****] BUG: Read_object: vnum 101509 bad type.
+[*****] BUG: Read_object: vnum 101506 bad type.
+[*****] BUG: Read_object: vnum 101502 bad type.
+[*****] BUG: Read_object: vnum 101501 bad type.
+[*****] BUG: Read_object: vnum 101503 bad type.
+[*****] BUG: Read_object: vnum 101504 bad type.
+[*****] BUG: Read_object: vnum 101505 bad type.
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0
+[*****] BUG: load_class_file: no match: Min_Damcap
+[*****] BUG: load_class_file: no match: 0

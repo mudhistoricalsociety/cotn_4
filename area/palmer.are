@@ -1,0 +1,2295 @@
+#AREADATA
+Name        Segoy   Frogtown~
+Builders    Segoy~
+Music       default.mid~
+VNUMs       78000 78099
+Cvnum       0
+Security    5
+Areabits    0
+SecType  32
+WeatAl  1024
+End
+
+
+
+#MOBILES
+#78000
+Wutulah~
+the Wutulah the Wise~
+Wutulah lays in a seductive pose.
+~
+~
+3 272679602 10000
+150002 0 0 0
+0 0
+0
+0
+#78001
+Lemming~
+#0L#be#0m#bm#0i#bn#0g#n~
+A #0L#be#0m#bm#0i#bn#0g#n
+~
+~
+19 0 -1000
+17 0 0 0
+0 0
+0
+0
+#78002
+Peacekeeper~
+The PeaceKeeper~
+The PeaceKeeper stands tall.
+~
+~
+75779 598190 0
+2487 0 0 0
+0 0
+0
+0
+#78003
+frog~
+#0A #rT#0h#rr#0e#re #0L#re#0g#rg#0e#rd #0F#rr#0o#rg#n~
+#0A #rT#0h#rr#0e#re #0L#re#0g#rg#0e#rd #0F#rr#0o#rg#n crawls around
+~
+~
+19 69632 -1000
+60 0 0 0
+0 0
+0
+0
+#78004
+Salamander~
+#0A #rT#0w#ro#0-#rt#0o#rn#0g#ru#0e#rd #0S#ra#0l#ra#0m#ra#0n#rd#0e#rr#n~
+#0A #rT#0w#ro#0-#rt#0o#rn#0g#ru#0e#rd #0S#ra#0l#ra#0m#ra#0n#rd#0e#rr#n is baking in the sun.
+~
+~
+23 4784128 -100
+73 0 0 0
+0 0
+0
+0
+#78005
+Brown Recluse~
+#rA #pB#rr#po#rw#pn #rR#pe#rc#pl#ru#ps#re#n~
+#rA #pB#rr#po#rw#pn #rR#pe#rc#pl#ru#ps#re#n spits venom from it's fangs
+~
+~
+3 65536 0
+111 0 0 0
+0 0
+0
+0
+#78006
+Hell Spawn~
+#0A #rH#se#0l#rl #sS#0p#ra#sw#0n#n~
+#0A #rH#se#0l#rl #sS#0p#ra#sw#0n#n has been sent to destroy you.
+~
+~
+1 0 -1000
+191 65 4 2
+1 0
+0
+0
+#78010
+Dante~
+#GD#Ba#Gn#Bt#Ge #BT#Gh#Be #GW#Bi#Gs#Be#n~
+#GD#Ba#Gn#Bt#Ge #BT#Gh#Be #GW#Bi#Gs#Be#n is here.
+~
+~
+1 0 0
+55002 0 0 0
+0 0
+0
+0
+#78013
+dark hunter~
+The Darkhunter~
+The Darkhunter is prowling here.
+~
+~
+2051 1622016 -1000
+189 30 5 2
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#78000
+Training Bracer~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Cr#Ya#Cc#Ye#Cr~
+9 0 0 4097
+0 0 0
+none~
+none~
+25 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78001
+Training gloves~
+#CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+#CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CG#Yl#Co#Yv#Ce#Ys#n~
+9 0 0 129
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+13 -1000
+A
+12 -1000
+A
+14 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78002
+Training Ring~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YR#Ci#Yn#Cg#n~
+9 0 0 3
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78003
+Training Necklace~
+#CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+#CA #YT#Cr#Ya#Ci#Yn#Cg #YN#Ce#Yc#Ck#Yl#Ca#Yc#Ce#n~
+9 0 0 5
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78004
+Training Mask~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YM#Ca#Ys#Ck#n~
+9 0 0 32769
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78005
+Training Belt~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YB#Ce#Yl#Ct#n~
+9 0 0 2049
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78006
+Training Pads~
+#CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+#CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CP#Ya#Cd#Ys#n~
+9 0 0 257
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78007
+Training Boots~
+#CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+#CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CB#Yo#Co#Yt#Cs#n~
+9 0 0 65
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78008
+Training Leg Guards~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YL#Ce#Yg #CG#Yu#Ca#Yr#Cd#n~
+9 0 0 33
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78009
+Training Helm~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YH#Ce#Yl#Cm#n~
+9 0 0 17
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78010
+Training Plate~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+#CA #YT#Cr#Ya#Ci#Yn#Ci#Yn#Cg #YP#Cl#Ya#Ct#Ye#n~
+9 0 0 9
+0 0 0
+none~
+none~
+0 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78011
+Devils Advocate~
+#bD#re#bv#ri#bl#r'#bs #rA#bd#rv#bo#rc#ba#rt#be#n~
+#bD#re#bv#ri#bl#r'#bs #rA#bd#rv#bo#rc#ba#rt#be#n~
+5 278528 0 8193
+0 0 0
+none~
+none~
+24 10 20 1
+1 0
+A
+19 75
+A
+18 75
+A
+14 50
+A
+12 50
+A
+13 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78012
+Training Sleeves~
+#CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+#CS#Yo#Cm#Ye #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CS#Yl#Ce#Ye#Cv#Ye#Cs#n~
+9 0 0 257
+0 0 0
+none~
+none~
+25 0 0 0
+1 50000
+A
+13 -1000
+A
+12 -1000
+A
+14 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78013
+Training Cape~
+#CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+#CA #CT#Yr#Ca#Yi#Cn#Yi#Cn#Yg #CC#Ya#Cp#Ye#n~
+9 0 0 1025
+0 0 0
+none~
+none~
+25 0 0 0
+1 50000
+A
+13 -1000
+A
+12 -1000
+A
+14 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78014
+Training bucket~
+#CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+#CA T#yr#Ca#yi#Cn#yi#Cn#yg #Cb#yu#Cc#yk#Ce#yt#n~
+9 0 0 65537
+0 0 0
+none~
+none~
+150 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78015
+sword prosperity~
+#sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+#sS#sw#so#sr#sd #sO#sf #sP#sr#so#ss#sp#se#sr#si#st#sy#n~
+5 0 65536 8193
+0 0 0
+none~
+none~
+0 45 150 1
+1 75000
+A
+18 20
+A
+19 20
+A
+17 -20
+A
+13 50
+A
+12 50
+A
+14 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78016
+Training mark~
+#CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+#CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ya#Cr#yk#n~
+9 0 0 131073
+0 0 0
+none~
+none~
+150 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78017
+Medicine ball training~
+#CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+#CA M#ye#Cd#yi#Cc#yi#Cn#ye #CB#ya#Cl#yl#n~
+9 0 0 524289
+0 0 0
+none~
+none~
+150 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78018
+Training Medal~
+#CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+#CA T#yr#Ca#yi#Cn#yi#Cn#yg #CM#ye#Cd#ya#Cl#n~
+9 0 0 262145
+0 0 0
+none~
+none~
+150 0 0 0
+1 50000
+A
+14 -1000
+A
+12 -1000
+A
+13 -1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78019
+Zippo Lighter~
+#0A Zippo Lighter#n~
+#0A Zippo Lighter#n~
+13 0 0 1
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78020
+Spider Fangs~
+#rS#pp#ri#pd#re#pr #rF#pa#rn#pg#rs#n~
+#rS#pp#ri#pd#re#pr #rF#pa#rn#pg#rs#n~
+5 0 0 8193
+0 0 0
+none~
+none~
+0 25 45 10
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78021
+Roman Bracer~
+#0R#ro#bm#0a#rn #bB#0r#ra#bc#0e#rr#n~
+#0R#ro#bm#0a#rn #bB#0r#ra#bc#0e#rr#n~
+9 0 0 4097
+0 0 0
+none~
+none~
+25 0 0 0
+1 0
+A
+18 55
+A
+19 55
+A
+12 120
+A
+13 120
+A
+14 120
+A
+-99 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78022
+Roman Ring~
+#0R#ro#bm#0a#rn #bR#0i#rn#bg#n~
+#0R#ro#bm#0a#rn #bR#0i#rn#bg#n~
+9 0 0 3
+0 0 0
+none~
+none~
+25 0 0 0
+1 0
+A
+13 120
+A
+14 120
+A
+12 120
+A
+18 55
+A
+19 55
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78023
+Roman Amulet~
+short #0R#ro#bm#0a#rn #bA#0m#ru#bl#0e#rt#n~
+Short #0R#ro#bm#0a#rn #bA#0m#ru#bl#0e#rt#n~
+9 0 0 0
+0 0 0
+none~
+none~
+25 0 0 0
+1 0
+A
+13 120
+A
+14 120
+A
+12 120
+A
+18 55
+A
+19 55
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78024
+Flame Thrower~
+#R>#r.#R> #YA Half Made Flame Thrower #R<#r.#R<#n~
+#R>#r.#R> #YA Half Made Flame Thrower #R<#r.#R<#n~
+13 0 0 8193
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78025
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78026
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78027
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78028
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78029
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78030
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78031
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78032
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78033
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#78034
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+none~
+none~
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#78000
+#BYe Ole Training Shop#n~
+This is where you buy training equipment.
+~
+4 0 1
+78000 78001 78002 78003 78004 78005 78006 78007 78008 78009 78010 0 78012 78013 78014 78015 78016 78017 78018 0 0 0 0 0 0 
+D0
+~
+~
+3 0 3016
+S
+#78001
+A New Begining~
+~
+1030 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78002
+D4
+~
+~
+0 0 3048
+S
+#78002
+Path of Choices~
+You have come to a place where you have to make a choice. The Road of Ease strays to the west. The Walkway of Skill continues north. The Path of Fire and Brimstone starts east.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78005
+D1
+~
+~
+0 0 78003
+D2
+~
+~
+0 0 78001
+D3
+~
+~
+0 0 78004
+D4
+~
+~
+0 0 40700
+S
+#78003
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+~
+16785410 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78034
+S
+#78004
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777218 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78006
+D3
+~
+~
+0 0 78012
+S
+#78005
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+16777218 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78022
+S
+#78006
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78007
+D2
+~
+~
+0 0 78004
+D3
+~
+~
+0 0 78011
+S
+#78007
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78008
+D2
+~
+~
+0 0 78006
+D3
+~
+~
+0 0 78010
+S
+#78008
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 78007
+D3
+~
+~
+0 0 78009
+S
+#78009
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78008
+D2
+~
+~
+0 0 78010
+D3
+~
+~
+0 0 78021
+S
+#78010
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78009
+D1
+~
+~
+0 0 78007
+S
+#78011
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78006
+D2
+~
+~
+0 0 78012
+S
+#78012
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78011
+D1
+~
+~
+0 0 78004
+D3
+~
+~
+0 0 78013
+S
+#78013
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78012
+D3
+~
+~
+0 0 78014
+S
+#78014
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78015
+D1
+~
+~
+0 0 78013
+S
+#78015
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 78014
+D3
+~
+~
+0 0 78016
+S
+#78016
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78017
+D1
+~
+~
+0 0 78015
+S
+#78017
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78018
+D2
+~
+~
+0 0 78016
+S
+#78018
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78019
+D3
+~
+~
+0 0 78017
+S
+#78019
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78020
+D2
+~
+~
+0 0 78018
+S
+#78020
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+17301506 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78021
+D3
+~
+~
+0 0 78019
+S
+#78021
+The Road of Ease~
+The Road of Ease is plagued by frogs and other infectious amphibians. Something wrong has happened here.
+~
+16777218 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78009
+D3
+~
+~
+0 0 78020
+S
+#78022
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78023
+D2
+~
+~
+0 0 78005
+S
+#78023
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78024
+D2
+~
+~
+0 0 78022
+S
+#78024
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78025
+D2
+~
+~
+0 0 78023
+S
+#78025
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78026
+D2
+~
+~
+0 0 78024
+S
+#78026
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78027
+D2
+~
+~
+0 0 78025
+S
+#78027
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78028
+D2
+~
+~
+0 0 78026
+S
+#78028
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78029
+D2
+~
+~
+0 0 78027
+S
+#78029
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78030
+D2
+~
+~
+0 0 78028
+S
+#78030
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78031
+D2
+~
+~
+0 0 78029
+S
+#78031
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78032
+D2
+~
+~
+0 0 78030
+S
+#78032
+The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+~
+17301510 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78033
+D2
+~
+~
+0 0 78031
+S
+#78033
+The End of The Walkway of Skill~
+The walkway of skill is dominated by Brown Recluses. Antidote may be usefull.
+Congratulations young warrior, you have survived this journey. An epic battle awaits you.
+~
+16777222 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 78032
+S
+#78034
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+~
+16785414 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78035
+D3
+~
+~
+0 0 78003
+S
+#78035
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+The Path of Fire and Brimstone starts here.
+The Path of Fire and Brimstone starts here.
+~
+16785414 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78038
+D3
+~
+~
+0 0 78034
+S
+#78036
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 78035
+S
+#78037
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D3
+~
+~
+0 0 78035
+S
+#78038
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+~
+16785414 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78039
+D3
+~
+~
+0 0 78035
+S
+#78039
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+~
+16785414 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78040
+D2
+~
+~
+0 0 78038
+S
+#78040
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+~
+16785414 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78041
+D2
+~
+~
+0 0 78039
+S
+#78041
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+~
+16785414 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78042
+D2
+~
+~
+0 0 78040
+S
+#78042
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+~
+17309702 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78043
+D2
+~
+~
+0 0 78041
+S
+#78043
+The Path of Fire and Brimstone~
+The Path of Fire and Brimstone starts here.
+~
+16785414 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78044
+D2
+~
+~
+0 0 78042
+S
+#78044
+Dante's Library~
+~
+16778246 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081164540 
+S
+#78045
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78046
+S
+#78046
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78047
+D2
+~
+~
+0 0 78045
+S
+#78047
+Rodent Den~
+The walls of this giant place are made of glass.
+The walls of this giant place are made of glass.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78049
+D1
+~
+~
+0 0 78061
+D2
+~
+~
+0 0 78046
+S
+#78048
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 78047
+S
+#78049
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78050
+D1
+~
+~
+0 0 78060
+D2
+~
+~
+0 0 78047
+S
+#78050
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78051
+D2
+~
+~
+0 0 78049
+S
+#78051
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78052
+D2
+~
+~
+0 0 78060
+D3
+~
+~
+0 0 78050
+S
+#78052
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78053
+D2
+~
+~
+0 0 78059
+D3
+~
+~
+0 0 78051
+S
+#78053
+Rodent Den~
+The walls of this giant place are made of glass.
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78054
+D2
+~
+~
+0 0 78058
+D3
+~
+~
+0 0 78052
+S
+#78054
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D1
+~
+~
+0 0 78055
+D2
+~
+~
+0 0 78057
+D3
+~
+~
+0 0 78053
+S
+#78055
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D2
+~
+~
+0 0 78056
+D3
+~
+~
+0 0 78054
+S
+#78056
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78055
+D2
+~
+~
+0 0 78065
+D3
+~
+~
+0 0 78057
+S
+#78057
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78054
+D1
+~
+~
+0 0 78056
+D2
+~
+~
+0 0 78064
+D3
+~
+~
+0 0 78058
+S
+#78058
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78053
+D1
+~
+~
+0 0 78057
+D2
+~
+~
+0 0 78063
+D3
+~
+~
+0 0 78059
+S
+#78059
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78052
+D1
+~
+~
+0 0 78058
+D2
+~
+~
+0 0 78062
+D3
+~
+~
+0 0 78060
+S
+#78060
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78051
+D1
+~
+~
+0 0 78059
+D2
+~
+~
+0 0 78061
+D3
+~
+~
+0 0 78049
+S
+#78061
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78060
+D1
+~
+~
+0 0 78062
+D3
+~
+~
+0 0 78047
+S
+#78062
+Rodent Den~
+The walls of this giant place are made of glass.
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78059
+D1
+~
+~
+0 0 78063
+D3
+~
+~
+0 0 78061
+S
+#78063
+~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78058
+D1
+~
+~
+0 0 78064
+D3
+~
+~
+0 0 78062
+S
+#78064
+~
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78057
+D1
+~
+~
+0 0 78065
+D3
+~
+~
+0 0 78063
+S
+#78065
+Rodent Den~
+The walls of this giant place are made of glass.
+~
+0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+D0
+~
+~
+0 0 78056
+D3
+~
+~
+0 0 78064
+S
+#78066
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081174184 
+S
+#78067
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081174636 
+S
+#78068
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081175088 
+S
+#78069
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081175540 
+S
+#78070
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081175992 
+S
+#78071
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081176444 
+S
+#78072
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081176896 
+S
+#78073
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081177348 
+S
+#78074
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081177800 
+S
+#78075
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081178252 
+S
+#78076
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081178704 
+S
+#78077
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081179156 
+S
+#78078
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081179608 
+S
+#78079
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081180060 
+S
+#78080
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081180512 
+S
+#78081
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081180964 
+S
+#78082
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081181416 
+S
+#78083
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081071324 
+S
+#78084
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081071776 
+S
+#78085
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081072348 
+S
+#78086
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081072920 
+S
+#78087
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081073492 
+S
+#78088
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081073944 
+S
+#78089
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081074516 
+S
+#78090
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081074968 
+S
+#78091
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081075420 
+S
+#78092
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081075872 
+S
+#78093
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081076324 
+S
+#78094
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081076896 
+S
+#78095
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081077348 
+S
+#78096
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081077800 
+S
+#78097
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081078252 
+S
+#78098
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1081078704 
+S
+#78099
+~
+~
+4 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+M 78000 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 3010 1 78000
+M 0 78000 1 78001
+M 0 78006 30 78003
+E 0 78011 0 16
+M 0 78003 60 78004
+M 0 78004 60 78004
+M 0 78005 50 78005
+E 0 78020 0 16
+M 0 78003 60 78006
+M 0 78004 60 78006
+M 0 78003 60 78007
+M 0 78004 60 78007
+M 0 78003 60 78008
+M 0 78004 60 78008
+M 0 78003 60 78009
+M 0 78004 60 78009
+M 0 78003 60 78010
+M 0 78004 60 78010
+M 0 78003 60 78011
+M 0 78004 60 78011
+M 0 78003 60 78012
+M 0 78004 60 78012
+M 0 78003 60 78013
+M 0 78004 60 78013
+M 0 78003 60 78014
+M 0 78004 60 78014
+M 0 78003 60 78015
+M 0 78004 60 78015
+M 0 78003 60 78016
+M 0 78004 60 78016
+M 0 78003 60 78017
+M 0 78004 60 78017
+M 0 78003 60 78018
+M 0 78004 60 78018
+M 0 78003 60 78019
+M 0 78004 60 78019
+M 0 78003 60 78020
+M 0 78004 60 78020
+M 0 78003 60 78021
+M 0 78004 60 78021
+M 0 78005 50 78022
+E 0 78020 0 16
+M 0 78005 50 78023
+E 0 78020 0 16
+M 0 78005 50 78024
+E 0 78020 0 16
+M 0 78005 50 78025
+E 0 78020 0 16
+M 0 78005 50 78026
+E 0 78020 0 16
+M 0 78005 50 78027
+E 0 78020 0 16
+M 0 78005 50 78028
+E 0 78020 0 16
+M 0 78005 50 78029
+E 0 78020 0 16
+M 0 78005 50 78030
+E 0 78020 0 16
+M 0 78005 50 78031
+E 0 78020 0 16
+M 0 78005 50 78032
+E 0 78020 0 16
+M 0 78005 50 78033
+E 0 78020 0 16
+M 0 78006 30 78034
+E 0 78011 0 16
+M 0 78006 30 78035
+E 0 78011 0 16
+M 0 78006 30 78038
+E 0 78011 0 16
+M 0 78006 30 78039
+E 0 78011 0 16
+M 0 78006 30 78040
+E 0 78011 0 16
+M 0 78006 30 78041
+E 0 78011 0 16
+M 0 78006 30 78042
+E 0 78011 0 16
+M 0 78006 30 78043
+E 0 78011 0 16
+M 0 78010 1 78044
+M 0 78001 60 78047
+M 0 78001 60 78049
+M 0 78001 60 78050
+M 0 78001 60 78051
+M 0 78001 60 78052
+M 0 78001 60 78053
+M 0 78001 60 78054
+M 0 78001 60 78055
+M 0 78001 60 78056
+M 0 78001 60 78057
+M 0 78001 60 78058
+M 0 78001 60 78059
+M 0 78001 60 78060
+M 0 78001 60 78061
+M 0 78001 60 78062
+M 0 78001 60 78063
+M 0 78001 60 78064
+M 0 78001 60 78065
+S
+
+
+
+#$

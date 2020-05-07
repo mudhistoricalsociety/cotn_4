@@ -1,0 +1,13 @@
+activate 12 Xrakisis
+pull 12 Xrakisis
+press 12 Xrakisis
+ragnarok 12 Zarius
+newwho 12 Zarius
+sell 12 Zarius
+runeeq 12 Zarius
+createbase 12 Zarius
+pathfind 12 Zarius
+surrender 12 Zarius
+hellblades 12 Zarius
+hedit 12 Xrakisis
+END
